@@ -1,0 +1,2282 @@
+[
+  {
+    "name": "安徽",
+    "parent": 0,
+    "value": "安徽"
+  },
+  {
+    "name": "安庆",
+    "parent": "安徽",
+    "value": "安庆"
+  },
+  {
+    "name": "蚌埠",
+    "parent": "安徽",
+    "value": "蚌埠"
+  },
+  {
+    "name": "亳州",
+    "parent": "安徽",
+    "value": "亳州"
+  },
+  {
+    "name": "巢湖",
+    "parent": "安徽",
+    "value": "巢湖"
+  },
+  {
+    "name": "滁州",
+    "parent": "安徽",
+    "value": "滁州"
+  },
+  {
+    "name": "池州",
+    "parent": "安徽",
+    "value": "池州"
+  },
+  {
+    "name": "阜阳",
+    "parent": "安徽",
+    "value": "阜阳"
+  },
+  {
+    "name": "淮北",
+    "parent": "安徽",
+    "value": "淮北"
+  },
+  {
+    "name": "合肥",
+    "parent": "安徽",
+    "value": "合肥"
+  },
+  {
+    "name": "淮南",
+    "parent": "安徽",
+    "value": "淮南"
+  },
+  {
+    "name": "黄山",
+    "parent": "安徽",
+    "value": "黄山"
+  },
+  {
+    "name": "六安",
+    "parent": "安徽",
+    "value": "六安"
+  },
+  {
+    "name": "马鞍山",
+    "parent": "安徽",
+    "value": "马鞍山"
+  },
+  {
+    "name": "宿州",
+    "parent": "安徽",
+    "value": "宿州"
+  },
+  {
+    "name": "铜陵",
+    "parent": "安徽",
+    "value": "铜陵"
+  },
+  {
+    "name": "芜湖",
+    "parent": "安徽",
+    "value": "芜湖"
+  },
+  {
+    "name": "宣城",
+    "parent": "安徽",
+    "value": "宣城"
+  },
+  {
+    "name": "澳门",
+    "parent": 0,
+    "value": "澳门"
+  },
+  {
+    "name": "大堂区",
+    "parent": "澳门",
+    "value": "大堂区"
+  },
+  {
+    "name": "氹仔",
+    "parent": "澳门",
+    "value": "氹仔"
+  },
+  {
+    "name": "花地玛堂区",
+    "parent": "澳门",
+    "value": "花地玛堂区"
+  },
+  {
+    "name": "路环岛",
+    "parent": "澳门",
+    "value": "路环岛"
+  },
+  {
+    "name": "北京",
+    "parent": 0,
+    "value": "北京"
+  },
+  {
+    "name": "昌平",
+    "parent": "北京",
+    "value": "昌平"
+  },
+  {
+    "name": "朝阳",
+    "parent": "北京",
+    "value": "朝阳"
+  },
+  {
+    "name": "东城",
+    "parent": "北京",
+    "value": "东城"
+  },
+  {
+    "name": "大兴",
+    "parent": "北京",
+    "value": "大兴"
+  },
+  {
+    "name": "房山",
+    "parent": "北京",
+    "value": "房山"
+  },
+  {
+    "name": "丰台",
+    "parent": "北京",
+    "value": "丰台"
+  },
+  {
+    "name": "海淀",
+    "parent": "北京",
+    "value": "海淀"
+  },
+  {
+    "name": "怀柔",
+    "parent": "北京",
+    "value": "怀柔"
+  },
+  {
+    "name": "门头沟",
+    "parent": "北京",
+    "value": "门头沟"
+  },
+  {
+    "name": "密云",
+    "parent": "北京",
+    "value": "密云"
+  },
+  {
+    "name": "平谷",
+    "parent": "北京",
+    "value": "平谷"
+  },
+  {
+    "name": "石景山",
+    "parent": "北京",
+    "value": "石景山"
+  },
+  {
+    "name": "顺义",
+    "parent": "北京",
+    "value": "顺义"
+  },
+  {
+    "name": "通州",
+    "parent": "北京",
+    "value": "通州"
+  },
+  {
+    "name": "西城",
+    "parent": "北京",
+    "value": "西城"
+  },
+  {
+    "name": "延庆",
+    "parent": "北京",
+    "value": "延庆"
+  },
+  {
+    "name": "重庆",
+    "parent": 0,
+    "value": "重庆"
+  },
+  {
+    "name": "北碚",
+    "parent": "重庆",
+    "value": "北碚"
+  },
+  {
+    "name": "巴南",
+    "parent": "重庆",
+    "value": "巴南"
+  },
+  {
+    "name": "璧山",
+    "parent": "重庆",
+    "value": "璧山"
+  },
+  {
+    "name": "城口",
+    "parent": "重庆",
+    "value": "城口"
+  },
+  {
+    "name": "长寿",
+    "parent": "重庆",
+    "value": "长寿"
+  },
+  {
+    "name": "大渡口",
+    "parent": "重庆",
+    "value": "大渡口"
+  },
+  {
+    "name": "垫江",
+    "parent": "重庆",
+    "value": "垫江"
+  },
+  {
+    "name": "大足",
+    "parent": "重庆",
+    "value": "大足"
+  },
+  {
+    "name": "丰都",
+    "parent": "重庆",
+    "value": "丰都"
+  },
+  {
+    "name": "奉节",
+    "parent": "重庆",
+    "value": "奉节"
+  },
+  {
+    "name": "涪陵",
+    "parent": "重庆",
+    "value": "涪陵"
+  },
+  {
+    "name": "合川",
+    "parent": "重庆",
+    "value": "合川"
+  },
+  {
+    "name": "江北",
+    "parent": "重庆",
+    "value": "江北"
+  },
+  {
+    "name": "江津",
+    "parent": "重庆",
+    "value": "江津"
+  },
+  {
+    "name": "九龙坡",
+    "parent": "重庆",
+    "value": "九龙坡"
+  },
+  {
+    "name": "开县",
+    "parent": "重庆",
+    "value": "开县"
+  },
+  {
+    "name": "梁平",
+    "parent": "重庆",
+    "value": "梁平"
+  },
+  {
+    "name": "南川",
+    "parent": "重庆",
+    "value": "南川"
+  },
+  {
+    "name": "彭水",
+    "parent": "重庆",
+    "value": "彭水"
+  },
+  {
+    "name": "綦江",
+    "parent": "重庆",
+    "value": "綦江"
+  },
+  {
+    "name": "黔江",
+    "parent": "重庆",
+    "value": "黔江"
+  },
+  {
+    "name": "荣昌",
+    "parent": "重庆",
+    "value": "荣昌"
+  },
+  {
+    "name": "沙坪坝",
+    "parent": "重庆",
+    "value": "沙坪坝"
+  },
+  {
+    "name": "双桥",
+    "parent": "重庆",
+    "value": "双桥"
+  },
+  {
+    "name": "石柱",
+    "parent": "重庆",
+    "value": "石柱"
+  },
+  {
+    "name": "铜梁",
+    "parent": "重庆",
+    "value": "铜梁"
+  },
+  {
+    "name": "潼南",
+    "parent": "重庆",
+    "value": "潼南"
+  },
+  {
+    "name": "武隆",
+    "parent": "重庆",
+    "value": "武隆"
+  },
+  {
+    "name": "巫山",
+    "parent": "重庆",
+    "value": "巫山"
+  },
+  {
+    "name": "巫溪",
+    "parent": "重庆",
+    "value": "巫溪"
+  },
+  {
+    "name": "万州",
+    "parent": "重庆",
+    "value": "万州"
+  },
+  {
+    "name": "秀山",
+    "parent": "重庆",
+    "value": "秀山"
+  },
+  {
+    "name": "渝北",
+    "parent": "重庆",
+    "value": "渝北"
+  },
+  {
+    "name": "永川",
+    "parent": "重庆",
+    "value": "永川"
+  },
+  {
+    "name": "酉阳",
+    "parent": "重庆",
+    "value": "酉阳"
+  },
+  {
+    "name": "云阳",
+    "parent": "重庆",
+    "value": "云阳"
+  },
+  {
+    "name": "渝中",
+    "parent": "重庆",
+    "value": "渝中"
+  },
+  {
+    "name": "忠县",
+    "parent": "重庆",
+    "value": "忠县"
+  },
+  {
+    "name": "福建",
+    "parent": 0,
+    "value": "福建"
+  },
+  {
+    "name": "福州",
+    "parent": "福建",
+    "value": "福州"
+  },
+  {
+    "name": "龙岩",
+    "parent": "福建",
+    "value": "龙岩"
+  },
+  {
+    "name": "宁德",
+    "parent": "福建",
+    "value": "宁德"
+  },
+  {
+    "name": "南平",
+    "parent": "福建",
+    "value": "南平"
+  },
+  {
+    "name": "莆田",
+    "parent": "福建",
+    "value": "莆田"
+  },
+  {
+    "name": "泉州",
+    "parent": "福建",
+    "value": "泉州"
+  },
+  {
+    "name": "厦门",
+    "parent": "福建",
+    "value": "厦门"
+  },
+  {
+    "name": "三明",
+    "parent": "福建",
+    "value": "三明"
+  },
+  {
+    "name": "漳州",
+    "parent": "福建",
+    "value": "漳州"
+  },
+  {
+    "name": "广东",
+    "parent": 0,
+    "value": "广东"
+  },
+  {
+    "name": "潮州",
+    "parent": "广东",
+    "value": "潮州"
+  },
+  {
+    "name": "东莞",
+    "parent": "广东",
+    "value": "东莞"
+  },
+  {
+    "name": "佛山",
+    "parent": "广东",
+    "value": "佛山"
+  },
+  {
+    "name": "广州",
+    "parent": "广东",
+    "value": "广州"
+  },
+  {
+    "name": "河源",
+    "parent": "广东",
+    "value": "河源"
+  },
+  {
+    "name": "惠州",
+    "parent": "广东",
+    "value": "惠州"
+  },
+  {
+    "name": "江门",
+    "parent": "广东",
+    "value": "江门"
+  },
+  {
+    "name": "揭阳",
+    "parent": "广东",
+    "value": "揭阳"
+  },
+  {
+    "name": "茂名",
+    "parent": "广东",
+    "value": "茂名"
+  },
+  {
+    "name": "梅州",
+    "parent": "广东",
+    "value": "梅州"
+  },
+  {
+    "name": "清远",
+    "parent": "广东",
+    "value": "清远"
+  },
+  {
+    "name": "韶关",
+    "parent": "广东",
+    "value": "韶关"
+  },
+  {
+    "name": "汕头",
+    "parent": "广东",
+    "value": "汕头"
+  },
+  {
+    "name": "汕尾",
+    "parent": "广东",
+    "value": "汕尾"
+  },
+  {
+    "name": "深圳",
+    "parent": "广东",
+    "value": "深圳"
+  },
+  {
+    "name": "云浮",
+    "parent": "广东",
+    "value": "云浮"
+  },
+  {
+    "name": "阳江",
+    "parent": "广东",
+    "value": "阳江"
+  },
+  {
+    "name": "珠海",
+    "parent": "广东",
+    "value": "珠海"
+  },
+  {
+    "name": "湛江",
+    "parent": "广东",
+    "value": "湛江"
+  },
+  {
+    "name": "肇庆",
+    "parent": "广东",
+    "value": "肇庆"
+  },
+  {
+    "name": "中山",
+    "parent": "广东",
+    "value": "中山"
+  },
+  {
+    "name": "甘肃",
+    "parent": 0,
+    "value": "甘肃"
+  },
+  {
+    "name": "白银",
+    "parent": "甘肃",
+    "value": "白银"
+  },
+  {
+    "name": "定西",
+    "parent": "甘肃",
+    "value": "定西"
+  },
+  {
+    "name": "甘南",
+    "parent": "甘肃",
+    "value": "甘南"
+  },
+  {
+    "name": "金昌",
+    "parent": "甘肃",
+    "value": "金昌"
+  },
+  {
+    "name": "酒泉",
+    "parent": "甘肃",
+    "value": "酒泉"
+  },
+  {
+    "name": "嘉峪关",
+    "parent": "甘肃",
+    "value": "嘉峪关"
+  },
+  {
+    "name": "陇南",
+    "parent": "甘肃",
+    "value": "陇南"
+  },
+  {
+    "name": "临夏",
+    "parent": "甘肃",
+    "value": "临夏"
+  },
+  {
+    "name": "兰州市",
+    "parent": "甘肃",
+    "value": "兰州市"
+  },
+  {
+    "name": "平凉",
+    "parent": "甘肃",
+    "value": "平凉"
+  },
+  {
+    "name": "庆阳",
+    "parent": "甘肃",
+    "value": "庆阳"
+  },
+  {
+    "name": "武威",
+    "parent": "甘肃",
+    "value": "武威"
+  },
+  {
+    "name": "张掖",
+    "parent": "甘肃",
+    "value": "张掖"
+  },
+  {
+    "name": "广西",
+    "parent": 0,
+    "value": "广西"
+  },
+  {
+    "name": "北海",
+    "parent": "广西",
+    "value": "北海"
+  },
+  {
+    "name": "百色",
+    "parent": "广西",
+    "value": "百色"
+  },
+  {
+    "name": "崇左",
+    "parent": "广西",
+    "value": "崇左"
+  },
+  {
+    "name": "防城港",
+    "parent": "广西",
+    "value": "防城港"
+  },
+  {
+    "name": "贵港",
+    "parent": "广西",
+    "value": "贵港"
+  },
+  {
+    "name": "桂林",
+    "parent": "广西",
+    "value": "桂林"
+  },
+  {
+    "name": "河池",
+    "parent": "广西",
+    "value": "河池"
+  },
+  {
+    "name": "贺州",
+    "parent": "广西",
+    "value": "贺州"
+  },
+  {
+    "name": "来宾",
+    "parent": "广西",
+    "value": "来宾"
+  },
+  {
+    "name": "柳州",
+    "parent": "广西",
+    "value": "柳州"
+  },
+  {
+    "name": "南宁",
+    "parent": "广西",
+    "value": "南宁"
+  },
+  {
+    "name": "钦州",
+    "parent": "广西",
+    "value": "钦州"
+  },
+  {
+    "name": "梧州",
+    "parent": "广西",
+    "value": "梧州"
+  },
+  {
+    "name": "玉林",
+    "parent": "广西",
+    "value": "玉林"
+  },
+  {
+    "name": "贵州",
+    "parent": 0,
+    "value": "贵州"
+  },
+  {
+    "name": "安顺",
+    "parent": "贵州",
+    "value": "安顺"
+  },
+  {
+    "name": "毕节",
+    "parent": "贵州",
+    "value": "毕节"
+  },
+  {
+    "name": "贵阳",
+    "parent": "贵州",
+    "value": "贵阳"
+  },
+  {
+    "name": "六盘水",
+    "parent": "贵州",
+    "value": "六盘水"
+  },
+  {
+    "name": "黔东南",
+    "parent": "贵州",
+    "value": "黔东南"
+  },
+  {
+    "name": "铜仁",
+    "parent": "贵州",
+    "value": "铜仁"
+  },
+  {
+    "name": "遵义",
+    "parent": "贵州",
+    "value": "遵义"
+  },
+  {
+    "name": "河北",
+    "parent": 0,
+    "value": "河北"
+  },
+  {
+    "name": "保定",
+    "parent": "河北",
+    "value": "保定"
+  },
+  {
+    "name": "承德",
+    "parent": "河北",
+    "value": "承德"
+  },
+  {
+    "name": "沧州",
+    "parent": "河北",
+    "value": "沧州"
+  },
+  {
+    "name": "邯郸",
+    "parent": "河北",
+    "value": "邯郸"
+  },
+  {
+    "name": "衡水",
+    "parent": "河北",
+    "value": "衡水"
+  },
+  {
+    "name": "廊坊",
+    "parent": "河北",
+    "value": "廊坊"
+  },
+  {
+    "name": "秦皇岛",
+    "parent": "河北",
+    "value": "秦皇岛"
+  },
+  {
+    "name": "石家庄",
+    "parent": "河北",
+    "value": "石家庄"
+  },
+  {
+    "name": "唐山",
+    "parent": "河北",
+    "value": "唐山"
+  },
+  {
+    "name": "邢台",
+    "parent": "河北",
+    "value": "邢台"
+  },
+  {
+    "name": "张家口",
+    "parent": "河北",
+    "value": "张家口"
+  },
+  {
+    "name": "湖北",
+    "parent": 0,
+    "value": "湖北"
+  },
+  {
+    "name": "恩施",
+    "parent": "湖北",
+    "value": "恩施"
+  },
+  {
+    "name": "鄂州",
+    "parent": "湖北",
+    "value": "鄂州"
+  },
+  {
+    "name": "黄冈",
+    "parent": "湖北",
+    "value": "黄冈"
+  },
+  {
+    "name": "黄石",
+    "parent": "湖北",
+    "value": "黄石"
+  },
+  {
+    "name": "荆门",
+    "parent": "湖北",
+    "value": "荆门"
+  },
+  {
+    "name": "荆州",
+    "parent": "湖北",
+    "value": "荆州"
+  },
+  {
+    "name": "潜江",
+    "parent": "湖北",
+    "value": "潜江"
+  },
+  {
+    "name": "神农架",
+    "parent": "湖北",
+    "value": "神农架"
+  },
+  {
+    "name": "十堰",
+    "parent": "湖北",
+    "value": "十堰"
+  },
+  {
+    "name": "随州",
+    "parent": "湖北",
+    "value": "随州"
+  },
+  {
+    "name": "天门",
+    "parent": "湖北",
+    "value": "天门"
+  },
+  {
+    "name": "武汉",
+    "parent": "湖北",
+    "value": "武汉"
+  },
+  {
+    "name": "孝感",
+    "parent": "湖北",
+    "value": "孝感"
+  },
+  {
+    "name": "咸宁",
+    "parent": "湖北",
+    "value": "咸宁"
+  },
+  {
+    "name": "仙桃",
+    "parent": "湖北",
+    "value": "仙桃"
+  },
+  {
+    "name": "襄阳",
+    "parent": "湖北",
+    "value": "襄阳"
+  },
+  {
+    "name": "宜昌",
+    "parent": "湖北",
+    "value": "宜昌"
+  },
+  {
+    "name": "黑龙江",
+    "parent": 0,
+    "value": "黑龙江"
+  },
+  {
+    "name": "大庆",
+    "parent": "黑龙江",
+    "value": "大庆"
+  },
+  {
+    "name": "大兴安岭",
+    "parent": "黑龙江",
+    "value": "大兴安岭"
+  },
+  {
+    "name": "哈尔滨",
+    "parent": "黑龙江",
+    "value": "哈尔滨"
+  },
+  {
+    "name": "鹤岗",
+    "parent": "黑龙江",
+    "value": "鹤岗"
+  },
+  {
+    "name": "黑河",
+    "parent": "黑龙江",
+    "value": "黑河"
+  },
+  {
+    "name": "佳木斯",
+    "parent": "黑龙江",
+    "value": "佳木斯"
+  },
+  {
+    "name": "鸡西",
+    "parent": "黑龙江",
+    "value": "鸡西"
+  },
+  {
+    "name": "牡丹江",
+    "parent": "黑龙江",
+    "value": "牡丹江"
+  },
+  {
+    "name": "齐齐哈尔",
+    "parent": "黑龙江",
+    "value": "齐齐哈尔"
+  },
+  {
+    "name": "七台河",
+    "parent": "黑龙江",
+    "value": "七台河"
+  },
+  {
+    "name": "绥化",
+    "parent": "黑龙江",
+    "value": "绥化"
+  },
+  {
+    "name": "双鸭山",
+    "parent": "黑龙江",
+    "value": "双鸭山"
+  },
+  {
+    "name": "伊春",
+    "parent": "黑龙江",
+    "value": "伊春"
+  },
+  {
+    "name": "海南",
+    "parent": 0,
+    "value": "海南"
+  },
+  {
+    "name": "保亭",
+    "parent": "海南",
+    "value": "保亭"
+  },
+  {
+    "name": "昌江",
+    "parent": "海南",
+    "value": "昌江"
+  },
+  {
+    "name": "澄迈",
+    "parent": "海南",
+    "value": "澄迈"
+  },
+  {
+    "name": "定安",
+    "parent": "海南",
+    "value": "定安"
+  },
+  {
+    "name": "东方",
+    "parent": "海南",
+    "value": "东方"
+  },
+  {
+    "name": "儋州",
+    "parent": "海南",
+    "value": "儋州"
+  },
+  {
+    "name": "海口",
+    "parent": "海南",
+    "value": "海口"
+  },
+  {
+    "name": "陵水",
+    "parent": "海南",
+    "value": "陵水"
+  },
+  {
+    "name": "琼海",
+    "parent": "海南",
+    "value": "琼海"
+  },
+  {
+    "name": "琼中",
+    "parent": "海南",
+    "value": "琼中"
+  },
+  {
+    "name": "三沙",
+    "parent": "海南",
+    "value": "三沙"
+  },
+  {
+    "name": "三亚",
+    "parent": "海南",
+    "value": "三亚"
+  },
+  {
+    "name": "屯昌",
+    "parent": "海南",
+    "value": "屯昌"
+  },
+  {
+    "name": "文昌",
+    "parent": "海南",
+    "value": "文昌"
+  },
+  {
+    "name": "万宁",
+    "parent": "海南",
+    "value": "万宁"
+  },
+  {
+    "name": "五指山",
+    "parent": "海南",
+    "value": "五指山"
+  },
+  {
+    "name": "河南",
+    "parent": 0,
+    "value": "河南"
+  },
+  {
+    "name": "安阳",
+    "parent": "河南",
+    "value": "安阳"
+  },
+  {
+    "name": "鹤壁",
+    "parent": "河南",
+    "value": "鹤壁"
+  },
+  {
+    "name": "济源",
+    "parent": "河南",
+    "value": "济源"
+  },
+  {
+    "name": "焦作",
+    "parent": "河南",
+    "value": "焦作"
+  },
+  {
+    "name": "开封",
+    "parent": "河南",
+    "value": "开封"
+  },
+  {
+    "name": "漯河",
+    "parent": "河南",
+    "value": "漯河"
+  },
+  {
+    "name": "洛阳",
+    "parent": "河南",
+    "value": "洛阳"
+  },
+  {
+    "name": "南阳",
+    "parent": "河南",
+    "value": "南阳"
+  },
+  {
+    "name": "平顶山",
+    "parent": "河南",
+    "value": "平顶山"
+  },
+  {
+    "name": "濮阳",
+    "parent": "河南",
+    "value": "濮阳"
+  },
+  {
+    "name": "三门峡",
+    "parent": "河南",
+    "value": "三门峡"
+  },
+  {
+    "name": "商丘",
+    "parent": "河南",
+    "value": "商丘"
+  },
+  {
+    "name": "许昌",
+    "parent": "河南",
+    "value": "许昌"
+  },
+  {
+    "name": "新乡",
+    "parent": "河南",
+    "value": "新乡"
+  },
+  {
+    "name": "信阳",
+    "parent": "河南",
+    "value": "信阳"
+  },
+  {
+    "name": "周口",
+    "parent": "河南",
+    "value": "周口"
+  },
+  {
+    "name": "驻马店",
+    "parent": "河南",
+    "value": "驻马店"
+  },
+  {
+    "name": "郑州",
+    "parent": "河南",
+    "value": "郑州"
+  },
+  {
+    "name": "湖南",
+    "parent": 0,
+    "value": "湖南"
+  },
+  {
+    "name": "常德",
+    "parent": "湖南",
+    "value": "常德"
+  },
+  {
+    "name": "长沙",
+    "parent": "湖南",
+    "value": "长沙"
+  },
+  {
+    "name": "郴州",
+    "parent": "湖南",
+    "value": "郴州"
+  },
+  {
+    "name": "怀化",
+    "parent": "湖南",
+    "value": "怀化"
+  },
+  {
+    "name": "衡阳",
+    "parent": "湖南",
+    "value": "衡阳"
+  },
+  {
+    "name": "娄底",
+    "parent": "湖南",
+    "value": "娄底"
+  },
+  {
+    "name": "邵阳",
+    "parent": "湖南",
+    "value": "邵阳"
+  },
+  {
+    "name": "湘潭",
+    "parent": "湖南",
+    "value": "湘潭"
+  },
+  {
+    "name": "湘西",
+    "parent": "湖南",
+    "value": "湘西"
+  },
+  {
+    "name": "益阳",
+    "parent": "湖南",
+    "value": "益阳"
+  },
+  {
+    "name": "岳阳",
+    "parent": "湖南",
+    "value": "岳阳"
+  },
+  {
+    "name": "永州",
+    "parent": "湖南",
+    "value": "永州"
+  },
+  {
+    "name": "张家界",
+    "parent": "湖南",
+    "value": "张家界"
+  },
+  {
+    "name": "株洲",
+    "parent": "湖南",
+    "value": "株洲"
+  },
+  {
+    "name": "吉林",
+    "parent": 0,
+    "value": "吉林"
+  },
+  {
+    "name": "长春",
+    "parent": "吉林",
+    "value": "长春"
+  },
+  {
+    "name": "吉林",
+    "parent": "吉林",
+    "value": "吉林"
+  },
+  {
+    "name": "辽源",
+    "parent": "吉林",
+    "value": "辽源"
+  },
+  {
+    "name": "四平",
+    "parent": "吉林",
+    "value": "四平"
+  },
+  {
+    "name": "松原",
+    "parent": "吉林",
+    "value": "松原"
+  },
+  {
+    "name": "通化",
+    "parent": "吉林",
+    "value": "通化"
+  },
+  {
+    "name": "延边",
+    "parent": "吉林",
+    "value": "延边"
+  },
+  {
+    "name": "江苏",
+    "parent": 0,
+    "value": "江苏"
+  },
+  {
+    "name": "常州",
+    "parent": "江苏",
+    "value": "常州"
+  },
+  {
+    "name": "淮安",
+    "parent": "江苏",
+    "value": "淮安"
+  },
+  {
+    "name": "连云港",
+    "parent": "江苏",
+    "value": "连云港"
+  },
+  {
+    "name": "南京",
+    "parent": "江苏",
+    "value": "南京"
+  },
+  {
+    "name": "南通",
+    "parent": "江苏",
+    "value": "南通"
+  },
+  {
+    "name": "宿迁",
+    "parent": "江苏",
+    "value": "宿迁"
+  },
+  {
+    "name": "苏州",
+    "parent": "江苏",
+    "value": "苏州"
+  },
+  {
+    "name": "泰州",
+    "parent": "江苏",
+    "value": "泰州"
+  },
+  {
+    "name": "无锡",
+    "parent": "江苏",
+    "value": "无锡"
+  },
+  {
+    "name": "徐州",
+    "parent": "江苏",
+    "value": "徐州"
+  },
+  {
+    "name": "盐城",
+    "parent": "江苏",
+    "value": "盐城"
+  },
+  {
+    "name": "扬州",
+    "parent": "江苏",
+    "value": "扬州"
+  },
+  {
+    "name": "镇江",
+    "parent": "江苏",
+    "value": "镇江"
+  },
+  {
+    "name": "江西",
+    "parent": 0,
+    "value": "江西"
+  },
+  {
+    "name": "抚州",
+    "parent": "江西",
+    "value": "抚州"
+  },
+  {
+    "name": "赣州",
+    "parent": "江西",
+    "value": "赣州"
+  },
+  {
+    "name": "吉安",
+    "parent": "江西",
+    "value": "吉安"
+  },
+  {
+    "name": "景德镇",
+    "parent": "江西",
+    "value": "景德镇"
+  },
+  {
+    "name": "九江",
+    "parent": "江西",
+    "value": "九江"
+  },
+  {
+    "name": "南昌",
+    "parent": "江西",
+    "value": "南昌"
+  },
+  {
+    "name": "萍乡",
+    "parent": "江西",
+    "value": "萍乡"
+  },
+  {
+    "name": "上饶",
+    "parent": "江西",
+    "value": "上饶"
+  },
+  {
+    "name": "新余",
+    "parent": "江西",
+    "value": "新余"
+  },
+  {
+    "name": "宜春",
+    "parent": "江西",
+    "value": "宜春"
+  },
+  {
+    "name": "鹰潭",
+    "parent": "江西",
+    "value": "鹰潭"
+  },
+  {
+    "name": "辽宁",
+    "parent": 0,
+    "value": "辽宁"
+  },
+  {
+    "name": "鞍山",
+    "parent": "辽宁",
+    "value": "鞍山"
+  },
+  {
+    "name": "本溪",
+    "parent": "辽宁",
+    "value": "本溪"
+  },
+  {
+    "name": "朝阳",
+    "parent": "辽宁",
+    "value": "朝阳"
+  },
+  {
+    "name": "丹东",
+    "parent": "辽宁",
+    "value": "丹东"
+  },
+  {
+    "name": "大连",
+    "parent": "辽宁",
+    "value": "大连"
+  },
+  {
+    "name": "抚顺",
+    "parent": "辽宁",
+    "value": "抚顺"
+  },
+  {
+    "name": "阜新",
+    "parent": "辽宁",
+    "value": "阜新"
+  },
+  {
+    "name": "葫芦岛",
+    "parent": "辽宁",
+    "value": "葫芦岛"
+  },
+  {
+    "name": "锦州",
+    "parent": "辽宁",
+    "value": "锦州"
+  },
+  {
+    "name": "辽阳",
+    "parent": "辽宁",
+    "value": "辽阳"
+  },
+  {
+    "name": "盘锦",
+    "parent": "辽宁",
+    "value": "盘锦"
+  },
+  {
+    "name": "沈阳",
+    "parent": "辽宁",
+    "value": "沈阳"
+  },
+  {
+    "name": "铁岭",
+    "parent": "辽宁",
+    "value": "铁岭"
+  },
+  {
+    "name": "营口",
+    "parent": "辽宁",
+    "value": "营口"
+  },
+  {
+    "name": "宁夏",
+    "parent": 0,
+    "value": "宁夏"
+  },
+  {
+    "name": "固原",
+    "parent": "宁夏",
+    "value": "固原"
+  },
+  {
+    "name": "石嘴山",
+    "parent": "宁夏",
+    "value": "石嘴山"
+  },
+  {
+    "name": "吴忠",
+    "parent": "宁夏",
+    "value": "吴忠"
+  },
+  {
+    "name": "银川",
+    "parent": "宁夏",
+    "value": "银川"
+  },
+  {
+    "name": "中卫",
+    "parent": "宁夏",
+    "value": "中卫"
+  },
+  {
+    "name": "青海",
+    "parent": 0,
+    "value": "青海"
+  },
+  {
+    "name": "果洛",
+    "parent": "青海",
+    "value": "果洛"
+  },
+  {
+    "name": "海北",
+    "parent": "青海",
+    "value": "海北"
+  },
+  {
+    "name": "海东",
+    "parent": "青海",
+    "value": "海东"
+  },
+  {
+    "name": "海南",
+    "parent": "青海",
+    "value": "海南"
+  },
+  {
+    "name": "黄南",
+    "parent": "青海",
+    "value": "黄南"
+  },
+  {
+    "name": "海西",
+    "parent": "青海",
+    "value": "海西"
+  },
+  {
+    "name": "西宁",
+    "parent": "青海",
+    "value": "西宁"
+  },
+  {
+    "name": "玉树",
+    "parent": "青海",
+    "value": "玉树"
+  },
+  {
+    "name": "四川",
+    "parent": 0,
+    "value": "四川"
+  },
+  {
+    "name": "阿坝",
+    "parent": "四川",
+    "value": "阿坝"
+  },
+  {
+    "name": "巴中",
+    "parent": "四川",
+    "value": "巴中"
+  },
+  {
+    "name": "成都",
+    "parent": "四川",
+    "value": "成都"
+  },
+  {
+    "name": "德阳",
+    "parent": "四川",
+    "value": "德阳"
+  },
+  {
+    "name": "达州",
+    "parent": "四川",
+    "value": "达州"
+  },
+  {
+    "name": "广安",
+    "parent": "四川",
+    "value": "广安"
+  },
+  {
+    "name": "广元",
+    "parent": "四川",
+    "value": "广元"
+  },
+  {
+    "name": "甘孜",
+    "parent": "四川",
+    "value": "甘孜"
+  },
+  {
+    "name": "乐山",
+    "parent": "四川",
+    "value": "乐山"
+  },
+  {
+    "name": "凉山",
+    "parent": "四川",
+    "value": "凉山"
+  },
+  {
+    "name": "泸州",
+    "parent": "四川",
+    "value": "泸州"
+  },
+  {
+    "name": "眉山",
+    "parent": "四川",
+    "value": "眉山"
+  },
+  {
+    "name": "绵阳",
+    "parent": "四川",
+    "value": "绵阳"
+  },
+  {
+    "name": "南充",
+    "parent": "四川",
+    "value": "南充"
+  },
+  {
+    "name": "内江",
+    "parent": "四川",
+    "value": "内江"
+  },
+  {
+    "name": "攀枝花",
+    "parent": "四川",
+    "value": "攀枝花"
+  },
+  {
+    "name": "遂宁",
+    "parent": "四川",
+    "value": "遂宁"
+  },
+  {
+    "name": "雅安",
+    "parent": "四川",
+    "value": "雅安"
+  },
+  {
+    "name": "宜宾",
+    "parent": "四川",
+    "value": "宜宾"
+  },
+  {
+    "name": "自贡",
+    "parent": "四川",
+    "value": "自贡"
+  },
+  {
+    "name": "资阳",
+    "parent": "四川",
+    "value": "资阳"
+  },
+  {
+    "name": "山东",
+    "parent": 0,
+    "value": "山东"
+  },
+  {
+    "name": "滨州",
+    "parent": "山东",
+    "value": "滨州"
+  },
+  {
+    "name": "东营",
+    "parent": "山东",
+    "value": "东营"
+  },
+  {
+    "name": "德州",
+    "parent": "山东",
+    "value": "德州"
+  },
+  {
+    "name": "菏泽",
+    "parent": "山东",
+    "value": "菏泽"
+  },
+  {
+    "name": "济南",
+    "parent": "山东",
+    "value": "济南"
+  },
+  {
+    "name": "济宁",
+    "parent": "山东",
+    "value": "济宁"
+  },
+  {
+    "name": "聊城",
+    "parent": "山东",
+    "value": "聊城"
+  },
+  {
+    "name": "莱芜",
+    "parent": "山东",
+    "value": "莱芜"
+  },
+  {
+    "name": "临沂",
+    "parent": "山东",
+    "value": "临沂"
+  },
+  {
+    "name": "青岛",
+    "parent": "山东",
+    "value": "青岛"
+  },
+  {
+    "name": "日照",
+    "parent": "山东",
+    "value": "日照"
+  },
+  {
+    "name": "泰安",
+    "parent": "山东",
+    "value": "泰安"
+  },
+  {
+    "name": "潍坊",
+    "parent": "山东",
+    "value": "潍坊"
+  },
+  {
+    "name": "威海",
+    "parent": "山东",
+    "value": "威海"
+  },
+  {
+    "name": "烟台",
+    "parent": "山东",
+    "value": "烟台"
+  },
+  {
+    "name": "淄博",
+    "parent": "山东",
+    "value": "淄博"
+  },
+  {
+    "name": "枣庄",
+    "parent": "山东",
+    "value": "枣庄"
+  },
+  {
+    "name": "上海",
+    "parent": 0,
+    "value": "上海"
+  },
+  {
+    "name": "宝山",
+    "parent": "上海",
+    "value": "宝山"
+  },
+  {
+    "name": "崇明",
+    "parent": "上海",
+    "value": "崇明"
+  },
+  {
+    "name": "长宁",
+    "parent": "上海",
+    "value": "长宁"
+  },
+  {
+    "name": "奉贤",
+    "parent": "上海",
+    "value": "奉贤"
+  },
+  {
+    "name": "虹口",
+    "parent": "上海",
+    "value": "虹口"
+  },
+  {
+    "name": "黄浦",
+    "parent": "上海",
+    "value": "黄浦"
+  },
+  {
+    "name": "静安",
+    "parent": "上海",
+    "value": "静安"
+  },
+  {
+    "name": "嘉定",
+    "parent": "上海",
+    "value": "嘉定"
+  },
+  {
+    "name": "金山",
+    "parent": "上海",
+    "value": "金山"
+  },
+  {
+    "name": "卢湾",
+    "parent": "上海",
+    "value": "卢湾"
+  },
+  {
+    "name": "闵行",
+    "parent": "上海",
+    "value": "闵行"
+  },
+  {
+    "name": "普陀",
+    "parent": "上海",
+    "value": "普陀"
+  },
+  {
+    "name": "青浦",
+    "parent": "上海",
+    "value": "青浦"
+  },
+  {
+    "name": "松江",
+    "parent": "上海",
+    "value": "松江"
+  },
+  {
+    "name": "徐汇",
+    "parent": "上海",
+    "value": "徐汇"
+  },
+  {
+    "name": "杨浦",
+    "parent": "上海",
+    "value": "杨浦"
+  },
+  {
+    "name": "闸北",
+    "parent": "上海",
+    "value": "闸北"
+  },
+  {
+    "name": "陕西",
+    "parent": 0,
+    "value": "陕西"
+  },
+  {
+    "name": "安康",
+    "parent": "陕西",
+    "value": "安康"
+  },
+  {
+    "name": "宝鸡",
+    "parent": "陕西",
+    "value": "宝鸡"
+  },
+  {
+    "name": "汉中",
+    "parent": "陕西",
+    "value": "汉中"
+  },
+  {
+    "name": "商洛",
+    "parent": "陕西",
+    "value": "商洛"
+  },
+  {
+    "name": "铜川",
+    "parent": "陕西",
+    "value": "铜川"
+  },
+  {
+    "name": "渭南",
+    "parent": "陕西",
+    "value": "渭南"
+  },
+  {
+    "name": "咸阳",
+    "parent": "陕西",
+    "value": "咸阳"
+  },
+  {
+    "name": "延安",
+    "parent": "陕西",
+    "value": "延安"
+  },
+  {
+    "name": "榆林",
+    "parent": "陕西",
+    "value": "榆林"
+  },
+  {
+    "name": "山西",
+    "parent": 0,
+    "value": "山西"
+  },
+  {
+    "name": "长治",
+    "parent": "山西",
+    "value": "长治"
+  },
+  {
+    "name": "大同",
+    "parent": "山西",
+    "value": "大同"
+  },
+  {
+    "name": "晋城",
+    "parent": "山西",
+    "value": "晋城"
+  },
+  {
+    "name": "晋中",
+    "parent": "山西",
+    "value": "晋中"
+  },
+  {
+    "name": "临汾",
+    "parent": "山西",
+    "value": "临汾"
+  },
+  {
+    "name": "吕梁",
+    "parent": "山西",
+    "value": "吕梁"
+  },
+  {
+    "name": "朔州",
+    "parent": "山西",
+    "value": "朔州"
+  },
+  {
+    "name": "太原",
+    "parent": "山西",
+    "value": "太原"
+  },
+  {
+    "name": "忻州",
+    "parent": "山西",
+    "value": "忻州"
+  },
+  {
+    "name": "运城",
+    "parent": "山西",
+    "value": "运城"
+  },
+  {
+    "name": "阳泉",
+    "parent": "山西",
+    "value": "阳泉"
+  },
+  {
+    "name": "天津",
+    "parent": 0,
+    "value": "天津"
+  },
+  {
+    "name": "宝坻",
+    "parent": "天津",
+    "value": "宝坻"
+  },
+  {
+    "name": "东丽",
+    "parent": "天津",
+    "value": "东丽"
+  },
+  {
+    "name": "河北",
+    "parent": "天津",
+    "value": "河北"
+  },
+  {
+    "name": "河东",
+    "parent": "天津",
+    "value": "河东"
+  },
+  {
+    "name": "和平",
+    "parent": "天津",
+    "value": "和平"
+  },
+  {
+    "name": "河西",
+    "parent": "天津",
+    "value": "河西"
+  },
+  {
+    "name": "静海",
+    "parent": "天津",
+    "value": "静海"
+  },
+  {
+    "name": "津南",
+    "parent": "天津",
+    "value": "津南"
+  },
+  {
+    "name": "蓟县",
+    "parent": "天津",
+    "value": "蓟县"
+  },
+  {
+    "name": "宁河",
+    "parent": "天津",
+    "value": "宁河"
+  },
+  {
+    "name": "南开",
+    "parent": "天津",
+    "value": "南开"
+  },
+  {
+    "name": "武清",
+    "parent": "天津",
+    "value": "武清"
+  },
+  {
+    "name": "台湾",
+    "parent": 0,
+    "value": "台湾"
+  },
+  {
+    "name": "台北市",
+    "parent": "台湾",
+    "value": "台北市"
+  },
+  {
+    "name": "西藏",
+    "parent": 0,
+    "value": "西藏"
+  },
+  {
+    "name": "阿里",
+    "parent": "西藏",
+    "value": "阿里"
+  },
+  {
+    "name": "昌都",
+    "parent": "西藏",
+    "value": "昌都"
+  },
+  {
+    "name": "拉萨",
+    "parent": "西藏",
+    "value": "拉萨"
+  },
+  {
+    "name": "林芝",
+    "parent": "西藏",
+    "value": "林芝"
+  },
+  {
+    "name": "那曲",
+    "parent": "西藏",
+    "value": "那曲"
+  },
+  {
+    "name": "日喀则",
+    "parent": "西藏",
+    "value": "日喀则"
+  },
+  {
+    "name": "山南",
+    "parent": "西藏",
+    "value": "山南"
+  },
+  {
+    "name": "新疆",
+    "parent": 0,
+    "value": "新疆"
+  },
+  {
+    "name": "阿克苏",
+    "parent": "新疆",
+    "value": "阿克苏"
+  },
+  {
+    "name": "阿拉尔",
+    "parent": "新疆",
+    "value": "阿拉尔"
+  },
+  {
+    "name": "阿勒泰",
+    "parent": "新疆",
+    "value": "阿勒泰"
+  },
+  {
+    "name": "博尔塔拉",
+    "parent": "新疆",
+    "value": "博尔塔拉"
+  },
+  {
+    "name": "巴音郭楞",
+    "parent": "新疆",
+    "value": "巴音郭楞"
+  },
+  {
+    "name": "昌吉",
+    "parent": "新疆",
+    "value": "昌吉"
+  },
+  {
+    "name": "哈密",
+    "parent": "新疆",
+    "value": "哈密"
+  },
+  {
+    "name": "和田",
+    "parent": "新疆",
+    "value": "和田"
+  },
+  {
+    "name": "克拉玛依",
+    "parent": "新疆",
+    "value": "克拉玛依"
+  },
+  {
+    "name": "喀什",
+    "parent": "新疆",
+    "value": "喀什"
+  },
+  {
+    "name": "克孜勒苏",
+    "parent": "新疆",
+    "value": "克孜勒苏"
+  },
+  {
+    "name": "石河子",
+    "parent": "新疆",
+    "value": "石河子"
+  },
+  {
+    "name": "塔城",
+    "parent": "新疆",
+    "value": "塔城"
+  },
+  {
+    "name": "吐鲁番",
+    "parent": "新疆",
+    "value": "吐鲁番"
+  },
+  {
+    "name": "五家渠",
+    "parent": "新疆",
+    "value": "五家渠"
+  },
+  {
+    "name": "乌鲁木齐",
+    "parent": "新疆",
+    "value": "乌鲁木齐"
+  },
+  {
+    "name": "伊犁",
+    "parent": "新疆",
+    "value": "伊犁"
+  },
+  {
+    "name": "云南",
+    "parent": 0,
+    "value": "云南"
+  },
+  {
+    "name": "保山",
+    "parent": "云南",
+    "value": "保山"
+  },
+  {
+    "name": "楚雄",
+    "parent": "云南",
+    "value": "楚雄"
+  },
+  {
+    "name": "德宏",
+    "parent": "云南",
+    "value": "德宏"
+  },
+  {
+    "name": "大理",
+    "parent": "云南",
+    "value": "大理"
+  },
+  {
+    "name": "迪庆",
+    "parent": "云南",
+    "value": "迪庆"
+  },
+  {
+    "name": "红河",
+    "parent": "云南",
+    "value": "红河"
+  },
+  {
+    "name": "昆明",
+    "parent": "云南",
+    "value": "昆明"
+  },
+  {
+    "name": "临沧",
+    "parent": "云南",
+    "value": "临沧"
+  },
+  {
+    "name": "丽江",
+    "parent": "云南",
+    "value": "丽江"
+  },
+  {
+    "name": "怒江",
+    "parent": "云南",
+    "value": "怒江"
+  },
+  {
+    "name": "曲靖",
+    "parent": "云南",
+    "value": "曲靖"
+  },
+  {
+    "name": "文山",
+    "parent": "云南",
+    "value": "文山"
+  },
+  {
+    "name": "西双版纳",
+    "parent": "云南",
+    "value": "西双版纳"
+  },
+  {
+    "name": "玉溪",
+    "parent": "云南",
+    "value": "玉溪"
+  },
+  {
+    "name": "昭通",
+    "parent": "云南",
+    "value": "昭通"
+  },
+  {
+    "name": "浙江",
+    "parent": 0,
+    "value": "浙江"
+  },
+  {
+    "name": "杭州",
+    "parent": "浙江",
+    "value": "杭州"
+  },
+  {
+    "name": "湖州",
+    "parent": "浙江",
+    "value": "湖州"
+  },
+  {
+    "name": "金华",
+    "parent": "浙江",
+    "value": "金华"
+  },
+  {
+    "name": "嘉兴",
+    "parent": "浙江",
+    "value": "嘉兴"
+  },
+  {
+    "name": "丽水",
+    "parent": "浙江",
+    "value": "丽水"
+  },
+  {
+    "name": "宁波",
+    "parent": "浙江",
+    "value": "宁波"
+  },
+  {
+    "name": "衢州",
+    "parent": "浙江",
+    "value": "衢州"
+  },
+  {
+    "name": "绍兴",
+    "parent": "浙江",
+    "value": "绍兴"
+  },
+  {
+    "name": "台州",
+    "parent": "浙江",
+    "value": "台州"
+  },
+  {
+    "name": "温州",
+    "parent": "浙江",
+    "value": "温州"
+  },
+  {
+    "name": "舟山",
+    "parent": "浙江",
+    "value": "舟山"
+  }
+]

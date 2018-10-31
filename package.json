@@ -1,0 +1,12 @@
+{
+  "name": "awersome-address",
+  "version": "1.0.0",
+  "description": "所有的address数据结构合集",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kelen",
+  "license": "ISC",
+  "dependencies": {
+    "node-uid": "^0.1.3"
+  }
+}

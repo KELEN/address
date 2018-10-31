@@ -1,0 +1,9143 @@
+[
+  {
+    "name": "安道尔",
+    "english": "AD",
+    "child": []
+  },
+  {
+    "name": "奥地利",
+    "english": "AT",
+    "child": [
+      {
+        "name": "布尔根兰",
+        "english": "Burgenland",
+        "child": []
+      },
+      {
+        "name": "蒂罗尔",
+        "english": "Tyrol",
+        "child": []
+      },
+      {
+        "name": "福拉尔贝格",
+        "english": "Vorarlberg",
+        "child": []
+      },
+      {
+        "name": "克恩顿",
+        "english": "Carinthia",
+        "child": []
+      },
+      {
+        "name": "施蒂利亚",
+        "english": "Styria",
+        "child": []
+      },
+      {
+        "name": "萨尔茨堡",
+        "english": "Salzburg",
+        "child": []
+      },
+      {
+        "name": "维也纳",
+        "english": "Vienna",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "澳大利亚",
+    "english": "AU",
+    "child": [
+      {
+        "name": "堪培拉",
+        "english": "Canberra",
+        "child": []
+      },
+      {
+        "name": "昆士兰",
+        "english": "Queensland",
+        "child": [
+          {
+            "name": "布里斯班",
+            "english": "Brisbane",
+            "child": []
+          },
+          {
+            "name": "凯恩斯",
+            "english": "Cairns",
+            "child": []
+          },
+          {
+            "name": "卡罗旺德拉",
+            "english": "Caloundra",
+            "child": []
+          },
+          {
+            "name": "汤斯维尔",
+            "english": "Townsville",
+            "child": []
+          },
+          {
+            "name": "图文巴",
+            "english": "Toowoomba",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "塔斯马尼亚",
+        "english": "Tasmania",
+        "child": [
+          {
+            "name": "伯尼港",
+            "english": "Burnie",
+            "child": []
+          },
+          {
+            "name": "德文波特",
+            "english": "Devonport",
+            "child": []
+          },
+          {
+            "name": "霍巴特",
+            "english": "Hobart",
+            "child": []
+          },
+          {
+            "name": "朗塞斯顿",
+            "english": "Launceston",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "维多利亚",
+        "english": "Victoria",
+        "child": [
+          {
+            "name": "吉朗",
+            "english": "Geelong",
+            "child": []
+          },
+          {
+            "name": "墨尔本",
+            "english": "Melbourne",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "阿尔巴尼亚",
+    "english": "AL",
+    "child": []
+  },
+  {
+    "name": "阿尔及利亚",
+    "english": "DZ",
+    "child": []
+  },
+  {
+    "name": "爱尔兰",
+    "english": "IE",
+    "child": [
+      {
+        "name": "奥法利",
+        "english": "Offaly",
+        "child": []
+      },
+      {
+        "name": "都柏林",
+        "english": "Dublin",
+        "child": []
+      },
+      {
+        "name": "多内加尔",
+        "english": "Donegal",
+        "child": []
+      },
+      {
+        "name": "蒂珀雷里",
+        "english": "Tipperary",
+        "child": []
+      },
+      {
+        "name": "戈尔韦",
+        "english": "Galway",
+        "child": []
+      },
+      {
+        "name": "基尔代尔",
+        "english": "Kildare",
+        "child": []
+      },
+      {
+        "name": "基尔肯尼",
+        "english": "Kilkenny",
+        "child": []
+      },
+      {
+        "name": "科克",
+        "english": "Cork",
+        "child": []
+      },
+      {
+        "name": "凯里",
+        "english": "Kerry",
+        "child": []
+      },
+      {
+        "name": "克莱尔",
+        "english": "Clare",
+        "child": []
+      },
+      {
+        "name": "朗福德",
+        "english": "Longford",
+        "child": []
+      },
+      {
+        "name": "利默里克",
+        "english": "Limerick",
+        "child": []
+      },
+      {
+        "name": "崂斯",
+        "english": "Laois",
+        "child": []
+      },
+      {
+        "name": "劳斯",
+        "english": "Louth",
+        "child": []
+      },
+      {
+        "name": "罗斯康芒",
+        "english": "Roscommon",
+        "child": []
+      },
+      {
+        "name": "利特里姆",
+        "english": "Leitrim",
+        "child": []
+      },
+      {
+        "name": "梅奥",
+        "english": "Mayo",
+        "child": []
+      },
+      {
+        "name": "莫内根",
+        "english": "Monaghan",
+        "child": []
+      },
+      {
+        "name": "米斯",
+        "english": "Meath",
+        "child": []
+      },
+      {
+        "name": "卡范",
+        "english": "Cavan",
+        "child": []
+      },
+      {
+        "name": "卡洛",
+        "english": "Carlow",
+        "child": []
+      },
+      {
+        "name": "斯莱戈",
+        "english": "Sligo",
+        "child": []
+      },
+      {
+        "name": "威克洛",
+        "english": "Wicklow",
+        "child": []
+      },
+      {
+        "name": "韦克斯福德",
+        "english": "Wexford",
+        "child": []
+      },
+      {
+        "name": "沃特福德",
+        "english": "Waterford",
+        "child": []
+      },
+      {
+        "name": "西米斯",
+        "english": "Westmeath",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "安哥拉",
+    "english": "AO",
+    "child": [
+      {
+        "name": "本戈",
+        "english": "Bengo",
+        "child": []
+      },
+      {
+        "name": "本格拉",
+        "english": "Benguela",
+        "child": []
+      },
+      {
+        "name": "比耶",
+        "english": "Bie",
+        "child": []
+      },
+      {
+        "name": "库内内",
+        "english": "Cunene",
+        "child": []
+      },
+      {
+        "name": "罗安达",
+        "english": "Luanda",
+        "child": []
+      },
+      {
+        "name": "马兰热",
+        "english": "Malanje",
+        "child": []
+      },
+      {
+        "name": "莫希科",
+        "english": "Moxico",
+        "child": []
+      },
+      {
+        "name": "纳米贝",
+        "english": "Namibe",
+        "child": []
+      },
+      {
+        "name": "卡宾达",
+        "english": "Cabinda",
+        "child": []
+      },
+      {
+        "name": "万博",
+        "english": "Huambo",
+        "child": []
+      },
+      {
+        "name": "威拉",
+        "english": "Huila",
+        "child": []
+      },
+      {
+        "name": "威热",
+        "english": "Uige",
+        "child": []
+      },
+      {
+        "name": "扎伊尔",
+        "english": "Zaire",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "阿根廷",
+    "english": "AR",
+    "child": [
+      {
+        "name": "别德马",
+        "english": "Viedma",
+        "child": []
+      },
+      {
+        "name": "巴拉那",
+        "english": "Parana",
+        "child": []
+      },
+      {
+        "name": "波萨达斯",
+        "english": "Posadas",
+        "child": []
+      },
+      {
+        "name": "福莫萨",
+        "english": "Formosa",
+        "child": []
+      },
+      {
+        "name": "胡胡伊",
+        "english": "Jujuy",
+        "child": []
+      },
+      {
+        "name": "科尔多瓦",
+        "english": "Cordoba",
+        "child": []
+      },
+      {
+        "name": "肯考迪娅",
+        "english": "Concordia",
+        "child": []
+      },
+      {
+        "name": "科连特斯",
+        "english": "Corrientes",
+        "child": []
+      },
+      {
+        "name": "罗森",
+        "english": "Rawson",
+        "child": []
+      },
+      {
+        "name": "罗萨里奥",
+        "english": "Rosario",
+        "child": []
+      },
+      {
+        "name": "雷西斯滕匹亚",
+        "english": "Resistencia",
+        "child": []
+      },
+      {
+        "name": "门多萨",
+        "english": "Mendoza",
+        "child": []
+      },
+      {
+        "name": "内乌肯",
+        "english": "Neuquen",
+        "child": []
+      },
+      {
+        "name": "卡塔马卡",
+        "english": "Catamarca",
+        "child": []
+      },
+      {
+        "name": "萨尔塔",
+        "english": "Salta",
+        "child": []
+      },
+      {
+        "name": "特雷利乌",
+        "english": "Trelew",
+        "child": []
+      },
+      {
+        "name": "乌斯怀亚",
+        "english": "Ushuaia",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "埃及",
+    "english": "EG",
+    "child": []
+  },
+  {
+    "name": "阿鲁巴",
+    "english": "AW",
+    "child": []
+  },
+  {
+    "name": "阿拉伯联合酋长国",
+    "english": "AE",
+    "child": [
+      {
+        "name": "迪拜",
+        "english": "Dubayy",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "阿曼",
+    "english": "OM",
+    "child": []
+  },
+  {
+    "name": "阿塞拜疆",
+    "english": "AZ",
+    "child": []
+  },
+  {
+    "name": "埃塞俄比亚",
+    "english": "ET",
+    "child": []
+  },
+  {
+    "name": "安提瓜岛和巴布达",
+    "english": "AG",
+    "child": []
+  },
+  {
+    "name": "巴巴多斯岛",
+    "english": "BB",
+    "child": []
+  },
+  {
+    "name": "巴布亚新几内亚",
+    "english": "PG",
+    "child": []
+  },
+  {
+    "name": "博茨瓦纳",
+    "english": "BW",
+    "child": []
+  },
+  {
+    "name": "冰岛",
+    "english": "IS",
+    "child": []
+  },
+  {
+    "name": "不丹",
+    "english": "BT",
+    "child": []
+  },
+  {
+    "name": "波多黎各",
+    "english": "PR",
+    "child": []
+  },
+  {
+    "name": "波黑",
+    "english": "BA",
+    "child": []
+  },
+  {
+    "name": "巴哈马",
+    "english": "BS",
+    "child": []
+  },
+  {
+    "name": "保加利亚",
+    "english": "BG",
+    "child": []
+  },
+  {
+    "name": "巴基斯坦",
+    "english": "PK",
+    "child": []
+  },
+  {
+    "name": "巴林",
+    "english": "BH",
+    "child": []
+  },
+  {
+    "name": "波兰",
+    "english": "PL",
+    "child": []
+  },
+  {
+    "name": "布隆迪",
+    "english": "BI",
+    "child": []
+  },
+  {
+    "name": "比利时",
+    "english": "BE",
+    "child": []
+  },
+  {
+    "name": "玻利维亚",
+    "english": "BO",
+    "child": []
+  },
+  {
+    "name": "白俄罗斯",
+    "english": "BY",
+    "child": []
+  },
+  {
+    "name": "百慕大",
+    "english": "BM",
+    "child": []
+  },
+  {
+    "name": "北马里亚纳群岛",
+    "english": "MP",
+    "child": []
+  },
+  {
+    "name": "贝宁",
+    "english": "BJ",
+    "child": []
+  },
+  {
+    "name": "巴拿马",
+    "english": "PA",
+    "child": []
+  },
+  {
+    "name": "巴西",
+    "english": "BR",
+    "child": [
+      {
+        "name": "阿克里",
+        "english": "Acre",
+        "child": []
+      },
+      {
+        "name": "阿拉戈斯",
+        "english": "Alagoas",
+        "child": []
+      },
+      {
+        "name": "阿马帕",
+        "english": "Amapa",
+        "child": []
+      },
+      {
+        "name": "巴拉那",
+        "english": "Parana",
+        "child": []
+      },
+      {
+        "name": "伯南布哥",
+        "english": "Pernambuco",
+        "child": []
+      },
+      {
+        "name": "巴西利亚",
+        "english": "Brasilia",
+        "child": []
+      },
+      {
+        "name": "巴伊亚",
+        "english": "Bahia",
+        "child": []
+      },
+      {
+        "name": "戈亚斯",
+        "english": "Goias",
+        "child": []
+      },
+      {
+        "name": "朗多尼亚",
+        "english": "Rondonia",
+        "child": []
+      },
+      {
+        "name": "罗赖马",
+        "english": "Roraima",
+        "child": []
+      },
+      {
+        "name": "马拉尼昂",
+        "english": "Maranhao",
+        "child": []
+      },
+      {
+        "name": "皮奥伊",
+        "english": "Piaui",
+        "child": []
+      },
+      {
+        "name": "帕拉",
+        "english": "Para",
+        "child": []
+      },
+      {
+        "name": "帕拉伊巴",
+        "english": "Paraiba",
+        "child": []
+      },
+      {
+        "name": "塞阿拉",
+        "english": "Ceara",
+        "child": []
+      },
+      {
+        "name": "塞尔希培",
+        "english": "Sergipe",
+        "child": []
+      },
+      {
+        "name": "托坎廷斯",
+        "english": "Tocantins",
+        "child": []
+      },
+      {
+        "name": "亚马孙",
+        "english": "Amazonas",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "朝鲜",
+    "english": "KP",
+    "child": []
+  },
+  {
+    "name": "德国",
+    "english": "DE",
+    "child": [
+      {
+        "name": "爱尔福特",
+        "english": "Erfurt",
+        "child": []
+      },
+      {
+        "name": "阿恩斯贝格",
+        "english": "Arnsberg",
+        "child": []
+      },
+      {
+        "name": "奥格斯堡",
+        "english": "Augsburg",
+        "child": []
+      },
+      {
+        "name": "安斯巴格",
+        "english": "Ansbach",
+        "child": []
+      },
+      {
+        "name": "波茨坦",
+        "english": "Potsdam",
+        "child": []
+      },
+      {
+        "name": "波鸿",
+        "english": "Bochum",
+        "child": []
+      },
+      {
+        "name": "柏林",
+        "english": "Berlin",
+        "child": []
+      },
+      {
+        "name": "比勒费尔德",
+        "english": "Bielefeld",
+        "child": []
+      },
+      {
+        "name": "不来梅",
+        "english": "Bremen",
+        "child": []
+      },
+      {
+        "name": "不伦瑞克",
+        "english": "Brunswick",
+        "child": []
+      },
+      {
+        "name": "拜伊罗特",
+        "english": "Bayreuth",
+        "child": []
+      },
+      {
+        "name": "德累斯顿",
+        "english": "Dresden",
+        "child": []
+      },
+      {
+        "name": "达姆施塔特",
+        "english": "Darmstadt",
+        "child": []
+      },
+      {
+        "name": "德绍",
+        "english": "Dessau",
+        "child": []
+      },
+      {
+        "name": "杜塞尔多夫",
+        "english": "Dusseldorf",
+        "child": []
+      },
+      {
+        "name": "代特莫尔特",
+        "english": "Detmold",
+        "child": []
+      },
+      {
+        "name": "弗赖堡",
+        "english": "Freiburg",
+        "child": []
+      },
+      {
+        "name": "法兰克福",
+        "english": "Frankfurt",
+        "child": []
+      },
+      {
+        "name": "汉堡",
+        "english": "Hamburg",
+        "child": []
+      },
+      {
+        "name": "哈雷",
+        "english": "Halle",
+        "child": []
+      },
+      {
+        "name": "汉诺威",
+        "english": "Hannover",
+        "child": []
+      },
+      {
+        "name": "基尔",
+        "english": "Kiel",
+        "child": []
+      },
+      {
+        "name": "吉森",
+        "english": "GieBen",
+        "child": []
+      },
+      {
+        "name": "科布伦次",
+        "english": "Koblenz",
+        "child": []
+      },
+      {
+        "name": "科隆",
+        "english": "Cologne",
+        "child": []
+      },
+      {
+        "name": "开姆尼斯",
+        "english": "Chemnitz",
+        "child": []
+      },
+      {
+        "name": "莱比锡",
+        "english": "Leipzig",
+        "child": []
+      },
+      {
+        "name": "兰茨胡特",
+        "english": "Landshut",
+        "child": []
+      },
+      {
+        "name": "吕讷堡",
+        "english": "Luneburg",
+        "child": []
+      },
+      {
+        "name": "马格德堡",
+        "english": "Magdeburg",
+        "child": []
+      },
+      {
+        "name": "曼海姆",
+        "english": "Mannheim",
+        "child": []
+      },
+      {
+        "name": "慕尼黑",
+        "english": "Munich",
+        "child": []
+      },
+      {
+        "name": "明斯特",
+        "english": "Muenster",
+        "child": []
+      },
+      {
+        "name": "美因兹",
+        "english": "Mainz",
+        "child": []
+      },
+      {
+        "name": "纽伦堡",
+        "english": "Nuremberg",
+        "child": []
+      },
+      {
+        "name": "卡尔斯鲁厄",
+        "english": "Karlsruhe",
+        "child": []
+      },
+      {
+        "name": "卡塞尔",
+        "english": "Kassel",
+        "child": []
+      },
+      {
+        "name": "斯图加特",
+        "english": "Stuttgart",
+        "child": []
+      },
+      {
+        "name": "什未林",
+        "english": "Schwerin",
+        "child": []
+      },
+      {
+        "name": "特里尔",
+        "english": "Trier",
+        "child": []
+      },
+      {
+        "name": "维尔茨堡",
+        "english": "Wuerzburg",
+        "child": []
+      },
+      {
+        "name": "威斯巴登",
+        "english": "Wiesbaden",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "丹麦",
+    "english": "DK",
+    "child": []
+  },
+  {
+    "name": "多米尼加共和国",
+    "english": "DO",
+    "child": []
+  },
+  {
+    "name": "厄瓜多尔",
+    "english": "EC",
+    "child": []
+  },
+  {
+    "name": "爱沙尼亚",
+    "english": "EE",
+    "child": []
+  },
+  {
+    "name": "俄罗斯",
+    "english": "RU",
+    "child": [
+      {
+        "name": "阿巴坎",
+        "english": "Abakan",
+        "child": []
+      },
+      {
+        "name": "阿尔汉格尔斯克",
+        "english": "Arkhangelsk",
+        "child": []
+      },
+      {
+        "name": "阿金斯科耶",
+        "english": "Aginskoye",
+        "child": []
+      },
+      {
+        "name": "奥伦堡",
+        "english": "Orenburg",
+        "child": []
+      },
+      {
+        "name": "奥廖尔",
+        "english": "Orel",
+        "child": []
+      },
+      {
+        "name": "埃利斯塔",
+        "english": "Elista",
+        "child": []
+      },
+      {
+        "name": "阿纳德尔",
+        "english": "Anadyr",
+        "child": []
+      },
+      {
+        "name": "阿斯特拉罕",
+        "english": "Astrakhan",
+        "child": []
+      },
+      {
+        "name": "彼得罗扎沃茨克",
+        "english": "Petrozavodsk",
+        "child": []
+      },
+      {
+        "name": "别尔哥罗德",
+        "english": "Belgorod",
+        "child": []
+      },
+      {
+        "name": "彼尔姆",
+        "english": "Perm",
+        "child": []
+      },
+      {
+        "name": "巴尔瑙尔",
+        "english": "Barnaul",
+        "child": []
+      },
+      {
+        "name": "伯力",
+        "english": "Chabarovsk",
+        "child": []
+      },
+      {
+        "name": "比罗比詹",
+        "english": "Birobidzan",
+        "child": []
+      },
+      {
+        "name": "布拉戈维申斯克",
+        "english": "Blagoveshchensk",
+        "child": []
+      },
+      {
+        "name": "布良斯克",
+        "english": "Bryansk",
+        "child": []
+      },
+      {
+        "name": "奔萨",
+        "english": "Penza",
+        "child": []
+      },
+      {
+        "name": "车里雅宾斯克",
+        "english": "Chelyabinsk",
+        "child": []
+      },
+      {
+        "name": "赤塔",
+        "english": "Chita",
+        "child": []
+      },
+      {
+        "name": "鄂木斯克",
+        "english": "Omsk",
+        "child": []
+      },
+      {
+        "name": "伏尔加格勒",
+        "english": "Volgograd",
+        "child": []
+      },
+      {
+        "name": "弗拉季高加索",
+        "english": "Vladikavkaz",
+        "child": []
+      },
+      {
+        "name": "弗拉基米尔",
+        "english": "Vladimir",
+        "child": []
+      },
+      {
+        "name": "格罗兹尼",
+        "english": "Grozny",
+        "child": []
+      },
+      {
+        "name": "海参崴",
+        "english": "Vladivostok",
+        "child": []
+      },
+      {
+        "name": "基洛夫",
+        "english": "Kirov",
+        "child": []
+      },
+      {
+        "name": "加里宁格勒",
+        "english": "Kaliningrad",
+        "child": []
+      },
+      {
+        "name": "库德姆卡尔",
+        "english": "Kudymkar",
+        "child": []
+      },
+      {
+        "name": "库尔干",
+        "english": "Kurgan",
+        "child": []
+      },
+      {
+        "name": "库尔斯克",
+        "english": "Kursk",
+        "child": []
+      },
+      {
+        "name": "克拉斯诺达尔",
+        "english": "Krasnodar",
+        "child": []
+      },
+      {
+        "name": "克拉斯诺亚尔斯克",
+        "english": "Krasnojarsk",
+        "child": []
+      },
+      {
+        "name": "克麦罗沃",
+        "english": "Kemerovo",
+        "child": []
+      },
+      {
+        "name": "喀山",
+        "english": "Kazan",
+        "child": []
+      },
+      {
+        "name": "科斯特罗马",
+        "english": "Kostroma",
+        "child": []
+      },
+      {
+        "name": "克孜勒",
+        "english": "Kyzyl",
+        "child": []
+      },
+      {
+        "name": "利佩茨克",
+        "english": "Lipeck",
+        "child": []
+      },
+      {
+        "name": "梁赞",
+        "english": "Ryazan",
+        "child": []
+      },
+      {
+        "name": "摩尔曼斯克",
+        "english": "Murmansk",
+        "child": []
+      },
+      {
+        "name": "马哈奇卡拉",
+        "english": "Makhachkala",
+        "child": []
+      },
+      {
+        "name": "马加丹",
+        "english": "Magadan",
+        "child": []
+      },
+      {
+        "name": "马加斯",
+        "english": "Magas",
+        "child": []
+      },
+      {
+        "name": "迈科普",
+        "english": "Maykop",
+        "child": []
+      },
+      {
+        "name": "莫斯科",
+        "english": "Moscow",
+        "child": []
+      },
+      {
+        "name": "纳尔奇克",
+        "english": "Nalchik",
+        "child": []
+      },
+      {
+        "name": "帕拉纳",
+        "english": "Palana",
+        "child": []
+      },
+      {
+        "name": "普斯科夫",
+        "english": "Pskov",
+        "child": []
+      },
+      {
+        "name": "切博克萨雷",
+        "english": "Cheboksary",
+        "child": []
+      },
+      {
+        "name": "切尔克斯克",
+        "english": "Cherkessk",
+        "child": []
+      },
+      {
+        "name": "卡卢加",
+        "english": "Kaluga",
+        "child": []
+      },
+      {
+        "name": "秋明",
+        "english": "Tyumen",
+        "child": []
+      },
+      {
+        "name": "瑟克特夫卡尔",
+        "english": "Syktyvkar",
+        "child": []
+      },
+      {
+        "name": "萨列哈尔德",
+        "english": "Salekhard",
+        "child": []
+      },
+      {
+        "name": "萨兰斯克",
+        "english": "Saransk",
+        "child": []
+      },
+      {
+        "name": "萨拉托夫",
+        "english": "Saratov",
+        "child": []
+      },
+      {
+        "name": "萨马拉",
+        "english": "Samara",
+        "child": []
+      },
+      {
+        "name": "斯摩棱斯克",
+        "english": "Smolensk",
+        "child": []
+      },
+      {
+        "name": "斯塔夫罗波尔",
+        "english": "Stavropol",
+        "child": []
+      },
+      {
+        "name": "坦波夫",
+        "english": "Tambov",
+        "child": []
+      },
+      {
+        "name": "图拉",
+        "english": "Tula",
+        "child": []
+      },
+      {
+        "name": "托木斯克",
+        "english": "Tomsk",
+        "child": []
+      },
+      {
+        "name": "特维尔",
+        "english": "Tver",
+        "child": []
+      },
+      {
+        "name": "乌法",
+        "english": "Ufa",
+        "child": []
+      },
+      {
+        "name": "沃洛格达",
+        "english": "Vologda",
+        "child": []
+      },
+      {
+        "name": "沃罗涅什",
+        "english": "Voronezh",
+        "child": []
+      },
+      {
+        "name": "乌里扬诺夫斯克",
+        "english": "Uljanovsk",
+        "child": []
+      },
+      {
+        "name": "新西伯利亚",
+        "english": "Novosibirsk",
+        "child": []
+      },
+      {
+        "name": "伊尔库茨克",
+        "english": "Irkutsk",
+        "child": []
+      },
+      {
+        "name": "雅库茨克",
+        "english": "Jakutsk",
+        "child": []
+      },
+      {
+        "name": "雅罗斯拉夫尔",
+        "english": "Jaroslavl",
+        "child": []
+      },
+      {
+        "name": "叶卡捷林堡",
+        "english": "Jekaterinburg",
+        "child": []
+      },
+      {
+        "name": "伊热夫斯克",
+        "english": "Izhevsk",
+        "child": []
+      },
+      {
+        "name": "伊万诺沃",
+        "english": "Ivanovo",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "厄立特里亚",
+    "english": "ER",
+    "child": []
+  },
+  {
+    "name": "法国",
+    "english": "FR",
+    "child": [
+      {
+        "name": "阿尔勒",
+        "english": "Arles",
+        "child": []
+      },
+      {
+        "name": "奥尔良",
+        "english": "Orleans",
+        "child": []
+      },
+      {
+        "name": "阿雅克修",
+        "english": "Ajaccio",
+        "child": []
+      },
+      {
+        "name": "巴黎",
+        "english": "Paris",
+        "child": []
+      },
+      {
+        "name": "贝桑松",
+        "english": "Besancon",
+        "child": []
+      },
+      {
+        "name": "第戎",
+        "english": "Dijon",
+        "child": []
+      },
+      {
+        "name": "弗雷瑞斯",
+        "english": "Frejus",
+        "child": []
+      },
+      {
+        "name": "鲁昂",
+        "english": "Rouen",
+        "child": []
+      },
+      {
+        "name": "里昂",
+        "english": "Lyon",
+        "child": []
+      },
+      {
+        "name": "雷恩",
+        "english": "Rennes",
+        "child": []
+      },
+      {
+        "name": "里尔",
+        "english": "Lille",
+        "child": []
+      },
+      {
+        "name": "利摩日",
+        "english": "Limoges",
+        "child": []
+      },
+      {
+        "name": "蒙彼利埃",
+        "english": "Montpellier",
+        "child": []
+      },
+      {
+        "name": "马赛",
+        "english": "Marseille",
+        "child": []
+      },
+      {
+        "name": "梅斯",
+        "english": "Metz",
+        "child": []
+      },
+      {
+        "name": "尼斯",
+        "english": "Nice",
+        "child": []
+      },
+      {
+        "name": "南特",
+        "english": "Nantes",
+        "child": []
+      },
+      {
+        "name": "卡昂",
+        "english": "Caen",
+        "child": []
+      },
+      {
+        "name": "图卢兹",
+        "english": "Toulouse",
+        "child": []
+      },
+      {
+        "name": "瓦朗斯",
+        "english": "Valence",
+        "child": []
+      },
+      {
+        "name": "亚眠",
+        "english": "Amiens",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "斐济",
+    "english": "FJ",
+    "child": []
+  },
+  {
+    "name": "芬兰",
+    "english": "FI",
+    "child": []
+  },
+  {
+    "name": "菲律宾",
+    "english": "PH",
+    "child": [
+      {
+        "name": "达沃",
+        "english": "Davao",
+        "child": []
+      },
+      {
+        "name": "马尼拉",
+        "english": "Manila",
+        "child": []
+      },
+      {
+        "name": "卡卢坎",
+        "english": "Caloocan",
+        "child": []
+      },
+      {
+        "name": "宿务",
+        "english": "Cebu",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "古巴",
+    "english": "CU",
+    "child": []
+  },
+  {
+    "name": "冈比亚",
+    "english": "GM",
+    "child": []
+  },
+  {
+    "name": "关岛",
+    "english": "GU",
+    "child": []
+  },
+  {
+    "name": "格恩西岛",
+    "english": "GG",
+    "child": []
+  },
+  {
+    "name": "刚果民主共和国",
+    "english": "CG",
+    "child": []
+  },
+  {
+    "name": "哥伦比亚",
+    "english": "CO",
+    "child": []
+  },
+  {
+    "name": "格陵兰",
+    "english": "GL",
+    "child": []
+  },
+  {
+    "name": "格林纳达",
+    "english": "GD",
+    "child": []
+  },
+  {
+    "name": "哥斯达黎加",
+    "english": "CR",
+    "child": []
+  },
+  {
+    "name": "海地",
+    "english": "HT",
+    "child": []
+  },
+  {
+    "name": "洪都拉斯",
+    "english": "HN",
+    "child": []
+  },
+  {
+    "name": "韩国",
+    "english": "KR",
+    "child": [
+      {
+        "name": "大邱",
+        "english": "Daegu",
+        "child": [
+          {
+            "name": "大邱",
+            "english": "Daegu",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "大田",
+        "english": "Daejeon",
+        "child": []
+      },
+      {
+        "name": "釜山",
+        "english": "Busan",
+        "child": []
+      },
+      {
+        "name": "光州",
+        "english": "Gwangju",
+        "child": []
+      },
+      {
+        "name": "仁川",
+        "english": "Incheon",
+        "child": []
+      },
+      {
+        "name": "首尔",
+        "english": "Seoul",
+        "child": []
+      },
+      {
+        "name": "蔚山",
+        "english": "Ulsan",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "荷兰",
+    "english": "NL",
+    "child": [
+      {
+        "name": "埃德",
+        "english": "Ede",
+        "child": []
+      },
+      {
+        "name": "阿尔梅勒",
+        "english": "Almere",
+        "child": []
+      },
+      {
+        "name": "埃门",
+        "english": "Emmen",
+        "child": []
+      },
+      {
+        "name": "阿默斯福特",
+        "english": "Amersfoort",
+        "child": []
+      },
+      {
+        "name": "阿姆斯特丹",
+        "english": "Amsterdam",
+        "child": []
+      },
+      {
+        "name": "阿纳姆",
+        "english": "Arnhem",
+        "child": []
+      },
+      {
+        "name": "阿珀尔多伦",
+        "english": "Apeldoorn",
+        "child": []
+      },
+      {
+        "name": "阿森",
+        "english": "Assen",
+        "child": []
+      },
+      {
+        "name": "埃因霍芬",
+        "english": "Eindhoven",
+        "child": []
+      },
+      {
+        "name": "布雷达",
+        "english": "Breda",
+        "child": []
+      },
+      {
+        "name": "多德雷赫特",
+        "english": "Dordrecht",
+        "child": []
+      },
+      {
+        "name": "蒂尔堡",
+        "english": "Tilburg",
+        "child": []
+      },
+      {
+        "name": "恩斯赫德",
+        "english": "Enschede",
+        "child": []
+      },
+      {
+        "name": "格罗宁根",
+        "english": "Groningen",
+        "child": []
+      },
+      {
+        "name": "霍夫多尔普",
+        "english": "Hoofddorp",
+        "child": []
+      },
+      {
+        "name": "哈勒姆",
+        "english": "Haarlem",
+        "child": []
+      },
+      {
+        "name": "海牙",
+        "english": "Hague",
+        "child": []
+      },
+      {
+        "name": "莱顿",
+        "english": "Leiden",
+        "child": []
+      },
+      {
+        "name": "吕伐登",
+        "english": "Leeuwarden",
+        "child": []
+      },
+      {
+        "name": "莱利斯塔德",
+        "english": "Lelystad",
+        "child": []
+      },
+      {
+        "name": "鹿特丹",
+        "english": "Rotterdam",
+        "child": []
+      },
+      {
+        "name": "米德尔堡",
+        "english": "Middelburg",
+        "child": []
+      },
+      {
+        "name": "马斯特里赫特",
+        "english": "Maastricht",
+        "child": []
+      },
+      {
+        "name": "奈梅亨",
+        "english": "Nijmegen",
+        "child": []
+      },
+      {
+        "name": "乌得勒支",
+        "english": "Utrecht",
+        "child": []
+      },
+      {
+        "name": "佐特尔梅",
+        "english": "Zoetermeer",
+        "child": []
+      },
+      {
+        "name": "兹沃勒",
+        "english": "Zwolle",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "黑山共和国",
+    "english": "ME",
+    "child": []
+  },
+  {
+    "name": "哈萨克斯坦",
+    "english": "KZ",
+    "child": []
+  },
+  {
+    "name": "吉布提",
+    "english": "DJ",
+    "child": []
+  },
+  {
+    "name": "吉尔吉斯斯坦",
+    "english": "KG",
+    "child": []
+  },
+  {
+    "name": "捷克共和国",
+    "english": "CZ",
+    "child": []
+  },
+  {
+    "name": "基里巴斯",
+    "english": "KI",
+    "child": []
+  },
+  {
+    "name": "加纳",
+    "english": "GH",
+    "child": []
+  },
+  {
+    "name": "加拿大",
+    "english": "CA",
+    "child": [
+      {
+        "name": "亚伯达省",
+        "english": "Alberta",
+        "child": [
+          {
+            "name": "艾尔德里",
+            "english": "Airdrie",
+            "child": []
+          },
+          {
+            "name": "布鲁克斯",
+            "english": "Brooks",
+            "child": []
+          },
+          {
+            "name": "卡尔加里",
+            "english": "Calgary",
+            "child": []
+          },
+          {
+            "name": "卡姆罗斯",
+            "english": "Camrose",
+            "child": []
+          },
+          {
+            "name": "切斯特密尔",
+            "english": "Chestermere",
+            "child": []
+          },
+          {
+            "name": "埃德蒙顿",
+            "english": "Edmonton",
+            "child": []
+          },
+          {
+            "name": "拉康姆",
+            "english": "Lacombe",
+            "child": []
+          },
+          {
+            "name": "勒杜克",
+            "english": "Leduc",
+            "child": []
+          },
+          {
+            "name": "莱斯布里奇",
+            "english": "Lethbridge",
+            "child": []
+          },
+          {
+            "name": "劳埃德明斯特",
+            "english": "Lloydminster",
+            "child": []
+          },
+          {
+            "name": "韦塔斯基温",
+            "english": "Wetaskiwin",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "萨斯喀彻温省",
+        "english": "Saskatchewan",
+        "child": [
+          {
+            "name": "埃斯特万",
+            "english": "Estevan",
+            "child": []
+          },
+          {
+            "name": "洪堡",
+            "english": "Humboldt",
+            "child": []
+          },
+          {
+            "name": "洛伊民斯特",
+            "english": "Lloydminster",
+            "child": []
+          },
+          {
+            "name": "马腾斯维尔",
+            "english": "Martensville",
+            "child": []
+          },
+          {
+            "name": "梅尔福特",
+            "english": "Melfort",
+            "child": []
+          },
+          {
+            "name": "梅尔维尔",
+            "english": "Melville",
+            "child": []
+          },
+          {
+            "name": "里贾纳",
+            "english": "Regina",
+            "child": []
+          },
+          {
+            "name": "萨斯卡通",
+            "english": "Saskatoon",
+            "child": []
+          },
+          {
+            "name": "沃曼",
+            "english": "Warman",
+            "child": []
+          },
+          {
+            "name": "韦本",
+            "english": "Weyburn",
+            "child": []
+          },
+          {
+            "name": "约克顿",
+            "english": "Yorkton",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "曼尼托巴省",
+        "english": "Manitoba",
+        "child": [
+          {
+            "name": "布兰登",
+            "english": "Brandon",
+            "child": []
+          },
+          {
+            "name": "多芬",
+            "english": "Dauphin",
+            "child": []
+          },
+          {
+            "name": "莫登",
+            "english": "Morden",
+            "child": []
+          },
+          {
+            "name": "些吉",
+            "english": "Selkirk",
+            "child": []
+          },
+          {
+            "name": "斯坦巴克",
+            "english": "Steinbach",
+            "child": []
+          },
+          {
+            "name": "汤普森",
+            "english": "Thompson",
+            "child": []
+          },
+          {
+            "name": "温克勒",
+            "english": "Winkler",
+            "child": []
+          },
+          {
+            "name": "温尼伯",
+            "english": "Winnipeg",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "安大略省",
+        "english": "Ontario",
+        "child": [
+          {
+            "name": "巴里",
+            "english": "Barrie",
+            "child": []
+          },
+          {
+            "name": "贝尔维尔",
+            "english": "Belleville",
+            "child": []
+          },
+          {
+            "name": "宾顿",
+            "english": "Brampton",
+            "child": []
+          },
+          {
+            "name": "布兰特",
+            "english": "Brant",
+            "child": []
+          },
+          {
+            "name": "布兰特福德",
+            "english": "Brantford",
+            "child": []
+          },
+          {
+            "name": "布罗克维尔",
+            "english": "Brockville",
+            "child": []
+          },
+          {
+            "name": "布灵敦",
+            "english": "Burlington",
+            "child": []
+          },
+          {
+            "name": "剑桥",
+            "english": "Cambridge",
+            "child": []
+          },
+          {
+            "name": "康沃尔",
+            "english": "Cornwall",
+            "child": []
+          },
+          {
+            "name": "德赖登",
+            "english": "Dryden",
+            "child": []
+          },
+          {
+            "name": "圭尔夫",
+            "english": "Guelph",
+            "child": []
+          },
+          {
+            "name": "哈密尔顿",
+            "english": "Hamilton",
+            "child": []
+          },
+          {
+            "name": "凯诺拉",
+            "english": "Kenora",
+            "child": []
+          },
+          {
+            "name": "京士顿",
+            "english": "Kingston",
+            "child": []
+          },
+          {
+            "name": "基秦拿",
+            "english": "Kitchener",
+            "child": []
+          },
+          {
+            "name": "伦敦",
+            "english": "London",
+            "child": []
+          },
+          {
+            "name": "密西沙加",
+            "english": "Mississauga",
+            "child": []
+          },
+          {
+            "name": "万锦",
+            "english": "Markham",
+            "child": []
+          },
+          {
+            "name": "奥里利亚",
+            "english": "Orillia",
+            "child": []
+          },
+          {
+            "name": "奥沙瓦",
+            "english": "Oshawa",
+            "child": []
+          },
+          {
+            "name": "渥太华",
+            "english": "Ottawa",
+            "child": []
+          },
+          {
+            "name": "彭布罗克郡",
+            "english": "Pembroke",
+            "child": []
+          },
+          {
+            "name": "彼得堡",
+            "english": "Peterborough",
+            "child": []
+          },
+          {
+            "name": "皮克宁市",
+            "english": "Pickering",
+            "child": []
+          },
+          {
+            "name": "珊尼亚",
+            "english": "Sarnia",
+            "child": []
+          },
+          {
+            "name": "索罗尔德",
+            "english": "Thorold",
+            "child": []
+          },
+          {
+            "name": "天明",
+            "english": "Timmins",
+            "child": []
+          },
+          {
+            "name": "多伦多",
+            "english": "Toronto",
+            "child": []
+          },
+          {
+            "name": "旺市",
+            "english": "Vaughan",
+            "child": []
+          },
+          {
+            "name": "沃特卢",
+            "english": "Waterloo",
+            "child": []
+          },
+          {
+            "name": "韦兰",
+            "english": "Welland",
+            "child": []
+          },
+          {
+            "name": "温莎",
+            "english": "Windsor",
+            "child": []
+          },
+          {
+            "name": "伍德斯托克",
+            "english": "Woodstock",
+            "child": []
+          },
+          {
+            "name": "斯特勒福",
+            "english": "Stratford",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "魁北克省",
+        "english": "Quebec",
+        "child": [
+          {
+            "name": "阿尔马",
+            "english": "Alma",
+            "child": []
+          },
+          {
+            "name": "希布加莫",
+            "english": "Chibougamau",
+            "child": []
+          },
+          {
+            "name": "诗古提米",
+            "english": "Chicoutimi",
+            "child": []
+          },
+          {
+            "name": "加蒂诺",
+            "english": "Gatineau",
+            "child": []
+          },
+          {
+            "name": "伊努朱亚克",
+            "english": "Inukjuak",
+            "child": []
+          },
+          {
+            "name": "伊武志维克",
+            "english": "Ivujivik",
+            "child": []
+          },
+          {
+            "name": "康吉克苏华克",
+            "english": "Kangiqsujuaq",
+            "child": []
+          },
+          {
+            "name": "舍卜",
+            "english": "Sherbrooke",
+            "child": []
+          },
+          {
+            "name": "山更尼",
+            "english": "Saguenay",
+            "child": []
+          },
+          {
+            "name": "谢弗村",
+            "english": "Schefferville",
+            "child": []
+          },
+          {
+            "name": "古朱华克",
+            "english": "Kuujjuaq",
+            "child": []
+          },
+          {
+            "name": "古朱华拉碧",
+            "english": "Kuujjuarapik",
+            "child": []
+          },
+          {
+            "name": "东主",
+            "english": "Eastmain",
+            "child": []
+          },
+          {
+            "name": "纳塔诗昆",
+            "english": "Natashquan",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "育空领地",
+        "english": "Yukon",
+        "child": [
+          {
+            "name": "卡马克斯",
+            "english": "Carmacks",
+            "child": []
+          },
+          {
+            "name": "梅奥",
+            "english": "Mayo",
+            "child": []
+          },
+          {
+            "name": "白马",
+            "english": "Whitehorse",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "努纳武特领地",
+        "english": "Nunavut",
+        "child": [
+          {
+            "name": "阿勒特",
+            "english": "Alert",
+            "child": []
+          },
+          {
+            "name": "尤里卡",
+            "english": "Eureka",
+            "child": []
+          },
+          {
+            "name": "尤明默督",
+            "english": "Umingmaktuuq",
+            "child": []
+          },
+          {
+            "name": "依格鲁利克",
+            "english": "Igloolik",
+            "child": []
+          },
+          {
+            "name": "伊魁特",
+            "english": "Iqaluit",
+            "child": []
+          },
+          {
+            "name": "瑞瑟鲁特",
+            "english": "Resolute",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "柬埔寨",
+    "english": "KH",
+    "child": [
+      {
+        "name": "茶胶",
+        "english": "Takev",
+        "child": []
+      },
+      {
+        "name": "贡布",
+        "english": "Kampot",
+        "child": []
+      },
+      {
+        "name": "干丹",
+        "english": "Kandal",
+        "child": []
+      },
+      {
+        "name": "桔井",
+        "english": "Kracheh",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "克罗地亚",
+    "english": "HR",
+    "child": []
+  },
+  {
+    "name": "喀麦隆",
+    "english": "CM",
+    "child": []
+  },
+  {
+    "name": "开曼群岛",
+    "english": "KY",
+    "child": []
+  },
+  {
+    "name": "肯尼亚",
+    "english": "KE",
+    "child": []
+  },
+  {
+    "name": "科威特",
+    "english": "KW",
+    "child": []
+  },
+  {
+    "name": "利比里亚",
+    "english": "LR",
+    "child": []
+  },
+  {
+    "name": "黎巴嫩",
+    "english": "LB",
+    "child": []
+  },
+  {
+    "name": "利比亚",
+    "english": "LY",
+    "child": []
+  },
+  {
+    "name": "罗马尼亚",
+    "english": "RO",
+    "child": []
+  },
+  {
+    "name": "留尼旺岛",
+    "english": "RE",
+    "child": []
+  },
+  {
+    "name": "卢森堡",
+    "english": "LU",
+    "child": []
+  },
+  {
+    "name": "莱索托",
+    "english": "LS",
+    "child": []
+  },
+  {
+    "name": "拉脱维亚",
+    "english": "LV",
+    "child": []
+  },
+  {
+    "name": "卢旺达",
+    "english": "RW",
+    "child": []
+  },
+  {
+    "name": "老挝",
+    "english": "LA",
+    "child": []
+  },
+  {
+    "name": "列支敦士登",
+    "english": "LI",
+    "child": []
+  },
+  {
+    "name": "立陶宛",
+    "english": "LT",
+    "child": []
+  },
+  {
+    "name": "缅甸",
+    "english": "MM",
+    "child": []
+  },
+  {
+    "name": "马达加斯加",
+    "english": "MG",
+    "child": []
+  },
+  {
+    "name": "马尔代夫",
+    "english": "MV",
+    "child": [
+      {
+        "name": "福阿穆拉库",
+        "english": "Foammulah",
+        "child": []
+      },
+      {
+        "name": "法迪福卢",
+        "english": "Faadhippolhu",
+        "child": []
+      },
+      {
+        "name": "哈杜马蒂",
+        "english": "Hadhdhunmathi",
+        "child": []
+      },
+      {
+        "name": "科卢马杜卢",
+        "english": "Kolhumadulu",
+        "child": []
+      },
+      {
+        "name": "马累",
+        "english": "Male",
+        "child": []
+      },
+      {
+        "name": "穆拉库",
+        "english": "Mulakatholhu",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "摩尔多瓦",
+    "english": "MD",
+    "child": []
+  },
+  {
+    "name": "美国",
+    "english": "US",
+    "child": [
+      {
+        "name": "亚拉巴马州",
+        "english": "Alabama",
+        "child": []
+      },
+      {
+        "name": "阿拉斯加州",
+        "english": "Alaska",
+        "child": []
+      },
+      {
+        "name": "亚利桑那州",
+        "english": "Arizona",
+        "child": []
+      },
+      {
+        "name": "阿肯色州",
+        "english": "Arkansas",
+        "child": []
+      },
+      {
+        "name": "加利福尼亚州",
+        "english": "California",
+        "child": []
+      },
+      {
+        "name": "科罗拉多州",
+        "english": "Colorado",
+        "child": [
+          {
+            "name": "科默斯市",
+            "english": "CommerceCity",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "康涅狄格州",
+        "english": "Connecticut",
+        "child": []
+      },
+      {
+        "name": "特拉华州",
+        "english": "Delaware",
+        "child": []
+      },
+      {
+        "name": "佛罗里达州",
+        "english": "Florida",
+        "child": []
+      },
+      {
+        "name": "佐治亚州",
+        "english": "Georgia",
+        "child": []
+      },
+      {
+        "name": "夏威夷州",
+        "english": "Hawaii",
+        "child": []
+      },
+      {
+        "name": "爱达荷州",
+        "english": "Idaho",
+        "child": [
+          {
+            "name": "博伊西市",
+            "english": "BoiseCity",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "伊利诺伊州",
+        "english": "Illinois",
+        "child": []
+      },
+      {
+        "name": "印第安纳州",
+        "english": "Indiana",
+        "child": []
+      },
+      {
+        "name": "爱荷华州",
+        "english": "Iowa",
+        "child": []
+      },
+      {
+        "name": "堪萨斯州",
+        "english": "Kansas",
+        "child": []
+      },
+      {
+        "name": "肯塔基州",
+        "english": "Kentucky",
+        "child": []
+      },
+      {
+        "name": "路易斯安那州",
+        "english": "Louisiana",
+        "child": []
+      },
+      {
+        "name": "缅因州",
+        "english": "Maine",
+        "child": []
+      },
+      {
+        "name": "马里兰州",
+        "english": "Maryland",
+        "child": []
+      },
+      {
+        "name": "马萨诸塞州",
+        "english": "Massachusetts",
+        "child": []
+      },
+      {
+        "name": "密歇根州",
+        "english": "Michigan",
+        "child": []
+      },
+      {
+        "name": "明尼苏达州",
+        "english": "Minnesota",
+        "child": []
+      },
+      {
+        "name": "密西西比州",
+        "english": "Mississippi",
+        "child": []
+      },
+      {
+        "name": "密苏里州",
+        "english": "Missouri",
+        "child": []
+      },
+      {
+        "name": "蒙大拿州",
+        "english": "Montana",
+        "child": []
+      },
+      {
+        "name": "内布拉斯加州",
+        "english": "Nebraska",
+        "child": []
+      },
+      {
+        "name": "内华达州",
+        "english": "Nevada",
+        "child": []
+      },
+      {
+        "name": "俄亥俄州",
+        "english": "Ohio",
+        "child": []
+      },
+      {
+        "name": "俄克拉何马州",
+        "english": "Oklahoma",
+        "child": []
+      },
+      {
+        "name": "俄勒冈州",
+        "english": "Oregon",
+        "child": []
+      },
+      {
+        "name": "宾夕法尼亚州",
+        "english": "Pennsylvania",
+        "child": []
+      },
+      {
+        "name": "田纳西州",
+        "english": "Tennessee",
+        "child": []
+      },
+      {
+        "name": "得克萨斯",
+        "english": "Texas",
+        "child": []
+      },
+      {
+        "name": "犹他州",
+        "english": "Utah",
+        "child": []
+      },
+      {
+        "name": "佛蒙特州",
+        "english": "Vermont",
+        "child": []
+      },
+      {
+        "name": "弗吉尼亚州",
+        "english": "Virginia",
+        "child": []
+      },
+      {
+        "name": "华盛顿州",
+        "english": "Washington",
+        "child": []
+      },
+      {
+        "name": "威斯康星州",
+        "english": "Wisconsin",
+        "child": []
+      },
+      {
+        "name": "怀俄明州",
+        "english": "Wyoming",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "蒙古",
+    "english": "MN",
+    "child": []
+  },
+  {
+    "name": "孟加拉",
+    "english": "BD",
+    "child": []
+  },
+  {
+    "name": "秘鲁",
+    "english": "PE",
+    "child": []
+  },
+  {
+    "name": "摩洛哥",
+    "english": "MA",
+    "child": []
+  },
+  {
+    "name": "毛里求斯",
+    "english": "MU",
+    "child": []
+  },
+  {
+    "name": "毛里塔尼亚",
+    "english": "MR",
+    "child": []
+  },
+  {
+    "name": "马拉维",
+    "english": "MW",
+    "child": []
+  },
+  {
+    "name": "马来西亚",
+    "english": "MY",
+    "child": [
+      {
+        "name": "玻璃市",
+        "english": "Perlis",
+        "child": [
+          {
+            "name": "加央",
+            "english": "Kangar",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "丁加奴",
+        "english": "Terengganu",
+        "child": [
+          {
+            "name": "甘马挽",
+            "english": "Kemaman",
+            "child": []
+          },
+          {
+            "name": "龙运",
+            "english": "Dungun",
+            "child": []
+          },
+          {
+            "name": "马江",
+            "english": "Marang",
+            "child": []
+          },
+          {
+            "name": "实兆",
+            "english": "Setiu",
+            "child": []
+          },
+          {
+            "name": "乌鲁",
+            "english": "Hulu",
+            "child": []
+          },
+          {
+            "name": "勿述",
+            "english": "Besut",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "吉打",
+        "english": "Kedah",
+        "child": [
+          {
+            "name": "笨筒",
+            "english": "Pendang",
+            "child": []
+          },
+          {
+            "name": "浮罗交怡",
+            "english": "Langkawi",
+            "child": []
+          },
+          {
+            "name": "华玲",
+            "english": "Baling",
+            "child": []
+          },
+          {
+            "name": "居林",
+            "english": "Kulim",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "吉兰丹",
+        "english": "Kelantan",
+        "child": [
+          {
+            "name": "道北",
+            "english": "Tumpat",
+            "child": []
+          },
+          {
+            "name": "登卓",
+            "english": "Bachok",
+            "child": []
+          },
+          {
+            "name": "马樟",
+            "english": "Machang",
+            "child": []
+          },
+          {
+            "name": "日里",
+            "english": "Jeli",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "马六甲",
+        "english": "Malacca",
+        "child": [
+          {
+            "name": "马六甲市",
+            "english": "Melaka",
+            "child": []
+          },
+          {
+            "name": "野新",
+            "english": "Jasin",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "纳闽",
+        "english": "Labuan",
+        "child": [
+          {
+            "name": "纳闽",
+            "english": "Labuan",
+            "child": []
+          },
+          {
+            "name": "维多利亚",
+            "english": "Victoria",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "彭亨",
+        "english": "Pahang",
+        "child": [
+          {
+            "name": "北根",
+            "english": "Pekan",
+            "child": []
+          },
+          {
+            "name": "百乐",
+            "english": "Bera",
+            "child": []
+          },
+          {
+            "name": "淡马鲁",
+            "english": "Temerloh",
+            "child": []
+          },
+          {
+            "name": "而连突",
+            "english": "Jerantut",
+            "child": []
+          },
+          {
+            "name": "关丹",
+            "english": "Kuantan",
+            "child": []
+          },
+          {
+            "name": "劳勿",
+            "english": "Raub",
+            "child": []
+          },
+          {
+            "name": "马兰",
+            "english": "Maran",
+            "child": []
+          },
+          {
+            "name": "文冬",
+            "english": "Bentong",
+            "child": []
+          },
+          {
+            "name": "云冰",
+            "english": "Rompin",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "霹雳",
+        "english": "Perak",
+        "child": [
+          {
+            "name": "紅土坎",
+            "english": "Lumut",
+            "child": []
+          },
+          {
+            "name": "太平",
+            "english": "Taiping",
+            "child": []
+          },
+          {
+            "name": "怡保",
+            "english": "Ipoh",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "柔佛",
+        "english": "Johor",
+        "child": [
+          {
+            "name": "笨珍",
+            "english": "Pontian",
+            "child": []
+          },
+          {
+            "name": "丰盛港",
+            "english": "Mersing",
+            "child": []
+          },
+          {
+            "name": "居銮",
+            "english": "Kluang",
+            "child": []
+          },
+          {
+            "name": "麻坡",
+            "english": "Muar",
+            "child": []
+          },
+          {
+            "name": "昔加末",
+            "english": "Segamat",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "沙巴",
+        "english": "Sabah",
+        "child": [
+          {
+            "name": "吧巴",
+            "english": "Papar",
+            "child": []
+          },
+          {
+            "name": "必达士",
+            "english": "Pitas",
+            "child": []
+          },
+          {
+            "name": "保佛",
+            "english": "Beaufort",
+            "child": []
+          },
+          {
+            "name": "比鲁兰",
+            "english": "Beluran",
+            "child": []
+          },
+          {
+            "name": "兵南邦",
+            "english": "Penampang",
+            "child": []
+          },
+          {
+            "name": "担布南",
+            "english": "Tambunan",
+            "child": []
+          },
+          {
+            "name": "斗湖",
+            "english": "Tawau",
+            "child": []
+          },
+          {
+            "name": "丹南",
+            "english": "Tenom",
+            "child": []
+          },
+          {
+            "name": "斗亚兰",
+            "english": "Tuaran",
+            "child": []
+          },
+          {
+            "name": "古达",
+            "english": "Kudat",
+            "child": []
+          },
+          {
+            "name": "根地咬",
+            "english": "Keningau",
+            "child": []
+          },
+          {
+            "name": "古纳",
+            "english": "Kunak",
+            "child": []
+          },
+          {
+            "name": "京那巴登岸",
+            "english": "Kinabatangan",
+            "child": []
+          },
+          {
+            "name": "兰脑",
+            "english": "Ranau",
+            "child": []
+          },
+          {
+            "name": "纳巴湾",
+            "english": "Nabawan",
+            "child": []
+          },
+          {
+            "name": "山打根",
+            "english": "Sandakan",
+            "child": []
+          },
+          {
+            "name": "仙本那",
+            "english": "Semporna",
+            "child": []
+          },
+          {
+            "name": "西比陶",
+            "english": "Sipitang",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "沙捞越",
+        "english": "Sarawak",
+        "child": [
+          {
+            "name": "古晋",
+            "english": "Kuching",
+            "child": []
+          },
+          {
+            "name": "加帛",
+            "english": "Kapit",
+            "child": []
+          },
+          {
+            "name": "林梦",
+            "english": "Limbang",
+            "child": []
+          },
+          {
+            "name": "民都鲁",
+            "english": "Bintulu",
+            "child": []
+          },
+          {
+            "name": "木胶",
+            "english": "Mukah",
+            "child": []
+          },
+          {
+            "name": "美里",
+            "english": "Miri",
+            "child": []
+          },
+          {
+            "name": "木中",
+            "english": "Betong",
+            "child": []
+          },
+          {
+            "name": "泗里街",
+            "english": "Sarikei",
+            "child": []
+          },
+          {
+            "name": "三马拉汉",
+            "english": "Samarahan",
+            "child": []
+          },
+          {
+            "name": "泗务",
+            "english": "Sibu",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "雪兰莪",
+        "english": "Selangor",
+        "child": [
+          {
+            "name": "八打灵",
+            "english": "Petaling",
+            "child": []
+          },
+          {
+            "name": "鹅麦",
+            "english": "Gombak",
+            "child": []
+          },
+          {
+            "name": "雪邦",
+            "english": "Sepang",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "摩纳哥",
+    "english": "MC",
+    "child": []
+  },
+  {
+    "name": "马其顿",
+    "english": "MK",
+    "child": []
+  },
+  {
+    "name": "莫桑比克",
+    "english": "MZ",
+    "child": []
+  },
+  {
+    "name": "马绍尔群岛",
+    "english": "MH",
+    "child": []
+  },
+  {
+    "name": "墨西哥",
+    "english": "MX",
+    "child": [
+      {
+        "name": "奥夫雷贡城",
+        "english": "Obregon",
+        "child": []
+      },
+      {
+        "name": "阿瓜斯卡连斯特",
+        "english": "Aguascalientes",
+        "child": []
+      },
+      {
+        "name": "奥里萨巴",
+        "english": "Orizaba",
+        "child": []
+      },
+      {
+        "name": "埃莫西约",
+        "english": "Hermosillo",
+        "child": []
+      },
+      {
+        "name": "埃佩切",
+        "english": "Campeche",
+        "child": []
+      },
+      {
+        "name": "阿卡普尔科",
+        "english": "Acapulco",
+        "child": []
+      },
+      {
+        "name": "巴利城",
+        "english": "Valles",
+        "child": []
+      },
+      {
+        "name": "比利亚埃尔莫萨",
+        "english": "Villahermosa",
+        "child": []
+      },
+      {
+        "name": "蒂华纳",
+        "english": "Tijuana",
+        "child": []
+      },
+      {
+        "name": "杜兰戈",
+        "english": "Durango",
+        "child": []
+      },
+      {
+        "name": "恩塞纳达",
+        "english": "Ensenada",
+        "child": []
+      },
+      {
+        "name": "瓜达拉哈拉",
+        "english": "Guadalajara",
+        "child": []
+      },
+      {
+        "name": "瓜纳华托",
+        "english": "Guanajuato",
+        "child": []
+      },
+      {
+        "name": "哈拉帕",
+        "english": "Jalapa",
+        "child": []
+      },
+      {
+        "name": "华雷斯",
+        "english": "Juarez",
+        "child": []
+      },
+      {
+        "name": "库埃纳瓦卡",
+        "english": "Cuernavaca",
+        "child": []
+      },
+      {
+        "name": "夸察夸拉克斯",
+        "english": "Coatzacoalcos",
+        "child": []
+      },
+      {
+        "name": "库利阿坎",
+        "english": "Culiacan",
+        "child": []
+      },
+      {
+        "name": "科利马",
+        "english": "Colima",
+        "child": []
+      },
+      {
+        "name": "克雷塔罗",
+        "english": "Queretaro",
+        "child": []
+      },
+      {
+        "name": "莱昂",
+        "english": "Leon",
+        "child": []
+      },
+      {
+        "name": "雷诺萨",
+        "english": "Reynosa",
+        "child": []
+      },
+      {
+        "name": "蒙克洛瓦",
+        "english": "Monclova",
+        "child": []
+      },
+      {
+        "name": "梅里达",
+        "english": "Merida",
+        "child": []
+      },
+      {
+        "name": "莫雷利亚",
+        "english": "Morelia",
+        "child": []
+      },
+      {
+        "name": "马萨特兰",
+        "english": "Mazatlan",
+        "child": []
+      },
+      {
+        "name": "蒙特雷",
+        "english": "Monterrey",
+        "child": []
+      },
+      {
+        "name": "马塔莫罗斯",
+        "english": "Matamoros",
+        "child": []
+      },
+      {
+        "name": "墨西卡利",
+        "english": "Mexicali",
+        "child": []
+      },
+      {
+        "name": "诺加莱斯",
+        "english": "Nogales",
+        "child": []
+      },
+      {
+        "name": "普埃布拉",
+        "english": "Puebla",
+        "child": []
+      },
+      {
+        "name": "帕丘卡",
+        "english": "Pachuca",
+        "child": []
+      },
+      {
+        "name": "奇尔潘辛戈",
+        "english": "Chilpancingo",
+        "child": []
+      },
+      {
+        "name": "卡门",
+        "english": "Carmen",
+        "child": []
+      },
+      {
+        "name": "切图马尔",
+        "english": "Cheturnal",
+        "child": []
+      },
+      {
+        "name": "奇瓦瓦",
+        "english": "Chihuahua",
+        "child": []
+      },
+      {
+        "name": "萨尔蒂约",
+        "english": "Saltillo",
+        "child": []
+      },
+      {
+        "name": "塞拉亚",
+        "english": "Celaya",
+        "child": []
+      },
+      {
+        "name": "萨卡特卡斯",
+        "english": "Zacatecas",
+        "child": []
+      },
+      {
+        "name": "托卢卡",
+        "english": "Toluca",
+        "child": []
+      },
+      {
+        "name": "特拉斯卡拉",
+        "english": "Tlaxcala",
+        "child": []
+      },
+      {
+        "name": "托雷翁",
+        "english": "Torreon",
+        "child": []
+      },
+      {
+        "name": "坦皮科",
+        "english": "Tampico",
+        "child": []
+      },
+      {
+        "name": "特皮克",
+        "english": "Tepic",
+        "child": []
+      },
+      {
+        "name": "塔帕丘拉",
+        "english": "Tapachula",
+        "child": []
+      },
+      {
+        "name": "特瓦坎",
+        "english": "Tehuacan",
+        "child": []
+      },
+      {
+        "name": "维多利亚城",
+        "english": "Victoria",
+        "child": []
+      },
+      {
+        "name": "瓦哈卡",
+        "english": "Oaxaca",
+        "child": []
+      },
+      {
+        "name": "乌鲁阿潘",
+        "english": "Uruapan",
+        "child": []
+      },
+      {
+        "name": "韦拉克鲁斯",
+        "english": "Veracruz",
+        "child": []
+      },
+      {
+        "name": "伊拉普阿托",
+        "english": "Irapuato",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "尼泊尔",
+    "english": "NP",
+    "child": []
+  },
+  {
+    "name": "南非",
+    "english": "ZA",
+    "child": [
+      {
+        "name": "阿平顿",
+        "english": "Upington",
+        "child": []
+      },
+      {
+        "name": "彼德马里茨堡",
+        "english": "Pietermaritzburg",
+        "child": []
+      },
+      {
+        "name": "彼德斯堡",
+        "english": "Pietersburg",
+        "child": []
+      },
+      {
+        "name": "布雷达斯多普",
+        "english": "Bredasdorp",
+        "child": []
+      },
+      {
+        "name": "布隆方丹",
+        "english": "Bloemfontein",
+        "child": []
+      },
+      {
+        "name": "布隆克斯特斯普利特",
+        "english": "Bronkhorstspruit",
+        "child": []
+      },
+      {
+        "name": "比勒陀利亚",
+        "english": "Pretoria",
+        "child": []
+      },
+      {
+        "name": "比索",
+        "english": "Bisho",
+        "child": []
+      },
+      {
+        "name": "德班",
+        "english": "Durban",
+        "child": []
+      },
+      {
+        "name": "邓迪",
+        "english": "Dundee",
+        "child": []
+      },
+      {
+        "name": "弗雷堡",
+        "english": "Vryburg",
+        "child": []
+      },
+      {
+        "name": "弗里尼欣",
+        "english": "Vereeniging",
+        "child": []
+      },
+      {
+        "name": "格罗布莱斯达尔",
+        "english": "Groblersdal",
+        "child": []
+      },
+      {
+        "name": "金伯利",
+        "english": "Kimberley",
+        "child": []
+      },
+      {
+        "name": "基雅尼",
+        "english": "Giyani",
+        "child": []
+      },
+      {
+        "name": "克莱克斯多普",
+        "english": "Klerksdorp",
+        "child": []
+      },
+      {
+        "name": "库鲁曼",
+        "english": "Kuruman",
+        "child": []
+      },
+      {
+        "name": "昆士敦",
+        "english": "Queenstown",
+        "child": []
+      },
+      {
+        "name": "兰德方丹",
+        "english": "Randfontein",
+        "child": []
+      },
+      {
+        "name": "莱迪史密斯",
+        "english": "Ladysmith",
+        "child": []
+      },
+      {
+        "name": "利斯滕堡",
+        "english": "Rustenburg",
+        "child": []
+      },
+      {
+        "name": "米德尔堡",
+        "english": "Middelburg",
+        "child": []
+      },
+      {
+        "name": "姆库泽",
+        "english": "Mkuze",
+        "child": []
+      },
+      {
+        "name": "穆里斯堡",
+        "english": "Moorreesburg",
+        "child": []
+      },
+      {
+        "name": "内尔斯普雷特",
+        "english": "Nelspruit",
+        "child": []
+      },
+      {
+        "name": "尼尔斯特隆",
+        "english": "Nylstroom",
+        "child": []
+      },
+      {
+        "name": "纽卡斯尔",
+        "english": "Newcastle",
+        "child": []
+      },
+      {
+        "name": "乔治",
+        "english": "George",
+        "child": []
+      },
+      {
+        "name": "瑟孔达",
+        "english": "Secunda",
+        "child": []
+      },
+      {
+        "name": "萨索尔堡",
+        "english": "Sasolburg",
+        "child": []
+      },
+      {
+        "name": "托霍延杜",
+        "english": "Thohoyandou",
+        "child": []
+      },
+      {
+        "name": "特克索波",
+        "english": "Ixopo",
+        "child": []
+      },
+      {
+        "name": "跳羚",
+        "english": "Springbok",
+        "child": []
+      },
+      {
+        "name": "图拉马哈谢",
+        "english": "Thulamahashe",
+        "child": []
+      },
+      {
+        "name": "特隆普斯堡",
+        "english": "Trompsburg",
+        "child": []
+      },
+      {
+        "name": "韦茨肖克",
+        "english": "Witsieshoek",
+        "child": []
+      },
+      {
+        "name": "韦尔科姆",
+        "english": "Welkom",
+        "child": []
+      },
+      {
+        "name": "乌伦迪",
+        "english": "Ulundi",
+        "child": []
+      },
+      {
+        "name": "乌姆塔塔",
+        "english": "Umtata",
+        "child": []
+      },
+      {
+        "name": "伍斯特",
+        "english": "Worcester",
+        "child": []
+      },
+      {
+        "name": "约翰内斯堡",
+        "english": "Johannesburg",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "尼加拉瓜",
+    "english": "NI",
+    "child": []
+  },
+  {
+    "name": "纳米比亚",
+    "english": "NA",
+    "child": []
+  },
+  {
+    "name": "尼日利亚",
+    "english": "NG",
+    "child": []
+  },
+  {
+    "name": "挪威",
+    "english": "NO",
+    "child": []
+  },
+  {
+    "name": "帕劳群岛",
+    "english": "PW",
+    "child": []
+  },
+  {
+    "name": "葡萄牙",
+    "english": "PT",
+    "child": [
+      {
+        "name": "波尔图",
+        "english": "Porto",
+        "child": []
+      },
+      {
+        "name": "杜罗",
+        "english": "Douro",
+        "child": []
+      },
+      {
+        "name": "法鲁",
+        "english": "Faro",
+        "child": []
+      },
+      {
+        "name": "丰沙尔",
+        "english": "Funchal",
+        "child": []
+      },
+      {
+        "name": "里斯本",
+        "english": "Lisboa",
+        "child": []
+      },
+      {
+        "name": "卡瓦多",
+        "english": "Cavado",
+        "child": []
+      },
+      {
+        "name": "塔梅加",
+        "english": "Tamega",
+        "child": []
+      },
+      {
+        "name": "万福",
+        "english": "Ave",
+        "child": []
+      },
+      {
+        "name": "西部",
+        "english": "Oeste",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "卡塔尔",
+    "english": "QA",
+    "child": []
+  },
+  {
+    "name": "乔治亚",
+    "english": "GE",
+    "child": []
+  },
+  {
+    "name": "日本",
+    "english": "JP",
+    "child": [
+      {
+        "name": "爱媛",
+        "english": "Ehime",
+        "child": []
+      },
+      {
+        "name": "爱知",
+        "english": "Aichi",
+        "child": []
+      },
+      {
+        "name": "北海道",
+        "english": "Hokkaido",
+        "child": []
+      },
+      {
+        "name": "兵库",
+        "english": "Hyogo",
+        "child": []
+      },
+      {
+        "name": "宮城",
+        "english": "Miyagi",
+        "child": []
+      },
+      {
+        "name": "茨城",
+        "english": "Ibaraki",
+        "child": []
+      },
+      {
+        "name": "长崎",
+        "english": "Nagasaki",
+        "child": []
+      },
+      {
+        "name": "冲绳",
+        "english": "Okinawa",
+        "child": []
+      },
+      {
+        "name": "长野",
+        "english": "Nagano",
+        "child": []
+      },
+      {
+        "name": "大阪",
+        "english": "Osaka",
+        "child": []
+      },
+      {
+        "name": "徳岛",
+        "english": "Tokushima",
+        "child": []
+      },
+      {
+        "name": "大分",
+        "english": "Oita",
+        "child": []
+      },
+      {
+        "name": "岛根",
+        "english": "Shimane",
+        "child": []
+      },
+      {
+        "name": "东京",
+        "english": "Tokyo",
+        "child": []
+      },
+      {
+        "name": "福岛",
+        "english": "Fukushima",
+        "child": []
+      },
+      {
+        "name": "福冈",
+        "english": "Fukuoka",
+        "child": []
+      },
+      {
+        "name": "福井",
+        "english": "Fukui",
+        "child": []
+      },
+      {
+        "name": "富山",
+        "english": "Toyama",
+        "child": []
+      },
+      {
+        "name": "广岛",
+        "english": "Hiroshima",
+        "child": []
+      },
+      {
+        "name": "宫崎",
+        "english": "Miyazaki",
+        "child": []
+      },
+      {
+        "name": "冈山",
+        "english": "Okayama",
+        "child": []
+      },
+      {
+        "name": "高知",
+        "english": "Kochi",
+        "child": []
+      },
+      {
+        "name": "和歌山",
+        "english": "Wakayama",
+        "child": []
+      },
+      {
+        "name": "京都",
+        "english": "Kyoto",
+        "child": []
+      },
+      {
+        "name": "静冈",
+        "english": "Shizuoka",
+        "child": []
+      },
+      {
+        "name": "鹿儿岛",
+        "english": "Kagoshima",
+        "child": []
+      },
+      {
+        "name": "枥木",
+        "english": "Tochigi",
+        "child": []
+      },
+      {
+        "name": "奈良",
+        "english": "Nara",
+        "child": []
+      },
+      {
+        "name": "鸟取",
+        "english": "Tottori",
+        "child": []
+      },
+      {
+        "name": "岐阜",
+        "english": "Gifu",
+        "child": []
+      },
+      {
+        "name": "群马",
+        "english": "Gunma",
+        "child": []
+      },
+      {
+        "name": "青森",
+        "english": "Aomori",
+        "child": []
+      },
+      {
+        "name": "秋田",
+        "english": "Akita",
+        "child": []
+      },
+      {
+        "name": "埼玉",
+        "english": "Saitama",
+        "child": []
+      },
+      {
+        "name": "千叶",
+        "english": "Chiba",
+        "child": []
+      },
+      {
+        "name": "三重",
+        "english": "Mie",
+        "child": []
+      },
+      {
+        "name": "石川",
+        "english": "Ishikawa",
+        "child": []
+      },
+      {
+        "name": "山口",
+        "english": "Yamaguchi",
+        "child": []
+      },
+      {
+        "name": "山梨",
+        "english": "Yamanashi",
+        "child": []
+      },
+      {
+        "name": "神奈川",
+        "english": "Kanagawa",
+        "child": []
+      },
+      {
+        "name": "山形",
+        "english": "Yamagata",
+        "child": []
+      },
+      {
+        "name": "熊本",
+        "english": "Kumamoto",
+        "child": []
+      },
+      {
+        "name": "香川",
+        "english": "Kagawa",
+        "child": []
+      },
+      {
+        "name": "新潟",
+        "english": "Niigata",
+        "child": []
+      },
+      {
+        "name": "岩手",
+        "english": "Iwate",
+        "child": []
+      },
+      {
+        "name": "佐贺",
+        "english": "Saga",
+        "child": []
+      },
+      {
+        "name": "滋贺",
+        "english": "Shiga",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "瑞典",
+    "english": "SE",
+    "child": [
+      {
+        "name": "北博滕",
+        "english": "Norrbottens",
+        "child": []
+      },
+      {
+        "name": "布莱金厄",
+        "english": "Blekinge",
+        "child": []
+      },
+      {
+        "name": "达拉纳",
+        "english": "Dalarnas",
+        "child": []
+      },
+      {
+        "name": "东约特兰",
+        "english": "Ustergotland",
+        "child": []
+      },
+      {
+        "name": "厄勒布鲁",
+        "english": "Orebro",
+        "child": []
+      },
+      {
+        "name": "哥得兰",
+        "english": "Gotlands",
+        "child": []
+      },
+      {
+        "name": "哈兰",
+        "english": "Hallands",
+        "child": []
+      },
+      {
+        "name": "克鲁努贝里",
+        "english": "Kronobergs",
+        "child": []
+      },
+      {
+        "name": "南曼兰",
+        "english": "Sodermanlands",
+        "child": []
+      },
+      {
+        "name": "卡尔马",
+        "english": "Kalmar",
+        "child": []
+      },
+      {
+        "name": "斯德哥尔摩",
+        "english": "Stockholms",
+        "child": []
+      },
+      {
+        "name": "斯科耐",
+        "english": "Skane",
+        "child": []
+      },
+      {
+        "name": "韦姆兰",
+        "english": "Varmlands",
+        "child": []
+      },
+      {
+        "name": "乌普萨拉",
+        "english": "Uppsala",
+        "child": []
+      },
+      {
+        "name": "西博滕",
+        "english": "Vasterbottens",
+        "child": []
+      },
+      {
+        "name": "西曼兰",
+        "english": "Vastmanlands",
+        "child": []
+      },
+      {
+        "name": "西诺尔兰",
+        "english": "Vasternorrlands",
+        "child": []
+      },
+      {
+        "name": "耶夫勒堡",
+        "english": "Gavleborgs",
+        "child": []
+      },
+      {
+        "name": "耶姆特兰",
+        "english": "Jamtlands",
+        "child": []
+      },
+      {
+        "name": "延雪平",
+        "english": "Jonkopings",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "瑞士",
+    "english": "CH",
+    "child": [
+      {
+        "name": "阿尔高",
+        "english": "Aargau",
+        "child": []
+      },
+      {
+        "name": "伯尔尼",
+        "english": "Bern",
+        "child": []
+      },
+      {
+        "name": "楚格",
+        "english": "Zug",
+        "child": []
+      },
+      {
+        "name": "弗里堡",
+        "english": "Freiburg",
+        "child": []
+      },
+      {
+        "name": "格劳宾登",
+        "english": "Graubnden",
+        "child": []
+      },
+      {
+        "name": "格拉鲁斯",
+        "english": "Glarus",
+        "child": []
+      },
+      {
+        "name": "洛桑",
+        "english": "Lausanne",
+        "child": []
+      },
+      {
+        "name": "卢塞恩",
+        "english": "Luzern",
+        "child": []
+      },
+      {
+        "name": "纳沙泰尔",
+        "english": "Neuchatel",
+        "child": []
+      },
+      {
+        "name": "汝拉",
+        "english": "Jura",
+        "child": []
+      },
+      {
+        "name": "日内瓦",
+        "english": "Geneve",
+        "child": []
+      },
+      {
+        "name": "沙夫豪森",
+        "english": "Schaffhausen",
+        "child": []
+      },
+      {
+        "name": "苏黎世",
+        "english": "Zurich",
+        "child": []
+      },
+      {
+        "name": "索洛图恩",
+        "english": "Solothurn",
+        "child": []
+      },
+      {
+        "name": "施维茨",
+        "english": "Schwyz",
+        "child": []
+      },
+      {
+        "name": "上瓦尔登",
+        "english": "Obwalden",
+        "child": []
+      },
+      {
+        "name": "图尔高",
+        "english": "Thurgau",
+        "child": []
+      },
+      {
+        "name": "提契诺",
+        "english": "Ticino",
+        "child": []
+      },
+      {
+        "name": "沃",
+        "english": "Vaud",
+        "child": []
+      },
+      {
+        "name": "乌里",
+        "english": "Uri",
+        "child": []
+      },
+      {
+        "name": "瓦莱",
+        "english": "Wallis",
+        "child": []
+      },
+      {
+        "name": "下瓦尔登",
+        "english": "Nidwalden",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "苏丹",
+    "english": "SD",
+    "child": []
+  },
+  {
+    "name": "塞尔维亚",
+    "english": "RS",
+    "child": []
+  },
+  {
+    "name": "圣基茨和尼维斯",
+    "english": "KN",
+    "child": []
+  },
+  {
+    "name": "斯洛伐克",
+    "english": "SK",
+    "child": []
+  },
+  {
+    "name": "塞拉利昂",
+    "english": "SL",
+    "child": []
+  },
+  {
+    "name": "斯里兰卡",
+    "english": "LK",
+    "child": []
+  },
+  {
+    "name": "所罗门群岛",
+    "english": "SB",
+    "child": []
+  },
+  {
+    "name": "苏里南",
+    "english": "SR",
+    "child": []
+  },
+  {
+    "name": "斯洛文尼亚",
+    "english": "SI",
+    "child": []
+  },
+  {
+    "name": "圣马力诺",
+    "english": "SM",
+    "child": []
+  },
+  {
+    "name": "萨摩亚",
+    "english": "WS",
+    "child": []
+  },
+  {
+    "name": "塞内加尔",
+    "english": "SN",
+    "child": []
+  },
+  {
+    "name": "塞舌尔",
+    "english": "SC",
+    "child": []
+  },
+  {
+    "name": "沙特阿拉伯",
+    "english": "SA",
+    "child": [
+      {
+        "name": "艾卜哈",
+        "english": "Abha",
+        "child": []
+      },
+      {
+        "name": "阿尔阿尔",
+        "english": "Arar",
+        "child": []
+      },
+      {
+        "name": "布赖代",
+        "english": "Buraydah",
+        "child": []
+      },
+      {
+        "name": "达曼",
+        "english": "Dammam",
+        "child": []
+      },
+      {
+        "name": "哈伊勒",
+        "english": "Hail",
+        "child": []
+      },
+      {
+        "name": "吉达",
+        "english": "Jiddah",
+        "child": []
+      },
+      {
+        "name": "吉赞",
+        "english": "Jizan",
+        "child": []
+      },
+      {
+        "name": "利雅得",
+        "english": "Riyad",
+        "child": []
+      },
+      {
+        "name": "麦地那",
+        "english": "Medina",
+        "child": []
+      },
+      {
+        "name": "麦加",
+        "english": "Makkah",
+        "child": []
+      },
+      {
+        "name": "纳季兰",
+        "english": "Najran",
+        "child": []
+      },
+      {
+        "name": "塞卡卡",
+        "english": "Sakaka",
+        "child": []
+      },
+      {
+        "name": "塔布克",
+        "english": "Tabuk",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "斯威士兰",
+    "english": "SZ",
+    "child": []
+  },
+  {
+    "name": "土耳其",
+    "english": "TR",
+    "child": [
+      {
+        "name": "艾登",
+        "english": "Aydin",
+        "child": []
+      },
+      {
+        "name": "埃迪尔内",
+        "english": "Edirne",
+        "child": []
+      },
+      {
+        "name": "阿达纳",
+        "english": "Adana",
+        "child": []
+      },
+      {
+        "name": "阿德亚曼",
+        "english": "Adiyaman",
+        "child": []
+      },
+      {
+        "name": "奥尔杜",
+        "english": "Ordu",
+        "child": []
+      },
+      {
+        "name": "阿尔达罕",
+        "english": "Ardahan",
+        "child": []
+      },
+      {
+        "name": "埃尔津詹",
+        "english": "Erzincan",
+        "child": []
+      },
+      {
+        "name": "阿尔特温",
+        "english": "Artvin",
+        "child": []
+      },
+      {
+        "name": "埃尔祖鲁姆",
+        "english": "Erzurum",
+        "child": []
+      },
+      {
+        "name": "阿菲永",
+        "english": "Afyon",
+        "child": []
+      },
+      {
+        "name": "阿克萨赖",
+        "english": "Aksaray",
+        "child": []
+      },
+      {
+        "name": "阿勒",
+        "english": "Agri",
+        "child": []
+      },
+      {
+        "name": "埃拉泽",
+        "english": "Elazig",
+        "child": []
+      },
+      {
+        "name": "阿马西亚",
+        "english": "Amasya",
+        "child": []
+      },
+      {
+        "name": "安卡拉",
+        "english": "Ankara",
+        "child": []
+      },
+      {
+        "name": "埃斯基谢希尔",
+        "english": "Eskisehir",
+        "child": []
+      },
+      {
+        "name": "安塔利亚",
+        "english": "Antalya",
+        "child": []
+      },
+      {
+        "name": "布尔杜尔",
+        "english": "Burdur",
+        "child": []
+      },
+      {
+        "name": "布尔萨",
+        "english": "Bursa",
+        "child": []
+      },
+      {
+        "name": "巴尔腾",
+        "english": "Bartin",
+        "child": []
+      },
+      {
+        "name": "宾格尔",
+        "english": "Bingol",
+        "child": []
+      },
+      {
+        "name": "博卢",
+        "english": "Bolu",
+        "child": []
+      },
+      {
+        "name": "比莱吉克",
+        "english": "Bilecik",
+        "child": []
+      },
+      {
+        "name": "巴勒克埃西尔",
+        "english": "Balikesir",
+        "child": []
+      },
+      {
+        "name": "比特利斯",
+        "english": "Bitlis",
+        "child": []
+      },
+      {
+        "name": "巴特曼",
+        "english": "Batman",
+        "child": []
+      },
+      {
+        "name": "巴伊布尔特",
+        "english": "Bayburt",
+        "child": []
+      },
+      {
+        "name": "昌克勒",
+        "english": "Cankiri",
+        "child": []
+      },
+      {
+        "name": "代尼兹利",
+        "english": "Denizli",
+        "child": []
+      },
+      {
+        "name": "迪亚巴克尔",
+        "english": "Diyarbakir",
+        "child": []
+      },
+      {
+        "name": "凡",
+        "english": "Van",
+        "child": []
+      },
+      {
+        "name": "哈卡里",
+        "english": "Hakkari",
+        "child": []
+      },
+      {
+        "name": "哈塔伊",
+        "english": "Hatay",
+        "child": []
+      },
+      {
+        "name": "加济安泰普",
+        "english": "Gaziantep",
+        "child": []
+      },
+      {
+        "name": "吉雷松",
+        "english": "Giresun",
+        "child": []
+      },
+      {
+        "name": "基利斯",
+        "english": "Kilis",
+        "child": []
+      },
+      {
+        "name": "居米什哈内",
+        "english": "Gumushane",
+        "child": []
+      },
+      {
+        "name": "克尔谢希尔",
+        "english": "Kirsehir",
+        "child": []
+      },
+      {
+        "name": "科贾埃利",
+        "english": "Kocaeli",
+        "child": []
+      },
+      {
+        "name": "柯克拉雷利",
+        "english": "Kirklareli",
+        "child": []
+      },
+      {
+        "name": "克勒克卡莱",
+        "english": "Kirikkale",
+        "child": []
+      },
+      {
+        "name": "科尼亚",
+        "english": "Konya",
+        "child": []
+      },
+      {
+        "name": "开塞利",
+        "english": "Kayseri",
+        "child": []
+      },
+      {
+        "name": "拉飞",
+        "english": "Urfa",
+        "child": []
+      },
+      {
+        "name": "里泽",
+        "english": "Rize",
+        "child": []
+      },
+      {
+        "name": "马尔丁",
+        "english": "Mardin",
+        "child": []
+      },
+      {
+        "name": "穆拉",
+        "english": "Mugla",
+        "child": []
+      },
+      {
+        "name": "马拉蒂亚",
+        "english": "Malatya",
+        "child": []
+      },
+      {
+        "name": "马尼萨",
+        "english": "Manisa",
+        "child": []
+      },
+      {
+        "name": "穆什",
+        "english": "Mus",
+        "child": []
+      },
+      {
+        "name": "尼代",
+        "english": "Nigde",
+        "child": []
+      },
+      {
+        "name": "内夫谢希尔",
+        "english": "Nevsehir",
+        "child": []
+      },
+      {
+        "name": "卡尔斯",
+        "english": "Kars",
+        "child": []
+      },
+      {
+        "name": "卡拉比克",
+        "english": "Karabuk",
+        "child": []
+      },
+      {
+        "name": "乔鲁姆",
+        "english": "Corum",
+        "child": []
+      },
+      {
+        "name": "卡拉曼",
+        "english": "Karaman",
+        "child": []
+      },
+      {
+        "name": "恰纳卡莱",
+        "english": "Canakkale",
+        "child": []
+      },
+      {
+        "name": "卡斯塔莫努",
+        "english": "Kastamonu",
+        "child": []
+      },
+      {
+        "name": "屈塔希亚",
+        "english": "Kutahya",
+        "child": []
+      },
+      {
+        "name": "萨姆松",
+        "english": "Samsun",
+        "child": []
+      },
+      {
+        "name": "萨卡里亚",
+        "english": "Sakarya",
+        "child": []
+      },
+      {
+        "name": "泰基尔达",
+        "english": "Tekirdag",
+        "child": []
+      },
+      {
+        "name": "通杰利",
+        "english": "Tunceli",
+        "child": []
+      },
+      {
+        "name": "特拉布宗",
+        "english": "Trabzon",
+        "child": []
+      },
+      {
+        "name": "托卡特",
+        "english": "Tokat",
+        "child": []
+      },
+      {
+        "name": "乌萨克",
+        "english": "Usak",
+        "child": []
+      },
+      {
+        "name": "锡尔纳克",
+        "english": "Sirnak",
+        "child": []
+      },
+      {
+        "name": "锡尔特",
+        "english": "Siirt",
+        "child": []
+      },
+      {
+        "name": "锡诺普",
+        "english": "Sinop",
+        "child": []
+      },
+      {
+        "name": "锡瓦斯",
+        "english": "Sivas",
+        "child": []
+      },
+      {
+        "name": "伊迪尔",
+        "english": "Igdir",
+        "child": []
+      },
+      {
+        "name": "伊切尔",
+        "english": "Icel",
+        "child": []
+      },
+      {
+        "name": "伊斯帕尔塔",
+        "english": "Isparta",
+        "child": []
+      },
+      {
+        "name": "伊斯坦布尔",
+        "english": "Istanbul",
+        "child": []
+      },
+      {
+        "name": "约兹加特",
+        "english": "Yozgat",
+        "child": []
+      },
+      {
+        "name": "伊兹密尔",
+        "english": "Izmir",
+        "child": []
+      },
+      {
+        "name": "宗古尔达克",
+        "english": "Zonguldak",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "泰国",
+    "english": "TH",
+    "child": [
+      {
+        "name": "北碧",
+        "english": "Kanchanaburi",
+        "child": []
+      },
+      {
+        "name": "北标",
+        "english": "Saraburi",
+        "child": []
+      },
+      {
+        "name": "碧差汶",
+        "english": "Phetchabun",
+        "child": []
+      },
+      {
+        "name": "博达伦",
+        "english": "Phatthalung",
+        "child": []
+      },
+      {
+        "name": "北大年",
+        "english": "Pattani",
+        "child": []
+      },
+      {
+        "name": "北柳",
+        "english": "Chachoengsao",
+        "child": []
+      },
+      {
+        "name": "春蓬",
+        "english": "Chumphon",
+        "child": []
+      },
+      {
+        "name": "程逸",
+        "english": "Uttaradit",
+        "child": []
+      },
+      {
+        "name": "猜也奔",
+        "english": "Chaiyaphum",
+        "child": []
+      },
+      {
+        "name": "达",
+        "english": "Tak",
+        "child": []
+      },
+      {
+        "name": "董里",
+        "english": "Trang",
+        "child": []
+      },
+      {
+        "name": "达叻",
+        "english": "Trat",
+        "child": []
+      },
+      {
+        "name": "佛丕",
+        "english": "Phetchaburi",
+        "child": []
+      },
+      {
+        "name": "加拉信",
+        "english": "Kalasin",
+        "child": []
+      },
+      {
+        "name": "甲米",
+        "english": "Krabi",
+        "child": []
+      },
+      {
+        "name": "尖竹汶",
+        "english": "Chanthaburi",
+        "child": []
+      },
+      {
+        "name": "黎",
+        "english": "Loei",
+        "child": []
+      },
+      {
+        "name": "拉农",
+        "english": "Rayong",
+        "child": []
+      },
+      {
+        "name": "叻丕",
+        "english": "Ratchaburi",
+        "child": []
+      },
+      {
+        "name": "罗勇",
+        "english": "Ranong",
+        "child": []
+      },
+      {
+        "name": "莫达汉",
+        "english": "Mukdahan",
+        "child": []
+      },
+      {
+        "name": "曼谷",
+        "english": "Bangkok",
+        "child": []
+      },
+      {
+        "name": "难",
+        "english": "Nan",
+        "child": []
+      },
+      {
+        "name": "南奔",
+        "english": "Lamphun",
+        "child": []
+      },
+      {
+        "name": "暖武里",
+        "english": "Nonthaburi",
+        "child": []
+      },
+      {
+        "name": "帕",
+        "english": "Phrae",
+        "child": []
+      },
+      {
+        "name": "披集",
+        "english": "Phichit",
+        "child": []
+      },
+      {
+        "name": "普吉",
+        "english": "Phuket",
+        "child": []
+      },
+      {
+        "name": "彭世洛",
+        "english": "Phitsanulok",
+        "child": []
+      },
+      {
+        "name": "攀牙",
+        "english": "Phangnga",
+        "child": []
+      },
+      {
+        "name": "帕尧",
+        "english": "Phayao",
+        "child": []
+      },
+      {
+        "name": "沙敦",
+        "english": "Satun",
+        "child": []
+      },
+      {
+        "name": "素可泰",
+        "english": "Sukhothai",
+        "child": []
+      },
+      {
+        "name": "素林",
+        "english": "Surin",
+        "child": []
+      },
+      {
+        "name": "宋卡",
+        "english": "Songkhla",
+        "child": []
+      },
+      {
+        "name": "陶公",
+        "english": "Narathiwat",
+        "child": []
+      },
+      {
+        "name": "也拉",
+        "english": "Yala",
+        "child": []
+      },
+      {
+        "name": "耶梭通",
+        "english": "Yasothon",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "汤加",
+    "english": "TO",
+    "child": []
+  },
+  {
+    "name": "塔吉克斯坦",
+    "english": "TJ",
+    "child": []
+  },
+  {
+    "name": "特立尼达和多巴哥",
+    "english": "TT",
+    "child": []
+  },
+  {
+    "name": "坦桑尼亚",
+    "english": "TZ",
+    "child": []
+  },
+  {
+    "name": "危地马拉",
+    "english": "GT",
+    "child": []
+  },
+  {
+    "name": "乌干达",
+    "english": "UG",
+    "child": []
+  },
+  {
+    "name": "乌克兰",
+    "english": "UA",
+    "child": [
+      {
+        "name": "敖德萨",
+        "english": "Odessa",
+        "child": []
+      },
+      {
+        "name": "波尔塔瓦",
+        "english": "Poltava",
+        "child": []
+      },
+      {
+        "name": "第聂伯罗波得罗夫斯克",
+        "english": "Dnipropetrovsk",
+        "child": []
+      },
+      {
+        "name": "顿涅茨克",
+        "english": "Donetsk",
+        "child": []
+      },
+      {
+        "name": "哈尔科夫",
+        "english": "Kharkiv",
+        "child": []
+      },
+      {
+        "name": "赫尔松州",
+        "english": "Khersonsrka",
+        "child": []
+      },
+      {
+        "name": "赫梅利尼茨基",
+        "english": "Khmelnytsky",
+        "child": []
+      },
+      {
+        "name": "捷尔诺波尔",
+        "english": "Ternopil",
+        "child": []
+      },
+      {
+        "name": "基辅",
+        "english": "Kyiv",
+        "child": []
+      },
+      {
+        "name": "基洛夫格勒",
+        "english": "Kirovohrad",
+        "child": []
+      },
+      {
+        "name": "罗夫诺",
+        "english": "Rivne",
+        "child": []
+      },
+      {
+        "name": "卢甘斯克",
+        "english": "Luhansk",
+        "child": []
+      },
+      {
+        "name": "利沃夫",
+        "english": "Lviv",
+        "child": []
+      },
+      {
+        "name": "尼古拉耶夫",
+        "english": "Mykolayiv",
+        "child": []
+      },
+      {
+        "name": "切尔诺夫策",
+        "english": "Chernivtsi",
+        "child": []
+      },
+      {
+        "name": "切尔尼戈夫",
+        "english": "Chernihiv",
+        "child": []
+      },
+      {
+        "name": "切尔卡瑟",
+        "english": "Cherkasy",
+        "child": []
+      },
+      {
+        "name": "日托米尔",
+        "english": "Zhytomyr",
+        "child": []
+      },
+      {
+        "name": "苏梅",
+        "english": "Sumy",
+        "child": []
+      },
+      {
+        "name": "外喀尔巴阡",
+        "english": "Zakarpatska",
+        "child": []
+      },
+      {
+        "name": "沃伦",
+        "english": "Volyn",
+        "child": []
+      },
+      {
+        "name": "文尼察",
+        "english": "Vinnytsya",
+        "child": []
+      },
+      {
+        "name": "扎波罗热",
+        "english": "Zaporizhzhya",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "文莱",
+    "english": "BN",
+    "child": []
+  },
+  {
+    "name": "乌拉圭",
+    "english": "UY",
+    "child": []
+  },
+  {
+    "name": "瓦努阿图",
+    "english": "VU",
+    "child": []
+  },
+  {
+    "name": "委内瑞拉",
+    "english": "VE",
+    "child": [
+      {
+        "name": "阿拉瓜",
+        "english": "Aragua",
+        "child": []
+      },
+      {
+        "name": "阿普雷",
+        "english": "Apure",
+        "child": []
+      },
+      {
+        "name": "安索阿特吉",
+        "english": "Anzoategui",
+        "child": []
+      },
+      {
+        "name": "巴里纳斯",
+        "english": "Barinas",
+        "child": []
+      },
+      {
+        "name": "玻利瓦尔",
+        "english": "Bolivar",
+        "child": []
+      },
+      {
+        "name": "波图格萨",
+        "english": "Portuguesa",
+        "child": []
+      },
+      {
+        "name": "法尔孔",
+        "english": "Falcon",
+        "child": []
+      },
+      {
+        "name": "瓜里科",
+        "english": "Guarico",
+        "child": []
+      },
+      {
+        "name": "加拉加斯",
+        "english": "Caracas",
+        "child": []
+      },
+      {
+        "name": "科赫德斯",
+        "english": "Cojedes",
+        "child": []
+      },
+      {
+        "name": "拉腊",
+        "english": "Lara",
+        "child": []
+      },
+      {
+        "name": "梅里达",
+        "english": "Merida",
+        "child": []
+      },
+      {
+        "name": "米兰达",
+        "english": "Miranda",
+        "child": []
+      },
+      {
+        "name": "莫纳加斯",
+        "english": "Monagas",
+        "child": []
+      },
+      {
+        "name": "卡拉沃沃",
+        "english": "Carabobo",
+        "child": []
+      },
+      {
+        "name": "苏克雷",
+        "english": "Sucre",
+        "child": []
+      },
+      {
+        "name": "苏利亚",
+        "english": "Zulia",
+        "child": []
+      },
+      {
+        "name": "特鲁希略",
+        "english": "Trujillo",
+        "child": []
+      },
+      {
+        "name": "塔奇拉",
+        "english": "Tachira",
+        "child": []
+      },
+      {
+        "name": "亚拉奎",
+        "english": "Yaracuy",
+        "child": []
+      },
+      {
+        "name": "亚马孙",
+        "english": "Amazonas",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "乌兹别克斯坦",
+    "english": "UZ",
+    "child": []
+  },
+  {
+    "name": "西班牙",
+    "english": "ES",
+    "child": [
+      {
+        "name": "阿尔梅里亚",
+        "english": "Almeria",
+        "child": []
+      },
+      {
+        "name": "阿尔瓦塞特",
+        "english": "Albacete",
+        "child": []
+      },
+      {
+        "name": "阿利坎特",
+        "english": "Alicante",
+        "child": []
+      },
+      {
+        "name": "奥伦塞",
+        "english": "Orense",
+        "child": []
+      },
+      {
+        "name": "阿拉瓦",
+        "english": "Alava",
+        "child": []
+      },
+      {
+        "name": "阿斯图利亚斯",
+        "english": "Asturias",
+        "child": []
+      },
+      {
+        "name": "阿维拉",
+        "english": "Avila",
+        "child": []
+      },
+      {
+        "name": "巴达霍斯",
+        "english": "Badajoz",
+        "child": []
+      },
+      {
+        "name": "布尔戈斯",
+        "english": "Burgos",
+        "child": []
+      },
+      {
+        "name": "巴利阿里",
+        "english": "Baleares",
+        "child": []
+      },
+      {
+        "name": "巴伦西亚",
+        "english": "Valencia",
+        "child": []
+      },
+      {
+        "name": "巴利亚多利德",
+        "english": "Valladolid",
+        "child": []
+      },
+      {
+        "name": "比斯开",
+        "english": "Vizcaya",
+        "child": []
+      },
+      {
+        "name": "巴塞罗那",
+        "english": "Barcelona",
+        "child": []
+      },
+      {
+        "name": "瓜达拉哈拉",
+        "english": "Guadalajara",
+        "child": []
+      },
+      {
+        "name": "格拉纳达",
+        "english": "Granada",
+        "child": []
+      },
+      {
+        "name": "哈恩",
+        "english": "Jaen",
+        "child": []
+      },
+      {
+        "name": "赫罗纳",
+        "english": "Gerona",
+        "child": []
+      },
+      {
+        "name": "加的斯",
+        "english": "Cadiz",
+        "child": []
+      },
+      {
+        "name": "吉普斯夸",
+        "english": "Guipuzcoa",
+        "child": []
+      },
+      {
+        "name": "科尔多瓦",
+        "english": "Cordoba",
+        "child": []
+      },
+      {
+        "name": "昆卡",
+        "english": "Cuenca",
+        "child": []
+      },
+      {
+        "name": "莱昂",
+        "english": "Leon",
+        "child": []
+      },
+      {
+        "name": "莱里达",
+        "english": "Lleida",
+        "child": []
+      },
+      {
+        "name": "马德里",
+        "english": "Madrid",
+        "child": []
+      },
+      {
+        "name": "穆尔西亚",
+        "english": "Murcia",
+        "child": []
+      },
+      {
+        "name": "马拉加",
+        "english": "Malaga",
+        "child": []
+      },
+      {
+        "name": "纳瓦拉",
+        "english": "Navarra",
+        "child": []
+      },
+      {
+        "name": "帕伦西亚",
+        "english": "Palencia",
+        "child": []
+      },
+      {
+        "name": "卡塞雷斯",
+        "english": "Caceres",
+        "child": []
+      },
+      {
+        "name": "卡斯特利翁",
+        "english": "Castellon",
+        "child": []
+      },
+      {
+        "name": "塞哥维亚",
+        "english": "Segovia",
+        "child": []
+      },
+      {
+        "name": "萨拉戈萨",
+        "english": "Zaragoza",
+        "child": []
+      },
+      {
+        "name": "萨拉曼卡",
+        "english": "Salamanca",
+        "child": []
+      },
+      {
+        "name": "索里亚",
+        "english": "Soria",
+        "child": []
+      },
+      {
+        "name": "萨莫拉",
+        "english": "Zamora",
+        "child": []
+      },
+      {
+        "name": "桑坦德",
+        "english": "Santander",
+        "child": []
+      },
+      {
+        "name": "塞维利亚",
+        "english": "Sevilla",
+        "child": []
+      },
+      {
+        "name": "特鲁埃尔",
+        "english": "Teruel",
+        "child": []
+      },
+      {
+        "name": "托莱多",
+        "english": "Toledo",
+        "child": []
+      },
+      {
+        "name": "塔拉戈纳",
+        "english": "Tarragona",
+        "child": []
+      },
+      {
+        "name": "韦尔瓦",
+        "english": "Huelva",
+        "child": []
+      },
+      {
+        "name": "韦斯卡",
+        "english": "Huesca",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "新加坡",
+    "english": "SG",
+    "child": []
+  },
+  {
+    "name": "新喀里多尼亚",
+    "english": "NC",
+    "child": []
+  },
+  {
+    "name": "希腊",
+    "english": "GR",
+    "child": []
+  },
+  {
+    "name": "新西兰",
+    "english": "NZ",
+    "child": [
+      {
+        "name": "奥克兰",
+        "english": "Auckland",
+        "child": []
+      },
+      {
+        "name": "布莱尼姆",
+        "english": "Blenheim",
+        "child": []
+      },
+      {
+        "name": "达尼丁",
+        "english": "Dunedin",
+        "child": []
+      },
+      {
+        "name": "格雷茅斯",
+        "english": "Greymouth",
+        "child": []
+      },
+      {
+        "name": "哈密尔顿",
+        "english": "Hamilton",
+        "child": []
+      },
+      {
+        "name": "黑斯廷斯",
+        "english": "Hastings",
+        "child": []
+      },
+      {
+        "name": "怀塔科拉",
+        "english": "Waitakere",
+        "child": []
+      },
+      {
+        "name": "惠灵顿",
+        "english": "Wellington",
+        "child": []
+      },
+      {
+        "name": "吉斯伯恩",
+        "english": "Gisborne",
+        "child": []
+      },
+      {
+        "name": "克赖斯特彻奇",
+        "english": "Christchurch",
+        "child": []
+      },
+      {
+        "name": "凯帕拉",
+        "english": "Kaipara",
+        "child": []
+      },
+      {
+        "name": "里士满",
+        "english": "Richmond",
+        "child": []
+      },
+      {
+        "name": "马努考",
+        "english": "Manukau",
+        "child": []
+      },
+      {
+        "name": "纳尔逊",
+        "english": "Nelson",
+        "child": []
+      },
+      {
+        "name": "内皮尔",
+        "english": "Napier",
+        "child": []
+      },
+      {
+        "name": "斯特拉特福德",
+        "english": "Stratford",
+        "child": []
+      },
+      {
+        "name": "陶马鲁努伊",
+        "english": "Taumarunui",
+        "child": []
+      },
+      {
+        "name": "旺阿雷",
+        "english": "Whangarei",
+        "child": []
+      },
+      {
+        "name": "旺格努伊",
+        "english": "Wanganui",
+        "child": []
+      },
+      {
+        "name": "瓦卡塔尼",
+        "english": "Whakatane",
+        "child": []
+      },
+      {
+        "name": "因弗卡吉尔",
+        "english": "Invercargill",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "匈牙利",
+    "english": "HU",
+    "child": [
+      {
+        "name": "布达佩斯",
+        "english": "Budapest",
+        "child": []
+      },
+      {
+        "name": "贝凯什",
+        "english": "Bekes",
+        "child": []
+      },
+      {
+        "name": "巴兰尼亚",
+        "english": "Baranya",
+        "child": []
+      },
+      {
+        "name": "费耶尔",
+        "english": "Fejer",
+        "child": []
+      },
+      {
+        "name": "赫维什",
+        "english": "Heves",
+        "child": []
+      },
+      {
+        "name": "诺格拉德",
+        "english": "Nograd",
+        "child": []
+      },
+      {
+        "name": "佩斯",
+        "english": "Pest",
+        "child": []
+      },
+      {
+        "name": "琼格拉德",
+        "english": "Csongrad",
+        "child": []
+      },
+      {
+        "name": "绍莫吉",
+        "english": "Somogy",
+        "child": []
+      },
+      {
+        "name": "托尔瑙",
+        "english": "Tolna",
+        "child": []
+      },
+      {
+        "name": "沃什",
+        "english": "Vas",
+        "child": []
+      },
+      {
+        "name": "维斯普雷姆",
+        "english": "Veszprem",
+        "child": []
+      },
+      {
+        "name": "佐洛",
+        "english": "Zala",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "印度",
+    "english": "IN",
+    "child": [
+      {
+        "name": "阿格拉",
+        "english": "Agra",
+        "child": []
+      },
+      {
+        "name": "艾哈迈达巴德",
+        "english": "Ahmedabad",
+        "child": []
+      },
+      {
+        "name": "阿加尔塔拉",
+        "english": "Agartala",
+        "child": []
+      },
+      {
+        "name": "阿里格尔",
+        "english": "Aligarh",
+        "child": []
+      },
+      {
+        "name": "阿拉哈巴德",
+        "english": "Allahabad",
+        "child": []
+      },
+      {
+        "name": "奥兰加巴德",
+        "english": "Aurangabad",
+        "child": []
+      },
+      {
+        "name": "阿姆利则",
+        "english": "Amritsar",
+        "child": []
+      },
+      {
+        "name": "艾藻尔",
+        "english": "Aizawl",
+        "child": []
+      },
+      {
+        "name": "布巴内斯瓦尔",
+        "english": "Bhubaneswar",
+        "child": []
+      },
+      {
+        "name": "本地治里",
+        "english": "Pondicherry",
+        "child": []
+      },
+      {
+        "name": "班加罗尔",
+        "english": "Bangalore",
+        "child": []
+      },
+      {
+        "name": "巴罗达",
+        "english": "Baroda",
+        "child": []
+      },
+      {
+        "name": "邦纳西克",
+        "english": "Nasik",
+        "child": []
+      },
+      {
+        "name": "博帕尔",
+        "english": "Bhopal",
+        "child": []
+      },
+      {
+        "name": "波卡罗",
+        "english": "Bokaro",
+        "child": []
+      },
+      {
+        "name": "巴特那",
+        "english": "Patna",
+        "child": []
+      },
+      {
+        "name": "昌迪加尔",
+        "english": "Chandigarh",
+        "child": []
+      },
+      {
+        "name": "查谟",
+        "english": "Jammu",
+        "child": []
+      },
+      {
+        "name": "杜加浦",
+        "english": "Durgapur",
+        "child": []
+      },
+      {
+        "name": "德拉敦",
+        "english": "Dehradun",
+        "child": []
+      },
+      {
+        "name": "蒂鲁吉拉伯利",
+        "english": "Tiruchirappalli",
+        "child": []
+      },
+      {
+        "name": "迪马普尔",
+        "english": "Dimapur",
+        "child": []
+      },
+      {
+        "name": "法里达巴德",
+        "english": "Faridabad",
+        "child": []
+      },
+      {
+        "name": "果阿",
+        "english": "Goa",
+        "child": []
+      },
+      {
+        "name": "甘地讷格尔",
+        "english": "Gandhinagar",
+        "child": []
+      },
+      {
+        "name": "戈尔",
+        "english": "Kolhapur",
+        "child": []
+      },
+      {
+        "name": "古尔加翁",
+        "english": "Gurgaon",
+        "child": []
+      },
+      {
+        "name": "瓜廖尔",
+        "english": "Gwalior",
+        "child": []
+      },
+      {
+        "name": "古瓦哈提",
+        "english": "Guwahati",
+        "child": []
+      },
+      {
+        "name": "哥印拜陀",
+        "english": "Coimbatore",
+        "child": []
+      },
+      {
+        "name": "海德拉巴",
+        "english": "Hyderabad",
+        "child": []
+      },
+      {
+        "name": "贾巴尔普尔",
+        "english": "Jabalpur",
+        "child": []
+      },
+      {
+        "name": "加尔各答",
+        "english": "Kolkata",
+        "child": []
+      },
+      {
+        "name": "加济阿巴德",
+        "english": "Ghaziabad",
+        "child": []
+      },
+      {
+        "name": "贾朗达尔",
+        "english": "Jullundhar",
+        "child": []
+      },
+      {
+        "name": "贾姆纳格尔",
+        "english": "Jamnagar",
+        "child": []
+      },
+      {
+        "name": "金奈",
+        "english": "Chennai",
+        "child": []
+      },
+      {
+        "name": "焦特布尔",
+        "english": "Jodhpur",
+        "child": []
+      },
+      {
+        "name": "坎普尔",
+        "english": "Kanpur",
+        "child": []
+      },
+      {
+        "name": "科钦",
+        "english": "Cochin",
+        "child": []
+      },
+      {
+        "name": "克塔克",
+        "english": "Cuttack",
+        "child": []
+      },
+      {
+        "name": "赖布尔",
+        "english": "Raipur",
+        "child": []
+      },
+      {
+        "name": "卢迪亚纳",
+        "english": "Ludhiana",
+        "child": []
+      },
+      {
+        "name": "鲁尔克拉",
+        "english": "Rourkela",
+        "child": []
+      },
+      {
+        "name": "拉杰果德",
+        "english": "Rajkot",
+        "child": []
+      },
+      {
+        "name": "勒克瑙",
+        "english": "Lucknow",
+        "child": []
+      },
+      {
+        "name": "兰契",
+        "english": "Ranchi",
+        "child": []
+      },
+      {
+        "name": "马杜赖",
+        "english": "Madurai",
+        "child": []
+      },
+      {
+        "name": "马尔高",
+        "english": "Margao",
+        "child": []
+      },
+      {
+        "name": "芒格洛尔",
+        "english": "Mangalore",
+        "child": []
+      },
+      {
+        "name": "孟买",
+        "english": "Mumbai",
+        "child": []
+      },
+      {
+        "name": "迈索尔",
+        "english": "Mysore",
+        "child": []
+      },
+      {
+        "name": "那格浦尔",
+        "english": "Nagpur",
+        "child": []
+      },
+      {
+        "name": "诺伊达",
+        "english": "Noida",
+        "child": []
+      },
+      {
+        "name": "潘吉姆",
+        "english": "Panjim",
+        "child": []
+      },
+      {
+        "name": "浦那",
+        "english": "Pune",
+        "child": []
+      },
+      {
+        "name": "維沙哈巴南",
+        "english": "Visakhapatnam",
+        "child": []
+      },
+      {
+        "name": "塞康德拉巴德",
+        "english": "Secunderabad",
+        "child": []
+      },
+      {
+        "name": "苏拉",
+        "english": "Sura",
+        "child": []
+      },
+      {
+        "name": "塞勒姆",
+        "english": "Salem",
+        "child": []
+      },
+      {
+        "name": "斯利那加",
+        "english": "Srinagar",
+        "child": []
+      },
+      {
+        "name": "特里凡得琅",
+        "english": "Thiruvananthapuram",
+        "child": []
+      },
+      {
+        "name": "塔那",
+        "english": "Thane",
+        "child": []
+      },
+      {
+        "name": "乌代布尔",
+        "english": "Udaipur",
+        "child": []
+      },
+      {
+        "name": "维杰亚瓦达",
+        "english": "Vijayawada",
+        "child": []
+      },
+      {
+        "name": "韦洛尔",
+        "english": "Vellore",
+        "child": []
+      },
+      {
+        "name": "瓦拉纳西",
+        "english": "Varanasi",
+        "child": []
+      },
+      {
+        "name": "西隆",
+        "english": "Shillong",
+        "child": []
+      },
+      {
+        "name": "西里古里",
+        "english": "Siliguri",
+        "child": []
+      },
+      {
+        "name": "印多尔",
+        "english": "Indore",
+        "child": []
+      },
+      {
+        "name": "因帕尔",
+        "english": "Imphal",
+        "child": []
+      },
+      {
+        "name": "斋普尔",
+        "english": "Jaipur",
+        "child": []
+      },
+      {
+        "name": "詹谢普尔",
+        "english": "Jamshedpur",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "约旦",
+    "english": "JO",
+    "child": []
+  },
+  {
+    "name": "意大利",
+    "english": "IT",
+    "child": [
+      {
+        "name": "阿格里真托",
+        "english": "Agrigento",
+        "child": []
+      },
+      {
+        "name": "安科纳",
+        "english": "Ancona",
+        "child": []
+      },
+      {
+        "name": "奥里斯塔诺",
+        "english": "Oristano",
+        "child": []
+      },
+      {
+        "name": "阿雷佐",
+        "english": "Arezzo",
+        "child": []
+      },
+      {
+        "name": "阿斯蒂",
+        "english": "Asti",
+        "child": []
+      },
+      {
+        "name": "奥斯塔",
+        "english": "Aosta",
+        "child": []
+      },
+      {
+        "name": "波代诺内",
+        "english": "Pordenone",
+        "child": []
+      },
+      {
+        "name": "博尔扎诺",
+        "english": "Bolzano",
+        "child": []
+      },
+      {
+        "name": "贝加莫",
+        "english": "Bergamo",
+        "child": []
+      },
+      {
+        "name": "巴里",
+        "english": "Bari",
+        "child": []
+      },
+      {
+        "name": "布拉",
+        "english": "Biella",
+        "child": []
+      },
+      {
+        "name": "布林迪西",
+        "english": "Brindisi",
+        "child": []
+      },
+      {
+        "name": "巴勒莫",
+        "english": "Palermo",
+        "child": []
+      },
+      {
+        "name": "贝卢诺",
+        "english": "Belluno",
+        "child": []
+      },
+      {
+        "name": "博洛尼亚",
+        "english": "Bologna",
+        "child": []
+      },
+      {
+        "name": "布雷西亚",
+        "english": "Brescia",
+        "child": []
+      },
+      {
+        "name": "贝内文托",
+        "english": "Benevento",
+        "child": []
+      },
+      {
+        "name": "比萨",
+        "english": "Pisa",
+        "child": []
+      },
+      {
+        "name": "波坦察",
+        "english": "Potenza",
+        "child": []
+      },
+      {
+        "name": "都灵",
+        "english": "Turin",
+        "child": []
+      },
+      {
+        "name": "的里雅斯特",
+        "english": "Trieste",
+        "child": []
+      },
+      {
+        "name": "恩纳",
+        "english": "Enna",
+        "child": []
+      },
+      {
+        "name": "费尔莫",
+        "english": "Fermo",
+        "child": []
+      },
+      {
+        "name": "福贾",
+        "english": "Foggia",
+        "child": []
+      },
+      {
+        "name": "费拉拉",
+        "english": "Ferrara",
+        "child": []
+      },
+      {
+        "name": "佛罗伦萨",
+        "english": "Firenze",
+        "child": []
+      },
+      {
+        "name": "费辛隆尼",
+        "english": "Frosinone",
+        "child": []
+      },
+      {
+        "name": "戈里齐亚",
+        "english": "Gorizia",
+        "child": []
+      },
+      {
+        "name": "格罗塞托",
+        "english": "Grosseto",
+        "child": []
+      },
+      {
+        "name": "基耶蒂",
+        "english": "Chieti",
+        "child": []
+      },
+      {
+        "name": "坎波巴索",
+        "english": "Campobasso",
+        "child": []
+      },
+      {
+        "name": "克罗托内",
+        "english": "Crotone",
+        "child": []
+      },
+      {
+        "name": "科摩",
+        "english": "Como",
+        "child": []
+      },
+      {
+        "name": "库内奥",
+        "english": "Cuneo",
+        "child": []
+      },
+      {
+        "name": "科森扎",
+        "english": "Cosenza",
+        "child": []
+      },
+      {
+        "name": "拉丁",
+        "english": "Latina",
+        "child": []
+      },
+      {
+        "name": "洛迪",
+        "english": "Lodi",
+        "child": []
+      },
+      {
+        "name": "列蒂",
+        "english": "Rieti",
+        "child": []
+      },
+      {
+        "name": "拉古萨",
+        "english": "Ragusa",
+        "child": []
+      },
+      {
+        "name": "莱科",
+        "english": "Lecco",
+        "child": []
+      },
+      {
+        "name": "罗马",
+        "english": "Roma",
+        "child": []
+      },
+      {
+        "name": "里米尼",
+        "english": "Rimini",
+        "child": []
+      },
+      {
+        "name": "莱切",
+        "english": "Lecce",
+        "child": []
+      },
+      {
+        "name": "卢卡",
+        "english": "Lucca",
+        "child": []
+      },
+      {
+        "name": "罗维戈",
+        "english": "Rovigo",
+        "child": []
+      },
+      {
+        "name": "里窝那",
+        "english": "Livorno",
+        "child": []
+      },
+      {
+        "name": "拉文纳",
+        "english": "Ravenna",
+        "child": []
+      },
+      {
+        "name": "摩德纳",
+        "english": "Modena",
+        "child": []
+      },
+      {
+        "name": "米兰",
+        "english": "Milano",
+        "child": []
+      },
+      {
+        "name": "马切拉塔",
+        "english": "Macerata",
+        "child": []
+      },
+      {
+        "name": "马泰拉",
+        "english": "Matera",
+        "child": []
+      },
+      {
+        "name": "曼图亚",
+        "english": "Mantova",
+        "child": []
+      },
+      {
+        "name": "墨西拿",
+        "english": "Messina",
+        "child": []
+      },
+      {
+        "name": "努奥罗",
+        "english": "Nuoro",
+        "child": []
+      },
+      {
+        "name": "那不勒斯",
+        "english": "Naples",
+        "child": []
+      },
+      {
+        "name": "诺瓦拉",
+        "english": "Novara",
+        "child": []
+      },
+      {
+        "name": "帕多瓦",
+        "english": "Padova",
+        "child": []
+      },
+      {
+        "name": "帕尔马",
+        "english": "Parma",
+        "child": []
+      },
+      {
+        "name": "佩鲁贾",
+        "english": "Perugia",
+        "child": []
+      },
+      {
+        "name": "普拉托",
+        "english": "Prato",
+        "child": []
+      },
+      {
+        "name": "佩萨罗",
+        "english": "Pesaro",
+        "child": []
+      },
+      {
+        "name": "佩斯卡拉",
+        "english": "Pescara",
+        "child": []
+      },
+      {
+        "name": "皮斯托亚",
+        "english": "Pistoia",
+        "child": []
+      },
+      {
+        "name": "帕维亚",
+        "english": "Pavia",
+        "child": []
+      },
+      {
+        "name": "皮亚琴察",
+        "english": "Piacenza",
+        "child": []
+      },
+      {
+        "name": "卡利亚里",
+        "english": "Cagliari",
+        "child": []
+      },
+      {
+        "name": "卡塞塔",
+        "english": "Caserta",
+        "child": []
+      },
+      {
+        "name": "卡塔尼亚",
+        "english": "Catania",
+        "child": []
+      },
+      {
+        "name": "卡坦扎罗",
+        "english": "Catanzaro",
+        "child": []
+      },
+      {
+        "name": "热那亚",
+        "english": "Genova",
+        "child": []
+      },
+      {
+        "name": "松德里奥",
+        "english": "Sondrio",
+        "child": []
+      },
+      {
+        "name": "萨莱诺",
+        "english": "Salerno",
+        "child": []
+      },
+      {
+        "name": "萨萨里",
+        "english": "Sassari",
+        "child": []
+      },
+      {
+        "name": "萨沃纳",
+        "english": "Savona",
+        "child": []
+      },
+      {
+        "name": "特尔尼",
+        "english": "Terni",
+        "child": []
+      },
+      {
+        "name": "泰拉莫",
+        "english": "Teramo",
+        "child": []
+      },
+      {
+        "name": "特拉帕尼",
+        "english": "Trapani",
+        "child": []
+      },
+      {
+        "name": "塔兰托",
+        "english": "Taranto",
+        "child": []
+      },
+      {
+        "name": "特伦托",
+        "english": "Trento",
+        "child": []
+      },
+      {
+        "name": "特雷维索",
+        "english": "Treviso",
+        "child": []
+      },
+      {
+        "name": "乌迪内",
+        "english": "Udine",
+        "child": []
+      },
+      {
+        "name": "韦尔切利",
+        "english": "Vercelli",
+        "child": []
+      },
+      {
+        "name": "维罗纳",
+        "english": "Verona",
+        "child": []
+      },
+      {
+        "name": "瓦雷泽",
+        "english": "Varese",
+        "child": []
+      },
+      {
+        "name": "威尼斯",
+        "english": "Venice",
+        "child": []
+      },
+      {
+        "name": "维琴察",
+        "english": "Vicenza",
+        "child": []
+      },
+      {
+        "name": "维泰博",
+        "english": "Viterbo",
+        "child": []
+      },
+      {
+        "name": "锡拉库扎",
+        "english": "Syracuse",
+        "child": []
+      },
+      {
+        "name": "锡耶纳",
+        "english": "Siena",
+        "child": []
+      },
+      {
+        "name": "亚历山德里亚",
+        "english": "Alessandria",
+        "child": []
+      },
+      {
+        "name": "因佩里亚",
+        "english": "Imperia",
+        "child": []
+      },
+      {
+        "name": "伊塞尔尼亚",
+        "english": "Isernia",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "印度尼西亚",
+    "english": "ID",
+    "child": [
+      {
+        "name": "巴厘",
+        "english": "Bali",
+        "child": []
+      },
+      {
+        "name": "廖内",
+        "english": "Riau",
+        "child": []
+      },
+      {
+        "name": "明古鲁",
+        "english": "Bengkulu",
+        "child": []
+      },
+      {
+        "name": "马鲁古",
+        "english": "Maluku",
+        "child": []
+      },
+      {
+        "name": "楠榜",
+        "english": "Lampung",
+        "child": []
+      },
+      {
+        "name": "万丹",
+        "english": "Banten",
+        "child": []
+      },
+      {
+        "name": "亚齐",
+        "english": "Aceh",
+        "child": []
+      },
+      {
+        "name": "占碑",
+        "english": "Jambi",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "英国",
+    "english": "GB",
+    "child": [
+      {
+        "name": "苏格兰",
+        "english": "Scotland",
+        "child": [
+          {
+            "name": "阿伯丁",
+            "english": "Aberdeen",
+            "child": []
+          },
+          {
+            "name": "爱丁堡",
+            "english": "Edinburgh",
+            "child": []
+          },
+          {
+            "name": "丹迪",
+            "english": "Dundee",
+            "child": []
+          },
+          {
+            "name": "格拉斯哥",
+            "english": "Glasgow",
+            "child": []
+          },
+          {
+            "name": "斯特灵",
+            "english": "Stirling",
+            "child": []
+          },
+          {
+            "name": "因弗内斯",
+            "english": "Inverness",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "威尔士",
+        "english": "Wales",
+        "child": [
+          {
+            "name": "班戈",
+            "english": "Bangor",
+            "child": []
+          },
+          {
+            "name": "纽波特",
+            "english": "Newport",
+            "child": []
+          },
+          {
+            "name": "卡迪夫",
+            "english": "Cardiff",
+            "child": []
+          },
+          {
+            "name": "斯旺西",
+            "english": "Swansea",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "英格兰",
+        "english": "England",
+        "child": [
+          {
+            "name": "爱塞特",
+            "english": "Exeter",
+            "child": []
+          },
+          {
+            "name": "彼得伯勒",
+            "english": "Peterborough",
+            "child": []
+          },
+          {
+            "name": "布拉德福德",
+            "english": "Bradford",
+            "child": []
+          },
+          {
+            "name": "布里斯托尔",
+            "english": "Bristol",
+            "child": []
+          },
+          {
+            "name": "伯明翰",
+            "english": "Birmingham",
+            "child": []
+          },
+          {
+            "name": "巴斯",
+            "english": "Bath",
+            "child": []
+          },
+          {
+            "name": "德比",
+            "english": "Derby",
+            "child": []
+          },
+          {
+            "name": "德罕",
+            "english": "Durham",
+            "child": []
+          },
+          {
+            "name": "格洛斯特",
+            "english": "Gloucester",
+            "child": []
+          },
+          {
+            "name": "赫里福德",
+            "english": "Hereford",
+            "child": []
+          },
+          {
+            "name": "剑桥",
+            "english": "Cambridge",
+            "child": []
+          },
+          {
+            "name": "坎特伯雷",
+            "english": "Canterbury",
+            "child": []
+          },
+          {
+            "name": "考文垂",
+            "english": "Coventry",
+            "child": []
+          },
+          {
+            "name": "伦敦",
+            "english": "London",
+            "child": []
+          },
+          {
+            "name": "林肯",
+            "english": "Lincoln",
+            "child": []
+          },
+          {
+            "name": "兰开斯特",
+            "english": "Lancaster",
+            "child": []
+          },
+          {
+            "name": "里彭",
+            "english": "Ripon",
+            "child": []
+          },
+          {
+            "name": "利奇菲尔德",
+            "english": "Lichfield",
+            "child": []
+          },
+          {
+            "name": "列斯特",
+            "english": "Leicester",
+            "child": []
+          },
+          {
+            "name": "利物浦",
+            "english": "Liverpool",
+            "child": []
+          },
+          {
+            "name": "利茲",
+            "english": "Leeds",
+            "child": []
+          },
+          {
+            "name": "曼彻斯特",
+            "english": "Manchester",
+            "child": []
+          },
+          {
+            "name": "南安普敦",
+            "english": "Southampton",
+            "child": []
+          },
+          {
+            "name": "诺丁汉",
+            "english": "Nottingham",
+            "child": []
+          },
+          {
+            "name": "牛津",
+            "english": "Oxford",
+            "child": []
+          },
+          {
+            "name": "诺里奇",
+            "english": "Norwich",
+            "child": []
+          },
+          {
+            "name": "纽卡斯尔",
+            "english": "Newcastle",
+            "child": []
+          },
+          {
+            "name": "朴茨茅斯",
+            "english": "Portsmouth",
+            "child": []
+          },
+          {
+            "name": "普利茅斯",
+            "english": "Plymouth",
+            "child": []
+          },
+          {
+            "name": "普雷斯顿",
+            "english": "Preston",
+            "child": []
+          },
+          {
+            "name": "卡莱尔",
+            "english": "Carlisle",
+            "child": []
+          },
+          {
+            "name": "奇切斯特",
+            "english": "Chichester",
+            "child": []
+          },
+          {
+            "name": "切斯特",
+            "english": "Chester",
+            "child": []
+          },
+          {
+            "name": "桑德兰",
+            "english": "Sunderland",
+            "child": []
+          },
+          {
+            "name": "索尔斯堡",
+            "english": "Salisbury",
+            "child": []
+          },
+          {
+            "name": "索福特",
+            "english": "Salford",
+            "child": []
+          },
+          {
+            "name": "特鲁罗",
+            "english": "Truro",
+            "child": []
+          },
+          {
+            "name": "温彻斯特",
+            "english": "Winchester",
+            "child": []
+          },
+          {
+            "name": "伍尔弗汉普顿",
+            "english": "Wolverhampton",
+            "child": []
+          },
+          {
+            "name": "威尔斯",
+            "english": "Wells",
+            "child": []
+          },
+          {
+            "name": "韦克菲尔德",
+            "english": "Wakefield",
+            "child": []
+          },
+          {
+            "name": "伍斯特",
+            "english": "Worcester",
+            "child": []
+          },
+          {
+            "name": "谢菲尔德",
+            "english": "Sheffield",
+            "child": []
+          },
+          {
+            "name": "约克",
+            "english": "York",
+            "child": []
+          },
+          {
+            "name": "伊利",
+            "english": "Ely",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "伊朗",
+    "english": "IR",
+    "child": []
+  },
+  {
+    "name": "伊拉克",
+    "english": "IQ",
+    "child": []
+  },
+  {
+    "name": "也门",
+    "english": "YE",
+    "child": []
+  },
+  {
+    "name": "牙买加",
+    "english": "JM",
+    "child": []
+  },
+  {
+    "name": "亚美尼亚",
+    "english": "AM",
+    "child": []
+  },
+  {
+    "name": "越南",
+    "english": "VN",
+    "child": [
+      {
+        "name": "海防",
+        "english": "Haiphong",
+        "child": []
+      },
+      {
+        "name": "河内",
+        "english": "Hanoi",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "以色列",
+    "english": "IL",
+    "child": []
+  },
+  {
+    "name": "直布罗陀",
+    "english": "GI",
+    "child": []
+  },
+  {
+    "name": "赞比亚",
+    "english": "ZM",
+    "child": []
+  },
+  {
+    "name": "中非共和国",
+    "english": "CF",
+    "child": []
+  },
+  {
+    "name": "中国",
+    "english": "CN",
+    "child": [
+      {
+        "name": "安徽",
+        "english": "Anhui",
+        "child": [
+          {
+            "name": "安庆",
+            "english": "Anqing",
+            "child": []
+          },
+          {
+            "name": "蚌埠",
+            "english": "Bengbu",
+            "child": []
+          },
+          {
+            "name": "亳州",
+            "english": "Bozhou",
+            "child": []
+          },
+          {
+            "name": "巢湖",
+            "english": "Chaohu",
+            "child": []
+          },
+          {
+            "name": "滁州",
+            "english": "Chuzhou",
+            "child": []
+          },
+          {
+            "name": "池州",
+            "english": "Chizhou",
+            "child": []
+          },
+          {
+            "name": "阜阳",
+            "english": "Fuyang",
+            "child": []
+          },
+          {
+            "name": "淮北",
+            "english": "Huaibei",
+            "child": []
+          },
+          {
+            "name": "合肥",
+            "english": "Hefei",
+            "child": []
+          },
+          {
+            "name": "淮南",
+            "english": "Huainan",
+            "child": []
+          },
+          {
+            "name": "黄山",
+            "english": "Huangshan",
+            "child": []
+          },
+          {
+            "name": "六安",
+            "english": "Luan",
+            "child": []
+          },
+          {
+            "name": "马鞍山",
+            "english": "MOS",
+            "child": []
+          },
+          {
+            "name": "宿州",
+            "english": "Suzhou",
+            "child": []
+          },
+          {
+            "name": "铜陵",
+            "english": "Tongling",
+            "child": []
+          },
+          {
+            "name": "芜湖",
+            "english": "Wuhu",
+            "child": []
+          },
+          {
+            "name": "宣城",
+            "english": "Xuancheng",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "澳门",
+        "english": "Macao",
+        "child": [
+          {
+            "name": "大堂区",
+            "english": "Cathedral",
+            "child": []
+          },
+          {
+            "name": "氹仔",
+            "english": "Taipa",
+            "child": []
+          },
+          {
+            "name": "花地玛堂区",
+            "english": "Fatima",
+            "child": []
+          },
+          {
+            "name": "路环岛",
+            "english": "Coloane",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "北京",
+        "english": "Beijing",
+        "child": [
+          {
+            "name": "昌平",
+            "english": "Changping",
+            "child": []
+          },
+          {
+            "name": "朝阳",
+            "english": "Chaoyang",
+            "child": []
+          },
+          {
+            "name": "东城",
+            "english": "East",
+            "child": []
+          },
+          {
+            "name": "大兴",
+            "english": "Daxing",
+            "child": []
+          },
+          {
+            "name": "房山",
+            "english": "Fangshan",
+            "child": []
+          },
+          {
+            "name": "丰台",
+            "english": "Fengtai",
+            "child": []
+          },
+          {
+            "name": "海淀",
+            "english": "Haidian",
+            "child": []
+          },
+          {
+            "name": "怀柔",
+            "english": "Huairou",
+            "child": []
+          },
+          {
+            "name": "门头沟",
+            "english": "Mentougou",
+            "child": []
+          },
+          {
+            "name": "密云",
+            "english": "Miyun",
+            "child": []
+          },
+          {
+            "name": "平谷",
+            "english": "Pinggu",
+            "child": []
+          },
+          {
+            "name": "石景山",
+            "english": "Shijingshan",
+            "child": []
+          },
+          {
+            "name": "顺义",
+            "english": "Shunyi",
+            "child": []
+          },
+          {
+            "name": "通州",
+            "english": "Tongzhou",
+            "child": []
+          },
+          {
+            "name": "西城",
+            "english": "West",
+            "child": []
+          },
+          {
+            "name": "延庆",
+            "english": "Yanqing",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "重庆",
+        "english": "Chongqing",
+        "child": [
+          {
+            "name": "北碚",
+            "english": "Beibei",
+            "child": []
+          },
+          {
+            "name": "巴南",
+            "english": "Banan",
+            "child": []
+          },
+          {
+            "name": "璧山",
+            "english": "Bishan",
+            "child": []
+          },
+          {
+            "name": "城口",
+            "english": "Chengkou",
+            "child": []
+          },
+          {
+            "name": "长寿",
+            "english": "longevity",
+            "child": []
+          },
+          {
+            "name": "大渡口",
+            "english": "Dadukou",
+            "child": []
+          },
+          {
+            "name": "垫江",
+            "english": "Dianjiang",
+            "child": []
+          },
+          {
+            "name": "大足",
+            "english": "Dazu",
+            "child": []
+          },
+          {
+            "name": "丰都",
+            "english": "Fengdu",
+            "child": []
+          },
+          {
+            "name": "奉节",
+            "english": "Fengjie",
+            "child": []
+          },
+          {
+            "name": "涪陵",
+            "english": "Fuling",
+            "child": []
+          },
+          {
+            "name": "合川",
+            "english": "Aikawa",
+            "child": []
+          },
+          {
+            "name": "江北",
+            "english": "Jiangbei",
+            "child": []
+          },
+          {
+            "name": "江津",
+            "english": "Jiangjin",
+            "child": []
+          },
+          {
+            "name": "九龙坡",
+            "english": "Jiulongpo",
+            "child": []
+          },
+          {
+            "name": "开县",
+            "english": "Kaixian",
+            "child": []
+          },
+          {
+            "name": "梁平",
+            "english": "Liangping",
+            "child": []
+          },
+          {
+            "name": "南川",
+            "english": "Nanchuan",
+            "child": []
+          },
+          {
+            "name": "彭水",
+            "english": "Pengshui",
+            "child": []
+          },
+          {
+            "name": "綦江",
+            "english": "Qijiang",
+            "child": []
+          },
+          {
+            "name": "黔江",
+            "english": "Qianjiang",
+            "child": []
+          },
+          {
+            "name": "荣昌",
+            "english": "Rongchang",
+            "child": []
+          },
+          {
+            "name": "沙坪坝",
+            "english": "Shapingba",
+            "child": []
+          },
+          {
+            "name": "双桥",
+            "english": "Shuangqiao",
+            "child": []
+          },
+          {
+            "name": "石柱",
+            "english": "columns",
+            "child": []
+          },
+          {
+            "name": "铜梁",
+            "english": "Tongliang",
+            "child": []
+          },
+          {
+            "name": "潼南",
+            "english": "Tongnan",
+            "child": []
+          },
+          {
+            "name": "武隆",
+            "english": "Wulong",
+            "child": []
+          },
+          {
+            "name": "巫山",
+            "english": "Wushan",
+            "child": []
+          },
+          {
+            "name": "巫溪",
+            "english": "Wuxi",
+            "child": []
+          },
+          {
+            "name": "万州",
+            "english": "Wanzhou",
+            "child": []
+          },
+          {
+            "name": "秀山",
+            "english": "Xiushan",
+            "child": []
+          },
+          {
+            "name": "渝北",
+            "english": "Yubei",
+            "child": []
+          },
+          {
+            "name": "永川",
+            "english": "Yongchuan",
+            "child": []
+          },
+          {
+            "name": "酉阳",
+            "english": "Youyang",
+            "child": []
+          },
+          {
+            "name": "云阳",
+            "english": "Yunyang",
+            "child": []
+          },
+          {
+            "name": "渝中",
+            "english": "Yuzhong",
+            "child": []
+          },
+          {
+            "name": "忠县",
+            "english": "Zhongxian",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "福建",
+        "english": "Fujian",
+        "child": [
+          {
+            "name": "福州",
+            "english": "Fuzhou",
+            "child": []
+          },
+          {
+            "name": "龙岩",
+            "english": "Longyan",
+            "child": []
+          },
+          {
+            "name": "宁德",
+            "english": "Ningde",
+            "child": []
+          },
+          {
+            "name": "南平",
+            "english": "Nanping",
+            "child": []
+          },
+          {
+            "name": "莆田",
+            "english": "Putian",
+            "child": []
+          },
+          {
+            "name": "泉州",
+            "english": "Quanzhou",
+            "child": []
+          },
+          {
+            "name": "厦门",
+            "english": "Xiamen",
+            "child": []
+          },
+          {
+            "name": "三明",
+            "english": "Sanming",
+            "child": []
+          },
+          {
+            "name": "漳州",
+            "english": "Zhangzhou",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "广东",
+        "english": "Guangdong",
+        "child": [
+          {
+            "name": "潮州",
+            "english": "Chaozhou",
+            "child": []
+          },
+          {
+            "name": "东莞",
+            "english": "Dongguan",
+            "child": []
+          },
+          {
+            "name": "佛山",
+            "english": "Foshan",
+            "child": []
+          },
+          {
+            "name": "广州",
+            "english": "Guangzhou",
+            "child": []
+          },
+          {
+            "name": "河源",
+            "english": "Heyuan",
+            "child": []
+          },
+          {
+            "name": "惠州",
+            "english": "Huizhou",
+            "child": []
+          },
+          {
+            "name": "江门",
+            "english": "Jiangmen",
+            "child": []
+          },
+          {
+            "name": "揭阳",
+            "english": "Jieyang",
+            "child": []
+          },
+          {
+            "name": "茂名",
+            "english": "Maoming",
+            "child": []
+          },
+          {
+            "name": "梅州",
+            "english": "Meizhou",
+            "child": []
+          },
+          {
+            "name": "清远",
+            "english": "Qingyuan",
+            "child": []
+          },
+          {
+            "name": "韶关",
+            "english": "Shaoguan",
+            "child": []
+          },
+          {
+            "name": "汕头",
+            "english": "Shantou",
+            "child": []
+          },
+          {
+            "name": "汕尾",
+            "english": "Shanwei",
+            "child": []
+          },
+          {
+            "name": "深圳",
+            "english": "Shenzhen",
+            "child": []
+          },
+          {
+            "name": "云浮",
+            "english": "Yunfu",
+            "child": []
+          },
+          {
+            "name": "阳江",
+            "english": "Yangjiang",
+            "child": []
+          },
+          {
+            "name": "珠海",
+            "english": "Zhuhai",
+            "child": []
+          },
+          {
+            "name": "湛江",
+            "english": "Zhanjiang",
+            "child": []
+          },
+          {
+            "name": "肇庆",
+            "english": "Zhaoqing",
+            "child": []
+          },
+          {
+            "name": "中山",
+            "english": "Zhongshan",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "甘肃",
+        "english": "Gansu",
+        "child": [
+          {
+            "name": "白银",
+            "english": "Silver",
+            "child": []
+          },
+          {
+            "name": "定西",
+            "english": "Dingxi",
+            "child": []
+          },
+          {
+            "name": "甘南",
+            "english": "Gannan",
+            "child": []
+          },
+          {
+            "name": "金昌",
+            "english": "Jinchang",
+            "child": []
+          },
+          {
+            "name": "酒泉",
+            "english": "Jiuquan",
+            "child": []
+          },
+          {
+            "name": "嘉峪关",
+            "english": "Jiayuguan",
+            "child": []
+          },
+          {
+            "name": "陇南",
+            "english": "Longnan",
+            "child": []
+          },
+          {
+            "name": "临夏",
+            "english": "Linxia",
+            "child": []
+          },
+          {
+            "name": "兰州市",
+            "english": "Lanzhou",
+            "child": []
+          },
+          {
+            "name": "平凉",
+            "english": "Pingliang",
+            "child": []
+          },
+          {
+            "name": "庆阳",
+            "english": "Qingyang",
+            "child": []
+          },
+          {
+            "name": "武威",
+            "english": "Wuwei",
+            "child": []
+          },
+          {
+            "name": "张掖",
+            "english": "Zhangye",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "广西",
+        "english": "Guangxi",
+        "child": [
+          {
+            "name": "北海",
+            "english": "Beihai",
+            "child": []
+          },
+          {
+            "name": "百色",
+            "english": "Baise",
+            "child": []
+          },
+          {
+            "name": "崇左",
+            "english": "Chongzuo",
+            "child": []
+          },
+          {
+            "name": "防城港",
+            "english": "Fangchenggang",
+            "child": []
+          },
+          {
+            "name": "贵港",
+            "english": "Guigang",
+            "child": []
+          },
+          {
+            "name": "桂林",
+            "english": "Guilin",
+            "child": []
+          },
+          {
+            "name": "河池",
+            "english": "Hechi",
+            "child": []
+          },
+          {
+            "name": "贺州",
+            "english": "Hezhou",
+            "child": []
+          },
+          {
+            "name": "来宾",
+            "english": "guests",
+            "child": []
+          },
+          {
+            "name": "柳州",
+            "english": "Liuzhou",
+            "child": []
+          },
+          {
+            "name": "南宁",
+            "english": "Nanning",
+            "child": []
+          },
+          {
+            "name": "钦州",
+            "english": "Chow",
+            "child": []
+          },
+          {
+            "name": "梧州",
+            "english": "Wuzhou",
+            "child": []
+          },
+          {
+            "name": "玉林",
+            "english": "Yulin",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "贵州",
+        "english": "Guizhou",
+        "child": [
+          {
+            "name": "安顺",
+            "english": "Anshun",
+            "child": []
+          },
+          {
+            "name": "毕节",
+            "english": "Bijie",
+            "child": []
+          },
+          {
+            "name": "贵阳",
+            "english": "Guiyang",
+            "child": []
+          },
+          {
+            "name": "六盘水",
+            "english": "Liupanshui",
+            "child": []
+          },
+          {
+            "name": "黔东南",
+            "english": "Southeast",
+            "child": []
+          },
+          {
+            "name": "铜仁",
+            "english": "Tongren",
+            "child": []
+          },
+          {
+            "name": "遵义",
+            "english": "Lawrence",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "河北",
+        "english": "Hebei",
+        "child": [
+          {
+            "name": "保定",
+            "english": "Baoding",
+            "child": []
+          },
+          {
+            "name": "承德",
+            "english": "Chengde",
+            "child": []
+          },
+          {
+            "name": "沧州",
+            "english": "Cangzhou",
+            "child": []
+          },
+          {
+            "name": "邯郸",
+            "english": "Handan",
+            "child": []
+          },
+          {
+            "name": "衡水",
+            "english": "Hengshui",
+            "child": []
+          },
+          {
+            "name": "廊坊",
+            "english": "Langfang",
+            "child": []
+          },
+          {
+            "name": "秦皇岛",
+            "english": "Qinhuangdao",
+            "child": []
+          },
+          {
+            "name": "石家庄",
+            "english": "Shijiazhuang",
+            "child": []
+          },
+          {
+            "name": "唐山",
+            "english": "Tangshan",
+            "child": []
+          },
+          {
+            "name": "邢台",
+            "english": "Xingtai",
+            "child": []
+          },
+          {
+            "name": "张家口",
+            "english": "Zhangjiakou",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "湖北",
+        "english": "Hubei",
+        "child": [
+          {
+            "name": "恩施",
+            "english": "Enshi",
+            "child": []
+          },
+          {
+            "name": "鄂州",
+            "english": "Ezhou",
+            "child": []
+          },
+          {
+            "name": "黄冈",
+            "english": "Huanggang",
+            "child": []
+          },
+          {
+            "name": "黄石",
+            "english": "Yellowstone",
+            "child": []
+          },
+          {
+            "name": "荆门",
+            "english": "Jingmen",
+            "child": []
+          },
+          {
+            "name": "荆州",
+            "english": "Jingzhou",
+            "child": []
+          },
+          {
+            "name": "潜江",
+            "english": "Qianjiang",
+            "child": []
+          },
+          {
+            "name": "神农架",
+            "english": "Shennongjia",
+            "child": []
+          },
+          {
+            "name": "十堰",
+            "english": "Shiyan",
+            "child": []
+          },
+          {
+            "name": "随州",
+            "english": "Suizhou",
+            "child": []
+          },
+          {
+            "name": "天门",
+            "english": "Tianmen",
+            "child": []
+          },
+          {
+            "name": "武汉",
+            "english": "Wuhan",
+            "child": []
+          },
+          {
+            "name": "孝感",
+            "english": "Xiaogan",
+            "child": []
+          },
+          {
+            "name": "咸宁",
+            "english": "Xianning",
+            "child": []
+          },
+          {
+            "name": "仙桃",
+            "english": "Bristol",
+            "child": []
+          },
+          {
+            "name": "襄阳",
+            "english": "Yangyang",
+            "child": []
+          },
+          {
+            "name": "宜昌",
+            "english": "Yichang",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "黑龙江",
+        "english": "Heilongjiang",
+        "child": [
+          {
+            "name": "大庆",
+            "english": "Daqing",
+            "child": []
+          },
+          {
+            "name": "大兴安岭",
+            "english": "Mountains",
+            "child": []
+          },
+          {
+            "name": "哈尔滨",
+            "english": "Harbin",
+            "child": []
+          },
+          {
+            "name": "鹤岗",
+            "english": "Hegang",
+            "child": []
+          },
+          {
+            "name": "黑河",
+            "english": "Heihe",
+            "child": []
+          },
+          {
+            "name": "佳木斯",
+            "english": "Jiamusi",
+            "child": []
+          },
+          {
+            "name": "鸡西",
+            "english": "Jixi",
+            "child": []
+          },
+          {
+            "name": "牡丹江",
+            "english": "Mudanjiang",
+            "child": []
+          },
+          {
+            "name": "齐齐哈尔",
+            "english": "Qiqihar",
+            "child": []
+          },
+          {
+            "name": "七台河",
+            "english": "Qitaihe",
+            "child": []
+          },
+          {
+            "name": "绥化",
+            "english": "Suihua",
+            "child": []
+          },
+          {
+            "name": "双鸭山",
+            "english": "Shuangyashan",
+            "child": []
+          },
+          {
+            "name": "伊春",
+            "english": "Yichun",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "海南",
+        "english": "Hainan",
+        "child": [
+          {
+            "name": "保亭",
+            "english": "Baoting",
+            "child": []
+          },
+          {
+            "name": "昌江",
+            "english": "Changjiang",
+            "child": []
+          },
+          {
+            "name": "澄迈",
+            "english": "Chengmai",
+            "child": []
+          },
+          {
+            "name": "定安",
+            "english": "Honour",
+            "child": []
+          },
+          {
+            "name": "东方",
+            "english": "East",
+            "child": []
+          },
+          {
+            "name": "儋州",
+            "english": "Danzhou",
+            "child": []
+          },
+          {
+            "name": "海口",
+            "english": "Haikou",
+            "child": []
+          },
+          {
+            "name": "陵水",
+            "english": "Lingshui",
+            "child": []
+          },
+          {
+            "name": "琼海",
+            "english": "Qionghai",
+            "child": []
+          },
+          {
+            "name": "琼中",
+            "english": "Qiongzhong",
+            "child": []
+          },
+          {
+            "name": "三沙",
+            "english": "Sansha",
+            "child": []
+          },
+          {
+            "name": "三亚",
+            "english": "Sanya",
+            "child": []
+          },
+          {
+            "name": "屯昌",
+            "english": "Tunchang",
+            "child": []
+          },
+          {
+            "name": "文昌",
+            "english": "Wenchang",
+            "child": []
+          },
+          {
+            "name": "万宁",
+            "english": "Manning",
+            "child": []
+          },
+          {
+            "name": "五指山",
+            "english": "Fingers",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "河南",
+        "english": "Henan",
+        "child": [
+          {
+            "name": "安阳",
+            "english": "Anyang",
+            "child": []
+          },
+          {
+            "name": "鹤壁",
+            "english": "Hebi",
+            "child": []
+          },
+          {
+            "name": "济源",
+            "english": "Jiyuan",
+            "child": []
+          },
+          {
+            "name": "焦作",
+            "english": "Jiaozuo",
+            "child": []
+          },
+          {
+            "name": "开封",
+            "english": "Kaifeng",
+            "child": []
+          },
+          {
+            "name": "漯河",
+            "english": "Luohe",
+            "child": []
+          },
+          {
+            "name": "洛阳",
+            "english": "Luoyang",
+            "child": []
+          },
+          {
+            "name": "南阳",
+            "english": "Nanyang",
+            "child": []
+          },
+          {
+            "name": "平顶山",
+            "english": "mesa",
+            "child": []
+          },
+          {
+            "name": "濮阳",
+            "english": "Puyang",
+            "child": []
+          },
+          {
+            "name": "三门峡",
+            "english": "Sanmenxia",
+            "child": []
+          },
+          {
+            "name": "商丘",
+            "english": "Shangqiu",
+            "child": []
+          },
+          {
+            "name": "许昌",
+            "english": "Xuchang",
+            "child": []
+          },
+          {
+            "name": "新乡",
+            "english": "Xinxiang",
+            "child": []
+          },
+          {
+            "name": "信阳",
+            "english": "Xinyang",
+            "child": []
+          },
+          {
+            "name": "周口",
+            "english": "Zhoukou",
+            "child": []
+          },
+          {
+            "name": "驻马店",
+            "english": "Zhumadian",
+            "child": []
+          },
+          {
+            "name": "郑州",
+            "english": "Zhengzhou",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "湖南",
+        "english": "Hunan",
+        "child": [
+          {
+            "name": "常德",
+            "english": "Changde",
+            "child": []
+          },
+          {
+            "name": "长沙",
+            "english": "Changsha",
+            "child": []
+          },
+          {
+            "name": "郴州",
+            "english": "Chenzhou",
+            "child": []
+          },
+          {
+            "name": "怀化",
+            "english": "Huaihua",
+            "child": []
+          },
+          {
+            "name": "衡阳",
+            "english": "Hengyang",
+            "child": []
+          },
+          {
+            "name": "娄底",
+            "english": "Loudi",
+            "child": []
+          },
+          {
+            "name": "邵阳",
+            "english": "Shaoyang",
+            "child": []
+          },
+          {
+            "name": "湘潭",
+            "english": "Xiangtan",
+            "child": []
+          },
+          {
+            "name": "湘西",
+            "english": "Xiangxi",
+            "child": []
+          },
+          {
+            "name": "益阳",
+            "english": "Yiyang",
+            "child": []
+          },
+          {
+            "name": "岳阳",
+            "english": "Yueyang",
+            "child": []
+          },
+          {
+            "name": "永州",
+            "english": "Yongzhou",
+            "child": []
+          },
+          {
+            "name": "张家界",
+            "english": "Zhangjiajie",
+            "child": []
+          },
+          {
+            "name": "株洲",
+            "english": "Zhuzhou",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "吉林",
+        "english": "Jilin",
+        "child": [
+          {
+            "name": "长春",
+            "english": "Changchun",
+            "child": []
+          },
+          {
+            "name": "吉林",
+            "english": "Jilin",
+            "child": []
+          },
+          {
+            "name": "辽源",
+            "english": "Liaoyuan",
+            "child": []
+          },
+          {
+            "name": "四平",
+            "english": "Siping",
+            "child": []
+          },
+          {
+            "name": "松原",
+            "english": "Matsubara",
+            "child": []
+          },
+          {
+            "name": "通化",
+            "english": "Tonghua",
+            "child": []
+          },
+          {
+            "name": "延边",
+            "english": "Yanbian",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "江苏",
+        "english": "Jiangsu",
+        "child": [
+          {
+            "name": "常州",
+            "english": "Changzhou",
+            "child": []
+          },
+          {
+            "name": "淮安",
+            "english": "Huai",
+            "child": []
+          },
+          {
+            "name": "连云港",
+            "english": "Lianyungang",
+            "child": []
+          },
+          {
+            "name": "南京",
+            "english": "Nanjing",
+            "child": []
+          },
+          {
+            "name": "南通",
+            "english": "Nantong",
+            "child": []
+          },
+          {
+            "name": "宿迁",
+            "english": "Suqian",
+            "child": []
+          },
+          {
+            "name": "苏州",
+            "english": "Suzhou",
+            "child": []
+          },
+          {
+            "name": "泰州",
+            "english": "Taizhou",
+            "child": []
+          },
+          {
+            "name": "无锡",
+            "english": "Wuxi",
+            "child": []
+          },
+          {
+            "name": "徐州",
+            "english": "Xuzhou",
+            "child": []
+          },
+          {
+            "name": "盐城",
+            "english": "Yancheng",
+            "child": []
+          },
+          {
+            "name": "扬州",
+            "english": "Yangzhou",
+            "child": []
+          },
+          {
+            "name": "镇江",
+            "english": "Zhenjiang",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "江西",
+        "english": "Jiangxi",
+        "child": [
+          {
+            "name": "抚州",
+            "english": "Fuzhou",
+            "child": []
+          },
+          {
+            "name": "赣州",
+            "english": "Ganzhou",
+            "child": []
+          },
+          {
+            "name": "吉安",
+            "english": "Jian",
+            "child": []
+          },
+          {
+            "name": "景德镇",
+            "english": "Jingdezhen",
+            "child": []
+          },
+          {
+            "name": "九江",
+            "english": "Jiujiang",
+            "child": []
+          },
+          {
+            "name": "南昌",
+            "english": "Nanchang",
+            "child": []
+          },
+          {
+            "name": "萍乡",
+            "english": "Pingxiang",
+            "child": []
+          },
+          {
+            "name": "上饶",
+            "english": "Shangrao",
+            "child": []
+          },
+          {
+            "name": "新余",
+            "english": "Xinyu",
+            "child": []
+          },
+          {
+            "name": "宜春",
+            "english": "Yichun",
+            "child": []
+          },
+          {
+            "name": "鹰潭",
+            "english": "Yingtan",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "辽宁",
+        "english": "Liaoning",
+        "child": [
+          {
+            "name": "鞍山",
+            "english": "Anshan",
+            "child": []
+          },
+          {
+            "name": "本溪",
+            "english": "Benxi",
+            "child": []
+          },
+          {
+            "name": "朝阳",
+            "english": "Chaoyang",
+            "child": []
+          },
+          {
+            "name": "丹东",
+            "english": "Dandong",
+            "child": []
+          },
+          {
+            "name": "大连",
+            "english": "Dalian",
+            "child": []
+          },
+          {
+            "name": "抚顺",
+            "english": "Fushun",
+            "child": []
+          },
+          {
+            "name": "阜新",
+            "english": "Fuxin",
+            "child": []
+          },
+          {
+            "name": "葫芦岛",
+            "english": "Huludao",
+            "child": []
+          },
+          {
+            "name": "锦州",
+            "english": "Jinzhou",
+            "child": []
+          },
+          {
+            "name": "辽阳",
+            "english": "Liaoyang",
+            "child": []
+          },
+          {
+            "name": "盘锦",
+            "english": "Panjin",
+            "child": []
+          },
+          {
+            "name": "沈阳",
+            "english": "Shenyang",
+            "child": []
+          },
+          {
+            "name": "铁岭",
+            "english": "Tieling",
+            "child": []
+          },
+          {
+            "name": "营口",
+            "english": "Yingkou",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "宁夏",
+        "english": "Ningxia",
+        "child": [
+          {
+            "name": "固原",
+            "english": "Guyuan",
+            "child": []
+          },
+          {
+            "name": "石嘴山",
+            "english": "Shizuishan",
+            "child": []
+          },
+          {
+            "name": "吴忠",
+            "english": "Wuzhong",
+            "child": []
+          },
+          {
+            "name": "银川",
+            "english": "Yinchuan",
+            "child": []
+          },
+          {
+            "name": "中卫",
+            "english": "Zhongwei",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "青海",
+        "english": "Qinghai",
+        "child": [
+          {
+            "name": "果洛",
+            "english": "Guoluo",
+            "child": []
+          },
+          {
+            "name": "海北",
+            "english": "rambling",
+            "child": []
+          },
+          {
+            "name": "海东",
+            "english": "Haidong",
+            "child": []
+          },
+          {
+            "name": "海南",
+            "english": "Hainan",
+            "child": []
+          },
+          {
+            "name": "黄南",
+            "english": "Huangnan",
+            "child": []
+          },
+          {
+            "name": "海西",
+            "english": "Hercynian",
+            "child": []
+          },
+          {
+            "name": "西宁",
+            "english": "Xining",
+            "child": []
+          },
+          {
+            "name": "玉树",
+            "english": "Yushu",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "四川",
+        "english": "Sichuan",
+        "child": [
+          {
+            "name": "阿坝",
+            "english": "Aba",
+            "child": []
+          },
+          {
+            "name": "巴中",
+            "english": "Pakistan",
+            "child": []
+          },
+          {
+            "name": "成都",
+            "english": "Chengdu",
+            "child": []
+          },
+          {
+            "name": "德阳",
+            "english": "Deyang",
+            "child": []
+          },
+          {
+            "name": "达州",
+            "english": "Florida",
+            "child": []
+          },
+          {
+            "name": "广安",
+            "english": "Kwong",
+            "child": []
+          },
+          {
+            "name": "广元",
+            "english": "Guangyuan",
+            "child": []
+          },
+          {
+            "name": "甘孜",
+            "english": "Ganzi",
+            "child": []
+          },
+          {
+            "name": "乐山",
+            "english": "Leshan",
+            "child": []
+          },
+          {
+            "name": "凉山",
+            "english": "Liangshan",
+            "child": []
+          },
+          {
+            "name": "泸州",
+            "english": "Luzhou",
+            "child": []
+          },
+          {
+            "name": "眉山",
+            "english": "Meishan",
+            "child": []
+          },
+          {
+            "name": "绵阳",
+            "english": "Mianyang",
+            "child": []
+          },
+          {
+            "name": "南充",
+            "english": "Nanchong",
+            "child": []
+          },
+          {
+            "name": "内江",
+            "english": "Neijiang",
+            "child": []
+          },
+          {
+            "name": "攀枝花",
+            "english": "Panzhihua",
+            "child": []
+          },
+          {
+            "name": "遂宁",
+            "english": "Suining",
+            "child": []
+          },
+          {
+            "name": "雅安",
+            "english": "Yaan",
+            "child": []
+          },
+          {
+            "name": "宜宾",
+            "english": "Yibin",
+            "child": []
+          },
+          {
+            "name": "自贡",
+            "english": "Zigong",
+            "child": []
+          },
+          {
+            "name": "资阳",
+            "english": "Ziyang",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "山东",
+        "english": "Shandong",
+        "child": [
+          {
+            "name": "滨州",
+            "english": "Binzhou",
+            "child": []
+          },
+          {
+            "name": "东营",
+            "english": "Dongying",
+            "child": []
+          },
+          {
+            "name": "德州",
+            "english": "Texas",
+            "child": []
+          },
+          {
+            "name": "菏泽",
+            "english": "Heze",
+            "child": []
+          },
+          {
+            "name": "济南",
+            "english": "Jinan",
+            "child": []
+          },
+          {
+            "name": "济宁",
+            "english": "Jining",
+            "child": []
+          },
+          {
+            "name": "聊城",
+            "english": "Liaocheng",
+            "child": []
+          },
+          {
+            "name": "莱芜",
+            "english": "Laiwu",
+            "child": []
+          },
+          {
+            "name": "临沂",
+            "english": "Linyi",
+            "child": []
+          },
+          {
+            "name": "青岛",
+            "english": "Qingdao",
+            "child": []
+          },
+          {
+            "name": "日照",
+            "english": "Rizhao",
+            "child": []
+          },
+          {
+            "name": "泰安",
+            "english": "Taian",
+            "child": []
+          },
+          {
+            "name": "潍坊",
+            "english": "Weifang",
+            "child": []
+          },
+          {
+            "name": "威海",
+            "english": "Weihai",
+            "child": []
+          },
+          {
+            "name": "烟台",
+            "english": "Yantai",
+            "child": []
+          },
+          {
+            "name": "淄博",
+            "english": "Zibo",
+            "child": []
+          },
+          {
+            "name": "枣庄",
+            "english": "Zaozhuang",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "上海",
+        "english": "Shanghai",
+        "child": [
+          {
+            "name": "宝山",
+            "english": "Baoshan",
+            "child": []
+          },
+          {
+            "name": "崇明",
+            "english": "Chongming",
+            "child": []
+          },
+          {
+            "name": "长宁",
+            "english": "Changning",
+            "child": []
+          },
+          {
+            "name": "奉贤",
+            "english": "Fengxian",
+            "child": []
+          },
+          {
+            "name": "虹口",
+            "english": "Hongkou",
+            "child": []
+          },
+          {
+            "name": "黄浦",
+            "english": "Huangpu",
+            "child": []
+          },
+          {
+            "name": "静安",
+            "english": "Jing",
+            "child": []
+          },
+          {
+            "name": "嘉定",
+            "english": "Jiading",
+            "child": []
+          },
+          {
+            "name": "金山",
+            "english": "Jinshan",
+            "child": []
+          },
+          {
+            "name": "卢湾",
+            "english": "Luwan",
+            "child": []
+          },
+          {
+            "name": "闵行",
+            "english": "Minhang",
+            "child": []
+          },
+          {
+            "name": "普陀",
+            "english": "Po",
+            "child": []
+          },
+          {
+            "name": "青浦",
+            "english": "Qingpu",
+            "child": []
+          },
+          {
+            "name": "松江",
+            "english": "Songjiang",
+            "child": []
+          },
+          {
+            "name": "徐汇",
+            "english": "Xuhui",
+            "child": []
+          },
+          {
+            "name": "杨浦",
+            "english": "Yangpu",
+            "child": []
+          },
+          {
+            "name": "闸北",
+            "english": "Zhabei",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "陕西",
+        "english": "Shaanxi",
+        "child": [
+          {
+            "name": "安康",
+            "english": "Ankang",
+            "child": []
+          },
+          {
+            "name": "宝鸡",
+            "english": "Baoji",
+            "child": []
+          },
+          {
+            "name": "汉中",
+            "english": "Hanzhong",
+            "child": []
+          },
+          {
+            "name": "商洛",
+            "english": "Shangluo",
+            "child": []
+          },
+          {
+            "name": "铜川",
+            "english": "Tongchuan",
+            "child": []
+          },
+          {
+            "name": "渭南",
+            "english": "Weinan",
+            "child": []
+          },
+          {
+            "name": "咸阳",
+            "english": "Xianyang",
+            "child": []
+          },
+          {
+            "name": "延安",
+            "english": "Yanan",
+            "child": []
+          },
+          {
+            "name": "榆林",
+            "english": "Yulin",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "山西",
+        "english": "Shanxi",
+        "child": [
+          {
+            "name": "长治",
+            "english": "Changzhi",
+            "child": []
+          },
+          {
+            "name": "大同",
+            "english": "Datong",
+            "child": []
+          },
+          {
+            "name": "晋城",
+            "english": "Jincheng",
+            "child": []
+          },
+          {
+            "name": "晋中",
+            "english": "Jinzhong",
+            "child": []
+          },
+          {
+            "name": "临汾",
+            "english": "Linfen",
+            "child": []
+          },
+          {
+            "name": "吕梁",
+            "english": "Luliang",
+            "child": []
+          },
+          {
+            "name": "朔州",
+            "english": "Shuozhou",
+            "child": []
+          },
+          {
+            "name": "太原",
+            "english": "Taiyuan",
+            "child": []
+          },
+          {
+            "name": "忻州",
+            "english": "Xinzhou",
+            "child": []
+          },
+          {
+            "name": "运城",
+            "english": "Yuncheng",
+            "child": []
+          },
+          {
+            "name": "阳泉",
+            "english": "Yangquan",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "天津",
+        "english": "Tianjin",
+        "child": [
+          {
+            "name": "宝坻",
+            "english": "Baodi",
+            "child": []
+          },
+          {
+            "name": "东丽",
+            "english": "Toray",
+            "child": []
+          },
+          {
+            "name": "河北",
+            "english": "Hebei",
+            "child": []
+          },
+          {
+            "name": "河东",
+            "english": "east",
+            "child": []
+          },
+          {
+            "name": "和平",
+            "english": "Peace",
+            "child": []
+          },
+          {
+            "name": "河西",
+            "english": "west",
+            "child": []
+          },
+          {
+            "name": "静海",
+            "english": "Jinghai",
+            "child": []
+          },
+          {
+            "name": "津南",
+            "english": "Jinnan",
+            "child": []
+          },
+          {
+            "name": "蓟县",
+            "english": "Jixian",
+            "child": []
+          },
+          {
+            "name": "宁河",
+            "english": "Ninghe",
+            "child": []
+          },
+          {
+            "name": "南开",
+            "english": "Nankai",
+            "child": []
+          },
+          {
+            "name": "武清",
+            "english": "Wuqing",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "台湾",
+        "english": "Taiwan",
+        "child": [
+          {
+            "name": "台北市",
+            "english": "Taipei",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "西藏",
+        "english": "Tibet",
+        "child": [
+          {
+            "name": "阿里",
+            "english": "Ali",
+            "child": []
+          },
+          {
+            "name": "昌都",
+            "english": "Qamdo",
+            "child": []
+          },
+          {
+            "name": "拉萨",
+            "english": "Lhasa",
+            "child": []
+          },
+          {
+            "name": "林芝",
+            "english": "Nyingchi",
+            "child": []
+          },
+          {
+            "name": "那曲",
+            "english": "Nagqu",
+            "child": []
+          },
+          {
+            "name": "日喀则",
+            "english": "Shigatse",
+            "child": []
+          },
+          {
+            "name": "山南",
+            "english": "Shannan",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "新疆",
+        "english": "Xinjiang",
+        "child": [
+          {
+            "name": "阿克苏",
+            "english": "Aksu",
+            "child": []
+          },
+          {
+            "name": "阿拉尔",
+            "english": "Arar",
+            "child": []
+          },
+          {
+            "name": "阿勒泰",
+            "english": "Altay",
+            "child": []
+          },
+          {
+            "name": "博尔塔拉",
+            "english": "Bortala",
+            "child": []
+          },
+          {
+            "name": "巴音郭楞",
+            "english": "Bayingolin",
+            "child": []
+          },
+          {
+            "name": "昌吉",
+            "english": "Changji",
+            "child": []
+          },
+          {
+            "name": "哈密",
+            "english": "Hamilton",
+            "child": []
+          },
+          {
+            "name": "和田",
+            "english": "Hotan",
+            "child": []
+          },
+          {
+            "name": "克拉玛依",
+            "english": "Karamay",
+            "child": []
+          },
+          {
+            "name": "喀什",
+            "english": "Kashgar",
+            "child": []
+          },
+          {
+            "name": "克孜勒苏",
+            "english": "Kizilsu",
+            "child": []
+          },
+          {
+            "name": "石河子",
+            "english": "Shihezi",
+            "child": []
+          },
+          {
+            "name": "塔城",
+            "english": "Tacheng",
+            "child": []
+          },
+          {
+            "name": "吐鲁番",
+            "english": "Turpan",
+            "child": []
+          },
+          {
+            "name": "五家渠",
+            "english": "Wujiaqu",
+            "child": []
+          },
+          {
+            "name": "乌鲁木齐",
+            "english": "Urumqi",
+            "child": []
+          },
+          {
+            "name": "伊犁",
+            "english": "Ili",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "云南",
+        "english": "Yunnan",
+        "child": [
+          {
+            "name": "保山",
+            "english": "Baoshan",
+            "child": []
+          },
+          {
+            "name": "楚雄",
+            "english": "Chuxiong",
+            "child": []
+          },
+          {
+            "name": "德宏",
+            "english": "Devon",
+            "child": []
+          },
+          {
+            "name": "大理",
+            "english": "Dali",
+            "child": []
+          },
+          {
+            "name": "迪庆",
+            "english": "Diqing",
+            "child": []
+          },
+          {
+            "name": "红河",
+            "english": "Red",
+            "child": []
+          },
+          {
+            "name": "昆明",
+            "english": "Kunming",
+            "child": []
+          },
+          {
+            "name": "临沧",
+            "english": "Lincang",
+            "child": []
+          },
+          {
+            "name": "丽江",
+            "english": "Lijiang",
+            "child": []
+          },
+          {
+            "name": "怒江",
+            "english": "Nu",
+            "child": []
+          },
+          {
+            "name": "曲靖",
+            "english": "Qujing",
+            "child": []
+          },
+          {
+            "name": "文山",
+            "english": "Wenshan",
+            "child": []
+          },
+          {
+            "name": "西双版纳",
+            "english": "Xishuangbanna",
+            "child": []
+          },
+          {
+            "name": "玉溪",
+            "english": "Yuxi",
+            "child": []
+          },
+          {
+            "name": "昭通",
+            "english": "Zhaotong",
+            "child": []
+          }
+        ]
+      },
+      {
+        "name": "浙江",
+        "english": "Zhejiang",
+        "child": [
+          {
+            "name": "杭州",
+            "english": "Hangzhou",
+            "child": []
+          },
+          {
+            "name": "湖州",
+            "english": "Huzhou",
+            "child": []
+          },
+          {
+            "name": "金华",
+            "english": "Jinhua",
+            "child": []
+          },
+          {
+            "name": "嘉兴",
+            "english": "Jiaxing",
+            "child": []
+          },
+          {
+            "name": "丽水",
+            "english": "Lishui",
+            "child": []
+          },
+          {
+            "name": "宁波",
+            "english": "Ningbo",
+            "child": []
+          },
+          {
+            "name": "衢州",
+            "english": "Quzhou",
+            "child": []
+          },
+          {
+            "name": "绍兴",
+            "english": "Shaoxing",
+            "child": []
+          },
+          {
+            "name": "台州",
+            "english": "Taizhou",
+            "child": []
+          },
+          {
+            "name": "温州",
+            "english": "Wenzhou",
+            "child": []
+          },
+          {
+            "name": "舟山",
+            "english": "Zhoushan",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "澳门（中国）",
+    "english": "MO",
+    "child": [
+      {
+        "name": "大堂区",
+        "english": "Cathedral",
+        "child": []
+      },
+      {
+        "name": "氹仔",
+        "english": "Taipa",
+        "child": []
+      },
+      {
+        "name": "花地玛堂区",
+        "english": "Fatima",
+        "child": []
+      },
+      {
+        "name": "路环岛",
+        "english": "Coloane",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "台湾（中国）",
+    "english": "TW",
+    "child": [
+      {
+        "name": "台北市",
+        "english": "Taipei",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "香港（中国）",
+    "english": "HK",
+    "child": [
+      {
+        "name": "北区",
+        "english": "North",
+        "child": []
+      },
+      {
+        "name": "东区",
+        "english": "Eastern",
+        "child": []
+      },
+      {
+        "name": "离岛区",
+        "english": "Islands",
+        "child": []
+      },
+      {
+        "name": "南区",
+        "english": "Southern",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "智利",
+    "english": "CL",
+    "child": []
+  },
+  {
+    "name": "泽西岛",
+    "english": "JE",
+    "child": []
+  }
+]
